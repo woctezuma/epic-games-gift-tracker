@@ -145,23 +145,15 @@
         "value": "[]"
       },
       {
-        "key": "publisherName",
-        "value": "[]"
-      },
-      {
         "key": "com.epicgames.app.freegames.vault.open",
         "value": "[]"
       },
       {
-        "key": "developerName",
-        "value": "[]"
-      },
-      {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "lego-builders-journey"
       }
     ],
-    "description": "Mystery Game (Day 7)",
+    "description": "LEGO Builder\u2019s Journey is an atmospheric, geometric puzzle game that asks us to sometimes follow the instructions\u2026 and sometimes to break the rules.",
     "effectiveDate": "2099-01-01T00:00:00.000Z",
     "expiryDate": null,
     "id": "072443ae03a244eeab81f06705856b95",
@@ -179,7 +171,7 @@
       },
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day7-wrapped-desktop-carousel-image_1920x1080-96c98f39545940978aa0cbd91cb1fe7e"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day7-wrapped-desktop-carousel-image1_1920x1080-b038ba02f28c8155ed78a442b2720f1b"
       }
     ],
     "namespace": "d5241c76f178492ea1540fce45616757",
@@ -207,7 +199,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "lego-builders-journey",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -231,7 +223,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game",
+    "title": "LEGO\u00ae Builder's Journey",
     "url": null,
     "urlSlug": "mystery-game7"
   }
