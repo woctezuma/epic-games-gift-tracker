@@ -5,12 +5,6 @@
     },
     "categories": [
       {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
         "path": "games"
       },
       {
@@ -86,23 +80,7 @@
       }
     },
     "productSlug": "wolfenstein-the-new-order",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2022-12-21T16:00:00.000Z",
-              "startDate": "2022-12-20T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
@@ -201,8 +179,7 @@
     },
     "productSlug": "lego-builders-journey",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -215,7 +192,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
