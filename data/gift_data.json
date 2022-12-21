@@ -226,5 +226,127 @@
     "title": "LEGO\u00ae Builder's Journey",
     "url": null,
     "urlSlug": "mystery-game7"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "sales-and-specials/holiday-sale"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "[]"
+      }
+    ],
+    "description": "Mystery Game (Day 8)",
+    "effectiveDate": "2099-01-01T00:00:00.000Z",
+    "expiryDate": null,
+    "id": "6aba69dab07e40cd92b062cd21609f59",
+    "isCodeRedemptionOnly": true,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day8-wrapped-desktop-carousel-image1_1920x1080-1efd61a43a3a3d4abc32a214dd64d687"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day8-wrapped-desktop-carousel-image1_1920x1080-1efd61a43a3a3d4abc32a214dd64d687"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "[]",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2022-12-23T16:00:00.000Z",
+              "startDate": "2022-12-22T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Mystery Game",
+    "url": null,
+    "urlSlug": "mystery-game8"
   }
 ]
