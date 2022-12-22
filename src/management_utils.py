@@ -1,4 +1,4 @@
-from src.comparison_utils import sort_gifts, is_among_gifts
+from src.comparison_utils import is_among_gifts
 from src.time_utils import is_a_reliable_gift, copy_timestamps
 
 
@@ -10,5 +10,3 @@ def smart_merge_of_gifts(gifts, previous_gifts):
             # We are unsure whether the deletion of the previous gift is due to
             # a bug on Epic Games' side, so we prefer to keep the gift for now.
             gifts.append(gift)
-
-    return sort_gifts(gifts)
