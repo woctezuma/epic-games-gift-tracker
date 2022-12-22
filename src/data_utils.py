@@ -7,7 +7,9 @@ DISCORD_WEBHOOK_FNAME = f"{DATA_FOLDER}/discord_webhook.json"
 
 
 def load_gifts():
-    return load_json_failsafe(GIFT_DATA_FNAME)
+    data = load_json_failsafe(GIFT_DATA_FNAME)
+    add_timestamp_to_gifts(data)
+    return data
 
 
 def save_gifts(data, prettify=True):
