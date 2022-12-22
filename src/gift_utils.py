@@ -1,5 +1,5 @@
+from src.comparison_utils import is_among_gifts
 from src.discord_utils import post_message_to_discord_using_keyword
-from src.management_utils import is_among_gifts
 from src.message_utils import to_message
 from src.webhook_utils import WEBHOOK_KEYWORD_GIFT
 
