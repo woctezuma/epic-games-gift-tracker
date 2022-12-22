@@ -9,9 +9,10 @@ def get_time_now():
 
 
 def add_timestamp_to_gifts(gifts):
+    time_now = get_time_now().isoformat()
     for gift in gifts:
         if FIRST_SEEN_FIELD not in gift:
-            gift[FIRST_SEEN_FIELD] = get_time_now().isoformat()
+            gift[FIRST_SEEN_FIELD] = time_now
 
 
 def get_duration_since_first_seen(gift):
