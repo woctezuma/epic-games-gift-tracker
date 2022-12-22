@@ -12,7 +12,7 @@ def load_gifts():
 
 def save_gifts(data, prettify=True):
     add_timestamp_to_gifts(data)
-    return save_json(data, GIFT_DATA_FNAME, prettify=prettify)
+    save_json(data, GIFT_DATA_FNAME, prettify=prettify)
 
 
 def load_discord_webhook():
