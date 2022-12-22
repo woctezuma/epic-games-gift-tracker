@@ -8,8 +8,12 @@ def sort_gifts(gifts):
     return sorted(gifts, key=lambda x: x[SORTING_FIELD])
 
 
+def is_the_same_gift(first_gift, second_gift):
+    return first_gift[IDENTITY_FIELD] == second_gift[IDENTITY_FIELD]
+
+
 def is_among_gifts(gift, gifts):
-    return any(gift[IDENTITY_FIELD] == e[IDENTITY_FIELD] for e in gifts)
+    return any(is_the_same_gift(gift, e) for e in gifts)
 
 
 def smart_merge_of_gifts(gifts, previous_gifts):
