@@ -1,4 +1,5 @@
 from src.json_utils import load_json_failsafe, save_json
+from src.time_utils import add_timestamp_to_gifts
 
 DATA_FOLDER = "data"
 GIFT_DATA_FNAME = f"{DATA_FOLDER}/gift_data.json"
@@ -10,6 +11,7 @@ def load_gifts():
 
 
 def save_gifts(data, prettify=True):
+    add_timestamp_to_gifts(data)
     return save_json(data, GIFT_DATA_FNAME, prettify=prettify)
 
 
