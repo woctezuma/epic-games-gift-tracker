@@ -1,5 +1,7 @@
 from datetime import datetime, timezone
 
+from src.comparison_utils import is_the_same_gift
+
 FIRST_SEEN_FIELD = "firstSeenDate"
 THRESHOLD_IN_SECONDS = 3600
 
@@ -29,3 +31,9 @@ def get_duration_since_first_seen(gift):
 
 def is_a_reliable_gift(gift):
     return get_duration_since_first_seen(gift) > THRESHOLD_IN_SECONDS
+
+
+def copy_timestamps(source_gift, destination_gifts, field=FIRST_SEEN_FIELD):
+    for target_gift in destination_gifts:
+        if is_the_same_gift(source_gift, target_gift):
+            target_gift[field] = source_gift[field]
