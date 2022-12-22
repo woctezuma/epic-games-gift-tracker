@@ -12,7 +12,7 @@ def main():
 
     post_new_gifts_to_discord(gifts, previous_gifts)
 
-    smart_merge_of_gifts(gifts, previous_gifts)
+    gifts = smart_merge_of_gifts(gifts, previous_gifts)
     save_gifts(gifts)
 
 
