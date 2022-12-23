@@ -41,3 +41,7 @@ def parse_gift_wrapping_image_url_if_still_wrapped(gift):
         image_url = None
 
     return image_url
+
+
+def get_image_urls_of_intact_wrappings(gifts):
+    return [parse_gift_wrapping_image_url_if_still_wrapped(gift) for gift in gifts]
