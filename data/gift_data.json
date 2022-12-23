@@ -388,26 +388,18 @@
         "value": "[]"
       },
       {
-        "key": "publisherName",
-        "value": "[]"
-      },
-      {
         "key": "com.epicgames.app.freegames.vault.open",
         "value": "[]"
       },
       {
-        "key": "developerName",
-        "value": "[]"
-      },
-      {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "encased"
       }
     ],
-    "description": "Mystery Game (Day 9)",
+    "description": "A tactical sci-fi RPG set in an alt-1970's, where an enormous and inexplicable artifact \u2013the Dome\u2013 is discovered in a remote desert. Fight enemies, explore the anomalous wasteland, level up your character & join one of the forces in the ruined world.",
     "effectiveDate": "2099-01-01T00:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2022-12-22T21:13:34.859511+00:00",
+    "firstSeenDate": "2022-12-23T15:09:04.001430+00:00",
     "id": "75862eef65b94b8c87c652e73f01f165",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -418,16 +410,16 @@
     ],
     "keyImages": [
       {
-        "type": "DieselStoreFrontWide",
+        "type": "VaultClosed",
         "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day9-wrapped-desktop-carousel-image_1920x1080-6a9c25a8ada75548d1c27cad6505cd8f"
       },
       {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/15days-carousel-image_1200x1600-e918e40b8cfcaf3dee478a01f16e5302"
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day9-wrapped-desktop-carousel-image1_1920x1080-b90fb25c73408d477a357a1f7dbd2be7"
       },
       {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/15days-carousel-image_1200x1600-e918e40b8cfcaf3dee478a01f16e5302_1200x1600-e918e40b8cfcaf3dee478a01f16e5302"
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/15days-day9-mobile-carousel-image_1200x1600-e918e40b8cfcaf3dee478a01f16e5302"
       }
     ],
     "namespace": "d5241c76f178492ea1540fce45616757",
@@ -455,7 +447,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "encased",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -479,7 +471,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game",
+    "title": "Encased",
     "url": null,
     "urlSlug": "mystery-game9"
   }
