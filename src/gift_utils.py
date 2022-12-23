@@ -18,10 +18,9 @@ def post_new_gifts_to_discord(gifts, previous_gifts):
 
 
 def post_new_gift_wrapping_images_to_discord(gifts, previous_gifts):
-    image_urls = []
-    for gift in gifts:
-        if is_a_new_gift(gift, previous_gifts):
-            image_urls.append(parse_gift_wrapping_image_url_if_still_wrapped(gift))
+    image_urls = [
+        parse_gift_wrapping_image_url_if_still_wrapped(gift) for gift in gifts if is_a_new_gift(gift, previous_gifts)
+    ]
 
     for image_url in unique(image_urls):
         if image_url is not None:
