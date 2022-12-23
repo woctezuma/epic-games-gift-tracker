@@ -33,8 +33,8 @@ def parse_gift_wrapping_image_url_if_still_wrapped(gift):
     product_slug = gift.get(PRODUCT_SLUG_FIELD)
 
     if is_dummy_entry(product_slug):
-        image_url = None
-    else:
         image_url = parse_gift_wrapping_image_url(gift)
+    else:
+        image_url = None
 
     return image_url
