@@ -17,9 +17,8 @@ def post_new_gifts_to_discord(gifts, previous_gifts):
             message = to_message(gift, webhook_keyword=WEBHOOK_KEYWORD_GIFT)
             post_message_to_discord_using_keyword(message, webhook_keyword=WEBHOOK_KEYWORD_GIFT)
 
-            image_url = parse_gift_wrapping_image_url_if_still_wrapped(gift)
-            if image_url is not None:
-                image_urls.append(image_url)
+            image_urls.append(parse_gift_wrapping_image_url_if_still_wrapped(gift))
 
     for image_url in unique(image_urls):
-        post_message_to_discord_using_keyword(image_url, webhook_keyword=WEBHOOK_KEYWORD_WRAPPING)
+        if image_url is not None:
+            post_message_to_discord_using_keyword(image_url, webhook_keyword=WEBHOOK_KEYWORD_WRAPPING)
