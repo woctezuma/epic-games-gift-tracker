@@ -10,6 +10,11 @@ def is_dummy_entry(str_value):
     return str_value is None or len(str_value) == 0 or str_value == "[]"
 
 
+def is_still_wrapped(gift):
+    product_slug = gift.get(PRODUCT_SLUG_FIELD)
+    return is_dummy_entry(product_slug)
+
+
 def parse_meta_data(gift, max_length=MAX_LENGTH):
     return {field: gift[field][:max_length] for field in MAIN_FIELDS if not is_dummy_entry(gift.get(field))}
 
@@ -30,9 +35,7 @@ def parse_gift_wrapping_image_url(gift):
 
 
 def parse_gift_wrapping_image_url_if_still_wrapped(gift):
-    product_slug = gift.get(PRODUCT_SLUG_FIELD)
-
-    if is_dummy_entry(product_slug):
+    if is_still_wrapped(gift):
         image_url = parse_gift_wrapping_image_url(gift)
     else:
         image_url = None
