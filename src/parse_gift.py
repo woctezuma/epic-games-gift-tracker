@@ -5,15 +5,11 @@ ATTRIBUTE_FIELD = "customAttributes"
 
 
 def is_dummy_entry(str_value):
-    return str_value == "[]"
+    return str_value is None or len(str_value) == 0 or str_value == "[]"
 
 
 def parse_meta_data(gift, max_length=MAX_LENGTH):
-    return {
-        field: gift[field][:max_length]
-        for field in MAIN_FIELDS
-        if field in gift and gift[field] is not None and not is_dummy_entry(gift[field])
-    }
+    return {field: gift[field][:max_length] for field in MAIN_FIELDS if not is_dummy_entry(gift.get(field))}
 
 
 def parse_key_images(gift):
