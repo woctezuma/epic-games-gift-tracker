@@ -2,10 +2,12 @@ WEBHOOK_KEYWORD_NEW = "new"
 WEBHOOK_KEYWORD_FREE = "free"
 WEBHOOK_KEYWORD_TROPHY = "trophy"
 WEBHOOK_KEYWORD_GIFT = "gift"
+WEBHOOK_KEYWORD_WRAPPING = "wrapping"
 DISCORD_NEW_HEADER = "🆕👀"
 DISCORD_FREE_HEADER = "🆓👀"
 DISCORD_TROPHY_HEADER = "🏆👀"
 DISCORD_GIFT_HEADER = "🎁👀"
+DISCORD_WRAPPING_HEADER = "🎁🧠"
 
 
 def to_discord_header(webhook_keyword):
@@ -17,6 +19,8 @@ def to_discord_header(webhook_keyword):
         discord_header = DISCORD_TROPHY_HEADER
     elif webhook_keyword == WEBHOOK_KEYWORD_GIFT:
         discord_header = DISCORD_GIFT_HEADER
+    elif webhook_keyword == WEBHOOK_KEYWORD_WRAPPING:
+        discord_header = DISCORD_WRAPPING_HEADER
     else:
         discord_header = ""
 
