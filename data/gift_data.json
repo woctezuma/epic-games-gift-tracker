@@ -5,12 +5,6 @@
     },
     "categories": [
       {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
         "path": "games"
       },
       {
@@ -87,23 +81,7 @@
       }
     },
     "productSlug": "metro-last-light-redux",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2022-12-25T16:00:00.000Z",
-              "startDate": "2022-12-24T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
@@ -203,8 +181,7 @@
     },
     "productSlug": "death-stranding-directors-cut",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -217,7 +194,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
