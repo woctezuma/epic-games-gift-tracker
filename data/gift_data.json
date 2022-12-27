@@ -5,12 +5,6 @@
     },
     "categories": [
       {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
         "path": "games"
       },
       {
@@ -87,23 +81,7 @@
       }
     },
     "productSlug": "fist-forged-in-shadow-torch",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2022-12-27T16:00:00.000Z",
-              "startDate": "2022-12-26T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
@@ -203,8 +181,7 @@
     },
     "productSlug": "severed-steel",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -217,7 +194,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
