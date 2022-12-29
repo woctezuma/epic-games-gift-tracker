@@ -238,7 +238,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-01-05T16:00:00.000Z",
+              "id": "d41695d113f7429d85130a6f08cff1cb"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -246,11 +254,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -259,8 +267,7 @@
     },
     "productSlug": "eximius-seize-the-frontline",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -273,7 +280,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ra8f9wn37aqs6xhjtlykr3bzw4jjzh",
