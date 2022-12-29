@@ -238,7 +238,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-01-05T16:00:00.000Z",
+              "id": "d41695d113f7429d85130a6f08cff1cb"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -246,11 +254,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -259,8 +267,7 @@
     },
     "productSlug": "eximius-seize-the-frontline",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -273,7 +280,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ra8f9wn37aqs6xhjtlykr3bzw4jjzh",
@@ -309,7 +317,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "kerbal-space-program",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -369,7 +382,7 @@
       }
     ],
     "namespace": "ca0530b485754032be50cb6f27be0c2c",
-    "offerMappings": null,
+    "offerMappings": [],
     "offerType": "BASE_GAME",
     "price": {
       "lineOffers": [
@@ -428,126 +441,14 @@
       },
       {
         "id": "9547"
+      },
+      {
+        "id": "10719"
       }
     ],
     "title": "Kerbal Space Program",
     "url": null,
     "urlSlug": "kerbal-space-program"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "sales-and-specials/holiday-sale"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "mortal-shell"
-      }
-    ],
-    "description": "Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness and precision. Possess lost warriors, discover hidden sanctums, and face formidable foes.",
-    "effectiveDate": "2099-01-01T00:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2022-12-28T15:14:03.112721+00:00",
-    "id": "78b68bfc0ad44958ab889fb7851e30f2",
-    "isCodeRedemptionOnly": true,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day14-wrapped-desktop-carousel-image_1920x1080-0003c49d0aef9502af9b0af480ec46f9"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day14-wrapped-desktop-carousel-image1_1920x1080-a46f888a10bf003db4018690c7d3e298"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "mortal-shell",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2022-12-29T16:00:00.000Z",
-              "startDate": "2022-12-28T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Mortal Shell",
-    "url": null,
-    "urlSlug": "mystery-game14"
   },
   {
     "catalogNs": {
@@ -642,8 +543,7 @@
     },
     "productSlug": "dishonored-definitive-edition",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -656,7 +556,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
