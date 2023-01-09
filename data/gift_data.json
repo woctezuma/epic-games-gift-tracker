@@ -286,6 +286,178 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "gamedec",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Anshar Publishing"
+      },
+      {
+        "key": "developerName",
+        "value": "Anshar Studios"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "gamedec"
+      }
+    ],
+    "description": "Gamedec is a single-player cyberpunk isometric RPG. You are a game detective, who solves crimes inside virtual worlds. Use your wits to gather info from your witnesses and suspects, getting to the bottom of deceptive schemes. You are the sum of your choices.",
+    "effectiveDate": "2021-09-16T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-01-09T22:18:41.814493+00:00",
+    "id": "61d13d6fe0c84016a8bacd6fa14cab0e",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "b18e23cad8364d179f508329298b3494",
+        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S1_2560x1440-3d18c3f9ffe2ba4ca88305479f99d1be"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S1_2560x1440-3d18c3f9ffe2ba4ca88305479f99d1be"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
+      }
+    ],
+    "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "gamedec",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-01-19T16:00:00.000Z",
+              "startDate": "2023-01-12T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+      "name": "Anshar Studios"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21894"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "19242"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "16011"
+      },
+      {
+        "id": "15375"
+      },
+      {
+        "id": "18607"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "18777"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "18778"
+      },
+      {
+        "id": "24570"
+      },
+      {
+        "id": "1117"
+      }
+    ],
+    "title": "Gamedec - Definitive Edition",
+    "url": null,
+    "urlSlug": "gamedec-general-audience"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "kerbal-space-program",
           "pageType": "productHome"
         }
