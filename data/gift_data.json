@@ -147,13 +147,13 @@
     ],
     "title": "Divine Knockout",
     "url": null,
-    "urlSlug": "divine-knockout"
+    "urlSlug": "divine-knockout--standard"
   },
   {
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "epistory-typing-adventure-445794",
+          "pageSlug": "epistory-typing-chronicles-445794",
           "pageType": "productHome"
         }
       ]
@@ -219,7 +219,7 @@
     "namespace": "6a6d54e5b4ef4fb0b3dad1d02a320376",
     "offerMappings": [
       {
-        "pageSlug": "epistory-typing-adventure-445794",
+        "pageSlug": "epistory-typing-chronicles-445794",
         "pageType": "productHome"
       }
     ],
