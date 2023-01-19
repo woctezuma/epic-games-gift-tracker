@@ -151,156 +151,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "divine-knockout",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "divine-knockout--standard"
-      }
-    ],
-    "description": "KO the gods in the world\u2019s only 3rd-person platform fighter! Become a small-but-mighty god of myth, brawl in all three dimensions, and knock your friends off the map to reign supreme.",
-    "effectiveDate": "2023-01-12T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-01-12T15:32:06.789799+00:00",
-    "id": "dc74b788834e4a21b11bde1391143473",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "36cf80e87c314e4299f058e36a4ab81e",
-        "namespace": "1200aeb2f87c48349594d96554e2833d"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-LandscapeImage-2560x1440-Logo_2560x1440-0eff33cf210ca980da3a21556de35635"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-PortraitImage-1200x1600-Logo_1200x1600-48521a3b904dcf69a8360b7205a787b5"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-PortraitImage-1200x1600-Logo_1200x1600-48521a3b904dcf69a8360b7205a787b5"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-PortraitImage-1200x1600-Logo_1200x1600-927ff222ccc3fb0d423b9dcc82768dad"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-LandscapeImage-2560x1440-Logo_2560x1440-1586b0605f4c36caa684de0433f71f01"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-PortraitImage-1200x1600-Logo_1200x1600-927ff222ccc3fb0d423b9dcc82768dad"
-      }
-    ],
-    "namespace": "1200aeb2f87c48349594d96554e2833d",
-    "offerMappings": [
-      {
-        "pageSlug": "divine-knockout--standard",
-        "pageType": "offer"
-      }
-    ],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "divine-knockout--standard",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-01-19T16:00:00.000Z",
-              "startDate": "2023-01-12T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
-      "name": "Hi-Rez Studios"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1344"
-      },
-      {
-        "id": "21122"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1299"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "Divine Knockout",
-    "url": null,
-    "urlSlug": "divine-knockout--standard"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "epistory-typing-chronicles-445794",
           "pageType": "productHome"
         }
@@ -375,7 +225,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-01-26T16:00:00.000Z",
+              "id": "7ce4ff8d242f418b9380802c67d0e735"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -383,11 +241,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -396,8 +254,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -410,7 +267,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
@@ -434,334 +292,6 @@
     "title": "Epistory - Typing Chronicles",
     "url": null,
     "urlSlug": "e627683054b14bf1b1c7f4e8769eca54"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "first-class-trouble",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "first-class-trouble"
-      }
-    ],
-    "description": "First Class Trouble is a game where players work together and against each other to survive a disaster. The goal is to shut down a deadly A.I. Some players are impostors, secretly playing as human-looking killer robots intent on betraying the other players.\n",
-    "effectiveDate": "2022-09-22T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-01-05T16:05:13.279918+00:00",
-    "id": "7d9434b94bc74d25bdd9299b3d9f3e3e",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "7dd016625ba648c1855b89cc3389c6fe",
-        "namespace": "27834480410d4000a987b32801e9abba"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s2-1200x1600-c19b5d5496b1_1200x1600-b5a83139d665f8f17bd3d052e2aa7bbf"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s1-2560x1440-061767b6ed3f_2560x1440-5949bbfd7f9dd488810526905e93a0f1"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s2-1200x1600-c19b5d5496b1_1200x1600-b5a83139d665f8f17bd3d052e2aa7bbf"
-      }
-    ],
-    "namespace": "27834480410d4000a987b32801e9abba",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-01-19T16:00:00.000Z",
-              "id": "9668d51bf1f14bcfb88a61c856b85af7"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1499,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$14.99"
-        },
-        "originalPrice": 1499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "first-class-trouble",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-01-19T16:00:00.000Z",
-              "startDate": "2023-01-12T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
-      "name": "Versus Evil"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1296"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1110"
-      },
-      {
-        "id": "18777"
-      },
-      {
-        "id": "24570"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "18607"
-      }
-    ],
-    "title": "First Class Trouble",
-    "url": null,
-    "urlSlug": "first-class-trouble"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "gamedec",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Anshar Publishing"
-      },
-      {
-        "key": "developerName",
-        "value": "Anshar Studios"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "gamedec"
-      }
-    ],
-    "description": "Gamedec is a single-player cyberpunk isometric RPG. You are a game detective, who solves crimes inside virtual worlds. Use your wits to gather info from your witnesses and suspects, getting to the bottom of deceptive schemes. You are the sum of your choices.",
-    "effectiveDate": "2021-09-16T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-01-09T22:18:41.814493+00:00",
-    "id": "61d13d6fe0c84016a8bacd6fa14cab0e",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "b18e23cad8364d179f508329298b3494",
-        "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S1_2560x1440-3d18c3f9ffe2ba4ca88305479f99d1be"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S1_2560x1440-3d18c3f9ffe2ba4ca88305479f99d1be"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S2_1200x1600-d9d5b3cb95fd4efaa178bee267b63dd2"
-      }
-    ],
-    "namespace": "b8abdf9f9bc64ed6b4128a71fd47607f",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-01-19T16:00:00.000Z",
-              "id": "010a8d8c57da4033b343ae18791671fe"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "gamedec",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-01-19T16:00:00.000Z",
-              "startDate": "2023-01-12T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
-      "name": "Anshar Studios"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "21894"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "19242"
-      },
-      {
-        "id": "16011"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "15375"
-      },
-      {
-        "id": "18607"
-      },
-      {
-        "id": "1367"
-      },
-      {
-        "id": "18777"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "18778"
-      },
-      {
-        "id": "24570"
-      },
-      {
-        "id": "21147"
-      },
-      {
-        "id": "1117"
-      }
-    ],
-    "title": "Gamedec - Definitive Edition",
-    "url": null,
-    "urlSlug": "gamedec-general-audience"
   },
   {
     "catalogNs": {
