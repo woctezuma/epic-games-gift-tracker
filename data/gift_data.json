@@ -151,6 +151,205 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "borderlands-3",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "addons"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "addons/durable"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "SA"
+      },
+      {
+        "key": "publisherName",
+        "value": "2K"
+      },
+      {
+        "key": "developerName",
+        "value": "Gearbox Software"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "borderlands-3/season-pass"
+      }
+    ],
+    "description": "Continue your Borderlands 3 adventure with the Season Pass, featuring exclusive cosmetic items and four story campaign add-ons with new missions and challenges!",
+    "effectiveDate": "2019-09-11T12:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-01-20T09:43:32.991387+00:00",
+    "id": "c3913a91e07b43cfbbbcfd8244c86dcc",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "e9fdc1a9f47b4a5e8e63841c15de2b12",
+        "namespace": "catnip"
+      },
+      {
+        "id": "fbc46bb6056940d2847ee1e80037a9af",
+        "namespace": "catnip"
+      },
+      {
+        "id": "ff8e1152ddf742b68f9ac0cecd378917",
+        "namespace": "catnip"
+      },
+      {
+        "id": "939e660825764e208938ab4f26b4da56",
+        "namespace": "catnip"
+      },
+      {
+        "id": "4c43a9a691114ccd91c1884ab18f4e27",
+        "namespace": "catnip"
+      },
+      {
+        "id": "3a6a3f9b351b4b599808df3267669b83",
+        "namespace": "catnip"
+      },
+      {
+        "id": "ab030a9f53f3428fb2baf2ddbb0bb5ac",
+        "namespace": "catnip"
+      },
+      {
+        "id": "ff96eef22b0e4c498e8ed80ac0030325",
+        "namespace": "catnip"
+      },
+      {
+        "id": "5021e93a73374d6db1c1ce6c92234f8f",
+        "namespace": "catnip"
+      },
+      {
+        "id": "9c0b1eb3265340678dff0fcb106402b1",
+        "namespace": "catnip"
+      },
+      {
+        "id": "8c826db6e14f44aeac8816e1bd593632",
+        "namespace": "catnip"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/catnip/Diesel_productv2_borderlands-3_season-pass_BL3_SEASONPASS_Hero-3840x2160-4411e63a005a43811a2bc516ae7ec584598fd4aa-3840x2160-b8988ebb0f3d9159671e8968af991f30_3840x2160-b8988ebb0f3d9159671e8968af991f30"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/catnip/2KGMKT_BL3_Season_Pass_EGS_1200x1600_1200x1600-a7438a079c5576d328a74b9121278075"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/catnip/2KGMKT_BL3_Season_Pass_EGS_1200x1600_1200x1600-a7438a079c5576d328a74b9121278075"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/catnip/2KGMKT_BL3_Season_Pass_EGS_1200x1600_1200x1600-a7438a079c5576d328a74b9121278075"
+      }
+    ],
+    "namespace": "catnip",
+    "offerMappings": [
+      {
+        "pageSlug": "borderlands-3--season-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ],
+    "offerType": "DLC",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 4999,
+        "fmtPrice": {
+          "discountPrice": "$49.99",
+          "intermediatePrice": "$49.99",
+          "originalPrice": "$49.99"
+        },
+        "originalPrice": 4999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "borderlands-3/season-pass",
+    "promotions": null,
+    "seller": {
+      "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+      "name": "2K Games, Inc."
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "16004"
+      },
+      {
+        "id": "19242"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "16011"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1294"
+      },
+      {
+        "id": "15375"
+      },
+      {
+        "id": "18607"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "16979"
+      },
+      {
+        "id": "14869"
+      },
+      {
+        "id": "17493"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "18778"
+      }
+    ],
+    "title": "Borderlands 3 Season Pass",
+    "url": null,
+    "urlSlug": "borderlands-3--season-pass"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "epistory-typing-chronicles-445794",
           "pageType": "productHome"
         }
