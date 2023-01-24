@@ -189,9 +189,9 @@
       }
     ],
     "description": "Hell is Others is an extraction horror PVPVE top-down shooter. Outside the safety of your apartment lies the noir hellscape of Century City. A city of endless night that straddles the line between reality and insanity. Explore, hunt and loot in a place where blood is currency.",
-    "effectiveDate": "2099-01-01T00:00:00.000Z",
+    "effectiveDate": "2023-01-26T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2023-01-20T22:05:04.238727+00:00",
+    "firstSeenDate": "2023-01-24T19:35:10.763919+00:00",
     "id": "c1735ab5600741489a3ed30ed18c8b2f",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -270,9 +270,6 @@
     "tags": [
       {
         "id": "1203"
-      },
-      {
-        "id": "19847"
       },
       {
         "id": "1080"
@@ -436,7 +433,31 @@
       }
     },
     "productSlug": "borderlands-3/season-pass",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-02-09T16:00:00.000Z",
+              "startDate": "2023-01-26T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-02-09T16:00:00.000Z",
+              "startDate": "2023-01-26T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
       "name": "2K Games, Inc."
