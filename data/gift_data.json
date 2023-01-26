@@ -215,7 +215,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-02-02T16:00:00.000Z",
+              "id": "f8efaf91d9cd4a0bbad6a30680162a93"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -223,11 +231,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1799,
+        "discount": 1799,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$17.99",
-          "intermediatePrice": "$17.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$17.99"
         },
         "originalPrice": 1799,
@@ -236,8 +244,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -250,7 +257,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-g7mfghfrudhwtc3xa4qm9aeyfwr3q4",
@@ -371,7 +379,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-02-02T16:00:00.000Z",
+              "id": "882a7b6c136246a98c06dcb988f87f97"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -379,11 +395,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -392,8 +408,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -406,7 +421,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-hu7df4t3lr4taq6gyjq55bvd2lhg83",
@@ -559,7 +575,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-02-09T16:00:00.000Z",
+              "id": "74d53cdd18d944899d7d47a171c1e657"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -567,11 +591,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 4999,
+        "discount": 3500,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "$49.99",
-          "intermediatePrice": "$49.99",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$49.99"
         },
         "originalPrice": 4999,
@@ -580,8 +604,7 @@
     },
     "productSlug": "borderlands-3/season-pass",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -602,7 +625,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
@@ -875,15 +899,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-01-26T16:00:00.000Z",
-              "id": "7ce4ff8d242f418b9380802c67d0e735"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -891,11 +907,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -903,23 +919,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-01-26T16:00:00.000Z",
-              "startDate": "2023-01-19T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
       "name": "Plug In Digital SAS"
