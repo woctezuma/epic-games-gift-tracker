@@ -73,7 +73,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-02-09T16:00:00.000Z",
+              "id": "91082376f08646c7937af1a98e095b51"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -81,11 +89,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -94,8 +102,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -108,7 +115,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
@@ -215,15 +223,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-02-02T16:00:00.000Z",
-              "id": "f8efaf91d9cd4a0bbad6a30680162a93"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -231,11 +231,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1799,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1799,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$17.99",
+          "intermediatePrice": "$17.99",
           "originalPrice": "$17.99"
         },
         "originalPrice": 1799,
@@ -243,23 +243,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-02-02T16:00:00.000Z",
-              "startDate": "2023-01-26T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-g7mfghfrudhwtc3xa4qm9aeyfwr3q4",
       "name": "Mischief LLC"
@@ -379,15 +363,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-02-02T16:00:00.000Z",
-              "id": "882a7b6c136246a98c06dcb988f87f97"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -395,11 +371,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -407,23 +383,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-02-02T16:00:00.000Z",
-              "startDate": "2023-01-26T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-hu7df4t3lr4taq6gyjq55bvd2lhg83",
       "name": "A List Games"
@@ -885,7 +845,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-02-09T16:00:00.000Z",
+              "id": "fd1897e6e5024794ad13e4773659112e"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -893,11 +861,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -906,8 +874,7 @@
     },
     "productSlug": "dishonored-death-of-the-outsider",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -920,7 +887,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
