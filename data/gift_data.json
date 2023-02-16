@@ -74,8 +74,8 @@
               "discountSetting": {
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2023-02-16T16:00:00.000Z",
-              "id": "85fb0fd18e344ae3806c6f7c68e7abee"
+              "endDate": "2023-02-23T16:00:00.000Z",
+              "id": "82a33c64c5d84daba17e1cbeceef45e2"
             }
           ]
         }
@@ -85,11 +85,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1020,
-        "discountPrice": 679,
+        "discount": 1699,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$6.79",
-          "intermediatePrice": "$6.79",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$16.99"
         },
         "originalPrice": 1699,
@@ -103,20 +103,6 @@
           "promotionalOffers": [
             {
               "discountSetting": {
-                "discountPercentage": 40,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-02-16T16:00:00.000Z",
-              "startDate": "2023-02-02T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
@@ -125,7 +111,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
@@ -229,15 +216,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-02-16T16:00:00.000Z",
-              "id": "9b08f53a44a442a99f560b21bebf769c"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -245,11 +224,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1699,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1699,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$16.99",
+          "intermediatePrice": "$16.99",
           "originalPrice": "$16.99"
         },
         "originalPrice": 1699,
@@ -257,23 +236,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-02-16T16:00:00.000Z",
-              "startDate": "2023-02-09T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
       "name": "Kasedo Games Ltd"
