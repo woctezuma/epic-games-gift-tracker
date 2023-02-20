@@ -380,15 +380,15 @@
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-1y0k9.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-oqf9l.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-xqjr9.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-11vil.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-xqjr9.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-11vil.png"
       }
     ],
     "namespace": "f27cd07f948348dfb27165510c56c569",
@@ -453,9 +453,6 @@
       },
       {
         "id": "1115"
-      },
-      {
-        "id": "9547"
       },
       {
         "id": "1263"
