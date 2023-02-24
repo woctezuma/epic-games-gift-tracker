@@ -1,8 +1,11 @@
+from src.sort_utils import sort_promotions_inside_gifts
+
 SORTING_FIELD = "urlSlug"
 IDENTITY_FIELD = "title"
 
 
 def sort_gifts(gifts):
+    sort_promotions_inside_gifts(gifts)
     return sorted(gifts, key=lambda x: x[SORTING_FIELD])
 
 
