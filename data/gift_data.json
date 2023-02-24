@@ -141,7 +141,31 @@
       }
     },
     "productSlug": "borderlands-3/season-pass",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 25,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-16T16:00:00.000Z",
+              "startDate": "2023-03-09T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-16T16:00:00.000Z",
+              "startDate": "2023-03-09T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
       "name": "2K Games, Inc."
@@ -156,6 +180,9 @@
       },
       {
         "id": "14869"
+      },
+      {
+        "id": "26789"
       },
       {
         "id": "1367"
@@ -425,6 +452,14 @@
               },
               "endDate": "2023-03-09T16:00:00.000Z",
               "startDate": "2023-03-02T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 25,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-16T16:00:00.000Z",
+              "startDate": "2023-03-09T16:00:00.000Z"
             }
           ]
         }
@@ -436,6 +471,9 @@
     },
     "status": "ACTIVE",
     "tags": [
+      {
+        "id": "26789"
+      },
       {
         "id": "19847"
       },
