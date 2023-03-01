@@ -156,6 +156,22 @@
             },
             {
               "discountSetting": {
+                "discountPercentage": 25,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-16T16:00:00.000Z",
+              "startDate": "2023-03-09T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-16T16:00:00.000Z",
+              "startDate": "2023-03-09T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
                 "discountPercentage": 30,
                 "discountType": "PERCENTAGE"
               },
@@ -458,6 +474,14 @@
               },
               "endDate": "2023-03-09T16:00:00.000Z",
               "startDate": "2023-03-02T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 25,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-16T16:00:00.000Z",
+              "startDate": "2023-03-09T16:00:00.000Z"
             },
             {
               "discountSetting": {
