@@ -3,6 +3,156 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "tunche",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "Hypetrain Digital LTD"
+      },
+      {
+        "key": "developerName",
+        "value": "Leap Game Studios"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "tunche"
+      }
+    ],
+    "description": "Tunche",
+    "effectiveDate": "2021-11-02T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-03-23T13:15:16.232792+00:00",
+    "id": "1cfc3e68b14940719bbc0bce58fae8a4",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "da83f5f52d694659963e180263b23f12",
+        "namespace": "78683b0edafd4a978a5ab61a7f6b0594"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
+      }
+    ],
+    "namespace": "78683b0edafd4a978a5ab61a7f6b0594",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "tunche",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-06T15:00:00.000Z",
+              "startDate": "2023-03-30T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+      "name": "Hypetrain Digital"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "22737"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "Tunche",
+    "url": null,
+    "urlSlug": "astatinegeneralaudience"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "chess-ultra-91bba3",
           "pageType": "productHome"
         }
