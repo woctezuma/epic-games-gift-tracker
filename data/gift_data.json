@@ -115,6 +115,14 @@
               },
               "endDate": "2023-04-06T15:00:00.000Z",
               "startDate": "2023-03-30T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-20T15:00:00.000Z",
+              "startDate": "2023-04-06T15:00:00.000Z"
             }
           ]
         }
@@ -143,6 +151,9 @@
       },
       {
         "id": "9547"
+      },
+      {
+        "id": "15375"
       }
     ],
     "title": "Tunche",
@@ -227,7 +238,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-30T15:00:00.000Z",
+              "id": "5a2361254fe24e8b863732384bc1a26f"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -235,11 +254,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1299,
+        "discount": 1299,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$12.99",
-          "intermediatePrice": "$12.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$12.99"
         },
         "originalPrice": 1299,
@@ -248,8 +267,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -270,7 +288,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-fbx9l7z95axq9s73trhbttadbareuq",
@@ -286,6 +305,9 @@
       },
       {
         "id": "1283"
+      },
+      {
+        "id": "19847"
       },
       {
         "id": "1370"
@@ -446,7 +468,23 @@
       }
     },
     "productSlug": "borderlands-3/season-pass",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-20T15:00:00.000Z",
+              "startDate": "2023-04-06T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
       "name": "2K Games, Inc."
@@ -476,6 +514,9 @@
       },
       {
         "id": "1294"
+      },
+      {
+        "id": "15375"
       }
     ],
     "title": "Borderlands 3 Season Pass",
@@ -589,173 +630,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "warhammer-40000-gladius-relics-of-war",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "warhammer-40000-gladius-relics-of-war"
-      }
-    ],
-    "description": "Warhammer 40,000: Gladius \u2013 Relics of War is the first turn-based 4X strategy game set in the Warhammer 40,000 universe. Four factions will engage in a brutal war for dominance over the planet\u2019s resources.",
-    "effectiveDate": "2020-11-12T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-03-08T23:55:58.310870+00:00",
-    "id": "0fffb527a35441b08505c018dc1812bd",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "6bd9c4d3b210457f9b06663a70986eb0",
-        "namespace": "0d89655f53884b09b241b60c07e684af"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S1-2560x1440-961653d760b7d41a65a0c268be581870.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S2-1200x1600-351ed47f4fac3e92cc59805fd730a187.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S2-1200x1600-351ed47f4fac3e92cc59805fd730a187.jpg"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S2-1200x1600-351ed47f4fac3e92cc59805fd730a187.jpg"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S1-2560x1440-961653d760b7d41a65a0c268be581870.jpg"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S2-1200x1600-351ed47f4fac3e92cc59805fd730a187.jpg"
-      }
-    ],
-    "namespace": "0d89655f53884b09b241b60c07e684af",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-03-23T15:00:00.000Z",
-              "id": "ace443a6263f41d78c7cc293e9754d8b"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 3999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$39.99"
-        },
-        "originalPrice": 3999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "warhammer-40000-gladius-relics-of-war",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-03-23T15:00:00.000Z",
-              "startDate": "2023-03-16T15:00:00.000Z"
-            },
-            {
-              "discountSetting": {
-                "discountPercentage": 10,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-03-23T15:00:00.000Z",
-              "startDate": "2023-03-16T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
-      "name": "Slitherine Software UK Ltd."
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1264"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "21380"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "1386"
-      },
-      {
-        "id": "1115"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1166"
-      }
-    ],
-    "title": "Warhammer 40,000: Gladius - Relics of War",
-    "url": null,
-    "urlSlug": "warhammer-40000-gladius-relics-of-war"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "world-of-warships",
           "pageType": "productHome"
         }
@@ -821,7 +695,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-03-30T15:00:00.000Z",
+              "id": "22e7694349824d05b70e82747902901e"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -829,11 +711,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2347,
+        "discount": 2347,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$23.47",
-          "intermediatePrice": "$23.47",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$23.47"
         },
         "originalPrice": 2347,
@@ -842,8 +724,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -856,7 +737,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
