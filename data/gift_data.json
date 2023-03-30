@@ -527,6 +527,151 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "dying-light",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "DE"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "dying-light"
+      }
+    ],
+    "description": "Dying Light: Enhanced Edition is all you need to start your adventure in the post-apocalyptic world ruled by zombies. Featuring an expansion with the buggy\u2014your new ride, an additional game mode, two extra quarantine zones, and two bundles.",
+    "effectiveDate": "2022-02-28T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-03-30T14:35:48.408269+00:00",
+    "id": "1126e6bcac0549b0bda00be4a1f69327",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "af2b5fdab09e4c3fb372c03c6e67cbfa",
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/StoreVertical1200x16001_1200x1600-c3984f399a98d62bc56770577508b890"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/StoreHorizontal2560x14401_2560x1440-31926a8652d0c3b888809a778e138a3c"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/StoreVertical1200x16001_1200x1600-c3984f399a98d62bc56770577508b890"
+      }
+    ],
+    "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "dying-light",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-13T15:00:00.000Z",
+              "startDate": "2023-04-06T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-20T15:00:00.000Z",
+              "startDate": "2023-04-06T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+      "name": "Techland"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1307"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "Dying Light Enhanced Edition",
+    "url": null,
+    "urlSlug": "dying-light"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "the-silent-age-eb6972",
           "pageType": "productHome"
         }
