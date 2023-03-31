@@ -171,7 +171,8 @@
     ],
     "title": "Tunche",
     "url": null,
-    "urlSlug": "astatinegeneralaudience"
+    "urlSlug": "astatinegeneralaudience",
+    "viewableDate": null
   },
   {
     "catalogNs": {
@@ -311,7 +312,8 @@
     ],
     "title": "Blazing Sails",
     "url": null,
-    "urlSlug": "blazing-sails"
+    "urlSlug": "blazing-sails",
+    "viewableDate": "2023-03-30T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -508,7 +510,8 @@
     ],
     "title": "Borderlands 3 Season Pass",
     "url": null,
-    "urlSlug": "borderlands-3--season-pass"
+    "urlSlug": "borderlands-3--season-pass",
+    "viewableDate": null
   },
   {
     "catalogNs": {
@@ -662,7 +665,8 @@
     ],
     "title": "Dying Light Enhanced Edition",
     "url": null,
-    "urlSlug": "dying-light"
+    "urlSlug": "dying-light",
+    "viewableDate": "2022-02-28T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -810,7 +814,8 @@
     ],
     "title": "The Silent Age",
     "url": null,
-    "urlSlug": "e9bdfda4831a4c22b63b147aa11fa40a"
+    "urlSlug": "e9bdfda4831a4c22b63b147aa11fa40a",
+    "viewableDate": "2022-04-12T04:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -913,6 +918,7 @@
     "tags": [],
     "title": "Dishonored - Definitive Edition",
     "url": null,
-    "urlSlug": "mystery-game15"
+    "urlSlug": "mystery-game15",
+    "viewableDate": "2022-12-28T15:25:00.000Z"
   }
 ]
