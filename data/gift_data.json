@@ -178,147 +178,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "blazing-sails",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "blazing-sails"
-      }
-    ],
-    "description": "Fight for survival in Blazing Sails, a fast-paced pirate PvP game! Create your own unique pirate and ship. Band together with other players to command your mighty vessel! Explore different game-modes, maps, weapons, ship types and more while eliminating other crews in epic battles on land and sea!",
-    "effectiveDate": "2023-04-06T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-03-30T15:37:06.998373+00:00",
-    "id": "363d0be3b57d4741a046d38da0e6355e",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "30aec28f450a41499dd27e0d27294b56",
-        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S2_1200x1600-bae3831e97b560958dc785e830ebed8c"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S1_2560x1440-fd7a7b3d357555880cb7969634553c5b"
-      },
-      {
-        "type": "ProductLogo",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_IC1_400x400-a7b91f257fcbd9ced825d3da95298170"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S2_1200x1600-bae3831e97b560958dc785e830ebed8c"
-      }
-    ],
-    "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 1499,
-        "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
-          "originalPrice": "$14.99"
-        },
-        "originalPrice": 1499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "blazing-sails",
-    "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-06T12:00:00.000Z",
-              "startDate": "2023-03-23T12:00:00.000Z"
-            },
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-13T15:00:00.000Z",
-              "startDate": "2023-04-06T15:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    "seller": {
-      "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
-      "name": "Iceberg Interactive"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1264"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "Blazing Sails",
-    "url": null,
-    "urlSlug": "blazing-sails",
-    "viewableDate": "2023-03-30T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "borderlands-3",
           "pageType": "productHome"
         }
@@ -636,16 +495,40 @@
         "id": "1216"
       },
       {
-        "id": "1264"
+        "id": "21122"
+      },
+      {
+        "id": "1188"
       },
       {
         "id": "21894"
       },
       {
-        "id": "1367"
+        "id": "21127"
       },
       {
-        "id": "21127"
+        "id": "9547"
+      },
+      {
+        "id": "15375"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "1367"
       },
       {
         "id": "1370"
@@ -657,10 +540,10 @@
         "id": "21147"
       },
       {
-        "id": "9547"
+        "id": "21149"
       },
       {
-        "id": "21149"
+        "id": "21119"
       }
     ],
     "title": "Dying Light Enhanced Edition",
