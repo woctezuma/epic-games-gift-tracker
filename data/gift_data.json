@@ -790,6 +790,184 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "horizon-chase-turbo",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "AQUIRIS"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "horizon-chase-turbo"
+      }
+    ],
+    "description": "Horizon Chase Turbo is a racing game inspired by the great hits of the 80's and 90's. It recreates the classic arcade gameplay with unbound speed limits of fun. Full throttle on and enjoy!",
+    "effectiveDate": "2021-06-24T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-04-27T14:35:01.455869+00:00",
+    "id": "58a2b650955f4920876afe86dfb563c1",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "c5b7c792f9314d75a2508ec298a9e3b7",
+        "namespace": "253d451b16364a22907dd01b7e928fb6"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d"
+      }
+    ],
+    "namespace": "253d451b16364a22907dd01b7e928fb6",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "horizon-chase-turbo",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-05-11T15:00:00.000Z",
+              "startDate": "2023-05-04T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+      "name": "AQUIRIS"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21121"
+      },
+      {
+        "id": "1188"
+      },
+      {
+        "id": "21125"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1263"
+      },
+      {
+        "id": "21136"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "1299"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1212"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "Horizon Chase Turbo",
+    "url": null,
+    "urlSlug": "lutetiumgeneralaudience",
+    "viewableDate": "2021-06-17T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "never-alone-kisima-ingitchuna",
           "pageType": "productHome"
         }
