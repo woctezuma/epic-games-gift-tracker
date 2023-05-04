@@ -270,7 +270,28 @@
           ]
         }
       ],
-      "upcomingPromotionalOffers": []
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-15T15:00:00.000Z",
+              "startDate": "2023-05-18T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-15T15:00:00.000Z",
+              "startDate": "2023-05-18T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
     },
     "seller": {
       "id": "o-jryv47hwccq9qf7cya65lg9wz4sk33",
@@ -289,6 +310,9 @@
       },
       {
         "id": "1370"
+      },
+      {
+        "id": "16011"
       },
       {
         "id": "9547"
@@ -447,7 +471,31 @@
       }
     },
     "productSlug": "borderlands-3/season-pass",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-15T15:00:00.000Z",
+              "startDate": "2023-05-18T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 30,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-15T15:00:00.000Z",
+              "startDate": "2023-05-18T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
       "name": "2K Games, Inc."
@@ -468,6 +516,9 @@
       },
       {
         "id": "1370"
+      },
+      {
+        "id": "16011"
       },
       {
         "id": "9547"
@@ -608,7 +659,28 @@
           ]
         }
       ],
-      "upcomingPromotionalOffers": []
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-15T15:00:00.000Z",
+              "startDate": "2023-05-18T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-15T15:00:00.000Z",
+              "startDate": "2023-05-18T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
     },
     "seller": {
       "id": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
@@ -630,6 +702,9 @@
       },
       {
         "id": "19847"
+      },
+      {
+        "id": "16011"
       },
       {
         "id": "9547"
@@ -669,147 +744,6 @@
     "url": null,
     "urlSlug": "lutetiumgeneralaudience",
     "viewableDate": "2021-06-17T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "breathedge",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "publisherName",
-        "value": "HypeTrain Digital"
-      },
-      {
-        "key": "developerName",
-        "value": "RedRuins Softworks"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "breathedge"
-      }
-    ],
-    "description": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
-    "effectiveDate": "2021-02-25T18:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-04-20T14:31:12.103257+00:00",
-    "id": "8401414902e84f2cb9afa9142f051d32",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "a07c7f65867e435dac277e0284e19a5a",
-        "namespace": "08ae29e4f70a4b62aa055e383381aa82"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
-      }
-    ],
-    "namespace": "08ae29e4f70a4b62aa055e383381aa82",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 2499,
-        "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
-          "originalPrice": "$24.99"
-        },
-        "originalPrice": 2499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "breathedge",
-    "promotions": null,
-    "seller": {
-      "id": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
-      "name": "Hypetrain Digital"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1281"
-      },
-      {
-        "id": "22737"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "1080"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      }
-    ],
-    "title": "Breathedge",
-    "url": null,
-    "urlSlug": "osmiumgeneralaudience",
-    "viewableDate": "2021-02-09T17:00:00.000Z"
   },
   {
     "catalogNs": {
