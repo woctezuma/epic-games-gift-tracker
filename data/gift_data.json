@@ -902,7 +902,12 @@
       }
     ],
     "namespace": "2a14cf8a83b149919a2399504e5686a6",
-    "offerMappings": [],
+    "offerMappings": [
+      {
+        "pageSlug": "the-sims-4--the-daring-lifestyle-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ],
     "offerType": "DLC",
     "price": {
       "lineOffers": [
