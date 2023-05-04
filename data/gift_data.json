@@ -810,5 +810,159 @@
     "url": null,
     "urlSlug": "osmiumgeneralaudience",
     "viewableDate": "2021-02-09T17:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "the-sims-4",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "addons"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "addons/dlc"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [],
+    "description": "Seek adventure \u2013 and adventurous fashion! \u2013 with this free bundle containing The Sims\u2122 4 Jungle Adventure Game Pack, The Sims\u2122 4 Luxury Party Stuff Pack, and The Sims\u2122 4 Fashion Street Kit.",
+    "effectiveDate": "2023-05-11T15:00:00.000Z",
+    "expiryDate": "2023-05-18T15:00:00.000Z",
+    "firstSeenDate": "2023-05-04T15:02:47.435810+00:00",
+    "id": "775ed1fc57894e50a0dad2d82f2a6202",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "d9ec35e0f2834fde86f812ff7fa8b9af",
+        "namespace": "2a14cf8a83b149919a2399504e5686a6"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_S2_1200x1600-74a227fd4212f19ec6370f5c891b0026"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_S2_1200x1600-74a227fd4212f19ec6370f5c891b0026"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_S1_2560x1440-1e11cf4a08a3fbc87660e4867c74d016"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_S2_1200x1600-74a227fd4212f19ec6370f5c891b0026"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_S1_2560x1440-1e11cf4a08a3fbc87660e4867c74d016"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_S2_1200x1600-74a227fd4212f19ec6370f5c891b0026"
+      },
+      {
+        "type": "ProductLogo",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_IC1_200x200-d879fd5ccd41234663044d94e964e724"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_G1A_00_1920x1080-882ac7d95fdcc4ffa75f35ffd3e64cdc"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_G1A_01_1920x1080-e26fc9ed5f5c2d0e391b222ee5f01317"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_G1A_02_1920x1080-1822a0e359470983c0b56f4271aa44af"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_G1A_03_1920x1080-92ea4fdf5f90a4ccbf39877e68c57108"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_G1A_04_1920x1080-5bb1c0b468628be48441d2de026c477b"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_G1A_05_1920x1080-1a11ee1355f0d61229aa958d0b474289"
+      }
+    ],
+    "namespace": "2a14cf8a83b149919a2399504e5686a6",
+    "offerMappings": [],
+    "offerType": "DLC",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-05-18T15:00:00.000Z",
+              "startDate": "2023-05-11T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+      "name": "Electronic Arts"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1393"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "The Sims\u2122 4 The Daring Lifestyle Bundle",
+    "url": null,
+    "urlSlug": "the-sims-4--the-daring-lifestyle-bundle",
+    "viewableDate": "2023-05-04T15:00:00.000Z"
   }
 ]
