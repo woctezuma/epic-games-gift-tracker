@@ -83,7 +83,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-27T15:00:00.000Z",
+              "id": "e5c5f6e73c4c410a925f239061e61c68"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -91,11 +99,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -104,8 +112,7 @@
     },
     "productSlug": "beyond-blue",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -118,7 +125,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
@@ -272,15 +280,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "id": "c3eff977ba49449eaff66f63cf60dafe"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -288,11 +288,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 3500,
-        "discountPrice": 1499,
+        "discount": 0,
+        "discountPrice": 4999,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$49.99",
+          "intermediatePrice": "$49.99",
           "originalPrice": "$49.99"
         },
         "originalPrice": 4999,
@@ -300,23 +300,7 @@
       }
     },
     "productSlug": "borderlands-3/season-pass",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 30,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "startDate": "2023-04-06T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
       "name": "2K Games, Inc."
@@ -346,154 +330,12 @@
       },
       {
         "id": "1294"
-      },
-      {
-        "id": "15375"
       }
     ],
     "title": "Borderlands 3 Season Pass",
     "url": null,
     "urlSlug": "borderlands-3--season-pass",
     "viewableDate": null
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "mordhau",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "application"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "mordhau"
-      }
-    ],
-    "description": "MORDHAU is a multiplayer medieval slasher. Create your mercenary and fight in brutal battles where you will experience fast paced combat, castle sieges, cavalry charges, and more.",
-    "effectiveDate": "2023-04-13T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-04-06T16:06:08.851434+00:00",
-    "id": "7f89db821ab1441981adb4daf31c06db",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "7372d6078a3940498d2944ed7bc1e6b2",
-        "namespace": "2bda08f9230144a19e98373cc4a6ac2d"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S2_1200x1600-3c795e67d44f02e4127ed4df435560f3"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S1_2560x1440-572876bb8bcb903e5c33235b7eba8797"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S2_1200x1600-3c795e67d44f02e4127ed4df435560f3"
-      }
-    ],
-    "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "id": "fd7221953dd0437fa13d9294dde2d91a"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "mordhau",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "startDate": "2023-04-13T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-tvu5xuu383665htjt4wez2tgl45exq",
-      "name": "Triternion"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1264"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1299"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "MORDHAU",
-    "url": null,
-    "urlSlug": "mordhau",
-    "viewableDate": "2023-04-06T14:55:00.000Z"
   },
   {
     "catalogNs": {
@@ -567,7 +409,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-27T15:00:00.000Z",
+              "id": "16d9f59c85ca4c7ea83ced0616e2281b"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -575,11 +425,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -588,8 +438,7 @@
     },
     "productSlug": "never-alone-kisima-ingitchuna",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -602,7 +451,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
@@ -715,15 +565,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "id": "017c9e7c16864dc6a21f95aacf024667"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -731,11 +573,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1500,
-        "discountPrice": 999,
+        "discount": 0,
+        "discountPrice": 2499,
         "fmtPrice": {
-          "discountPrice": "$9.99",
-          "intermediatePrice": "$9.99",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -744,20 +586,7 @@
     },
     "productSlug": "breathedge",
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 40,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "startDate": "2023-04-06T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -802,174 +631,11 @@
       },
       {
         "id": "9549"
-      },
-      {
-        "id": "15375"
       }
     ],
     "title": "Breathedge",
     "url": null,
     "urlSlug": "osmiumgeneralaudience",
     "viewableDate": "2021-02-09T17:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "second-extinction",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "publisherName",
-        "value": "Systemic Reaction\u2122"
-      },
-      {
-        "key": "developerName",
-        "value": "Systemic Reaction\u2122"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "second-extinction"
-      }
-    ],
-    "description": "Big map. Big dinosaurs. Big guns.\nFace an ever changing threat level with your friends.\nSecond Extinction is an online co-op FPS with a bite.",
-    "effectiveDate": "2021-09-30T12:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-04-06T16:06:08.851434+00:00",
-    "id": "f9daa3f1cd024908a2d8ef404a6b305d",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "03698aa20d7240aaa6aa4f4dbee277ec",
-        "namespace": "fcd3387b58864614b66952d0430d2b9a"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/fcd3387b58864614b66952d0430d2b9a/EGS_SecondExtinction_SystemicReaction_S1_2560x1440-4a9d265c505b45c75b65916c366f5fca"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/fcd3387b58864614b66952d0430d2b9a/SE_Epic_Portrait_Product_S2_1200x16001_1200x1600-8a67e373e3462b41f38e61142c103d03"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/fcd3387b58864614b66952d0430d2b9a/SE_Epic_Portrait_Product_S2_1200x16001_1200x1600-8a67e373e3462b41f38e61142c103d03"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/fcd3387b58864614b66952d0430d2b9a/SE_Epic_Portrait_Product_S2_1200x16001_1200x1600-8a67e373e3462b41f38e61142c103d03"
-      }
-    ],
-    "namespace": "fcd3387b58864614b66952d0430d2b9a",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "id": "521d89b2f9644f85b738975b12f59855"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2499,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$24.99"
-        },
-        "originalPrice": 2499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "second-extinction",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "startDate": "2023-04-13T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-4gvyc6bwfz49sqpgk6ylt9g5ddexuy",
-      "name": "Systemic Reaction"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1264"
-      },
-      {
-        "id": "1185"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "21109"
-      },
-      {
-        "id": "1210"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1294"
-      },
-      {
-        "id": "1310"
-      }
-    ],
-    "title": "Second Extinction\u2122",
-    "url": null,
-    "urlSlug": "second-extinction",
-    "viewableDate": "2021-09-30T12:00:00.000Z"
   }
 ]
