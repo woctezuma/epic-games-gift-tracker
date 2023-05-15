@@ -69,7 +69,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-13T15:00:00.000Z",
+              "id": "39063775a05349619f42dc71ee3ae530"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -77,11 +85,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 999,
+        "discount": 999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$9.99",
-          "intermediatePrice": "$9.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$9.99"
         },
         "originalPrice": 999,
@@ -90,8 +98,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -104,7 +111,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-vcevjkg64lqrmhwvv95bvgsww28e43",
@@ -126,181 +134,6 @@
     "url": null,
     "urlSlug": "0d8113dcbf694d3a80870fa4a05fb06d",
     "viewableDate": "2022-10-10T14:30:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "tunche",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "publisherName",
-        "value": "Hypetrain Digital LTD"
-      },
-      {
-        "key": "developerName",
-        "value": "Leap Game Studios"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "tunche"
-      }
-    ],
-    "description": "Tunche",
-    "effectiveDate": "2021-11-02T17:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-03-23T13:15:16.232792+00:00",
-    "id": "1cfc3e68b14940719bbc0bce58fae8a4",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "da83f5f52d694659963e180263b23f12",
-        "namespace": "78683b0edafd4a978a5ab61a7f6b0594"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f"
-      }
-    ],
-    "namespace": "78683b0edafd4a978a5ab61a7f6b0594",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-06T15:00:00.000Z",
-              "id": "46d5cfc3aca8451cb35f1a93794205d0"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "tunche",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-06T15:00:00.000Z",
-              "startDate": "2023-03-30T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-04-20T15:00:00.000Z",
-              "startDate": "2023-04-06T15:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    "seller": {
-      "id": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
-      "name": "Hypetrain Digital"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1264"
-      },
-      {
-        "id": "22737"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "15375"
-      }
-    ],
-    "title": "Tunche",
-    "url": null,
-    "urlSlug": "astatinegeneralaudience",
-    "viewableDate": null
   },
   {
     "catalogNs": {
@@ -424,7 +257,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-20T15:00:00.000Z",
+              "id": "c3eff977ba49449eaff66f63cf60dafe"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -432,11 +273,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 4999,
+        "discount": 3500,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "$49.99",
-          "intermediatePrice": "$49.99",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$49.99"
         },
         "originalPrice": 4999,
@@ -445,8 +286,7 @@
     },
     "productSlug": "borderlands-3/season-pass",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -459,7 +299,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
@@ -568,7 +409,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-04-13T15:00:00.000Z",
+              "id": "fe55798b0fe5494481e176c2b1eb5963"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -576,11 +425,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -589,8 +438,7 @@
     },
     "productSlug": "dying-light",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -600,14 +448,20 @@
               },
               "endDate": "2023-04-13T15:00:00.000Z",
               "startDate": "2023-04-06T15:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 30,
                 "discountType": "PERCENTAGE"
               },
               "endDate": "2023-04-20T15:00:00.000Z",
-              "startDate": "2023-04-06T15:00:00.000Z"
+              "startDate": "2023-04-13T15:00:00.000Z"
             }
           ]
         }
@@ -638,9 +492,6 @@
         "id": "9547"
       },
       {
-        "id": "15375"
-      },
-      {
         "id": "1264"
       },
       {
@@ -654,6 +505,9 @@
       },
       {
         "id": "21109"
+      },
+      {
+        "id": "21141"
       },
       {
         "id": "1367"
