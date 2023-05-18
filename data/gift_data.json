@@ -36,13 +36,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "death-stranding/home"
       }
     ],
-    "description": "Mystery Game",
+    "description": "From legendary game creator Hideo Kojima comes an all-new, genre-defying experience. Sam Bridges must brave a world utterly transformed by the Death Stranding. Carrying the disconnected remnants of our future in his hands, he embarks on a journey to reconnect the shattered world",
     "effectiveDate": "2099-01-01T00:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2023-05-11T14:59:18.462587+00:00",
+    "firstSeenDate": "2023-05-18T14:05:01.900619+00:00",
     "id": "419614921e5348899bf394754a35432e",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -52,6 +52,10 @@
       }
     ],
     "keyImages": [
+      {
+        "type": "DieselGameBoxWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/DSLandscape_1920x1080-b4ff4164a3ce7c8c1901e8fdd53303b2"
+      },
       {
         "type": "VaultClosed",
         "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813"
@@ -82,7 +86,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "death-stranding/home",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -106,7 +110,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game",
+    "title": "DEATH STRANDING",
     "url": null,
     "urlSlug": "mystery-game-1",
     "viewableDate": "2023-05-11T14:25:00.000Z"
