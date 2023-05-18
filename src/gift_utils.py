@@ -1,7 +1,7 @@
 from src.comparison_utils import is_among_gifts
 from src.discord_utils import post_message_to_discord_using_keyword
 from src.message_utils import to_message
-from src.parse_gift import get_image_urls_of_intact_wrappings
+from src.parse_gift import get_image_urls_of_intact_wrappings, get_image_urls_of_all_wrappings
 from src.utils import unique
 from src.webhook_utils import WEBHOOK_KEYWORD_GIFT, WEBHOOK_KEYWORD_WRAPPING
 
@@ -19,7 +19,7 @@ def post_new_gifts_to_discord(gifts, previous_gifts):
 
 def post_new_gift_wrapping_images_to_discord(gifts, previous_gifts):
     current_image_urls = get_image_urls_of_intact_wrappings(gifts)
-    previous_image_urls = get_image_urls_of_intact_wrappings(previous_gifts)
+    previous_image_urls = get_image_urls_of_all_wrappings(previous_gifts)
 
     image_urls = set(current_image_urls).difference(previous_image_urls)
 
