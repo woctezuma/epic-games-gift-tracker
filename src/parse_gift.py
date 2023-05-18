@@ -34,14 +34,10 @@ def parse_gift_wrapping_image_url(gift):
     return key_images.get(GIFT_WRAPPING_IMAGE_FIELD)
 
 
-def parse_gift_wrapping_image_url_if_still_wrapped(gift):
-    if is_still_wrapped(gift):
-        image_url = parse_gift_wrapping_image_url(gift)
-    else:
-        image_url = None
-
-    return image_url
+def get_image_urls_of_all_wrappings(gifts):
+    return [parse_gift_wrapping_image_url(gift) for gift in gifts]
 
 
 def get_image_urls_of_intact_wrappings(gifts):
-    return [parse_gift_wrapping_image_url_if_still_wrapped(gift) for gift in gifts]
+    intact_wrappings = [gift for gift in gifts if is_still_wrapped(gift)]
+    return get_image_urls_of_all_wrappings(intact_wrappings)
