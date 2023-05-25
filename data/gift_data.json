@@ -28,7 +28,7 @@
       },
       {
         "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
+        "value": "sales-and-specials/mega-sale-2023"
       },
       {
         "key": "com.epicgames.app.freegames.vault.open",
@@ -36,14 +36,14 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "death-stranding"
+        "value": "fallout-new-vegas--ultimate-edition"
       }
     ],
-    "description": "From legendary game creator Hideo Kojima comes an all-new, genre-defying experience. Sam Bridges must brave a world utterly transformed by the Death Stranding. Carrying the disconnected remnants of our future in his hands, he embarks on a journey to reconnect the shattered world",
+    "description": "Feel the Heat in New Vegas! Not even nuclear fallout could slow the hustle of Sin City. Explore the vast expanses of the desert wastelands and see the Great Southwest as could only be imagined in Fallout.",
     "effectiveDate": "2099-01-01T00:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2023-05-18T14:05:01.900619+00:00",
-    "id": "419614921e5348899bf394754a35432e",
+    "firstSeenDate": "2023-05-25T15:27:47.663613+00:00",
+    "id": "b951f31da58449cd83d6cb1f4ca62d3a",
     "isCodeRedemptionOnly": true,
     "items": [
       {
@@ -53,20 +53,12 @@
     ],
     "keyImages": [
       {
-        "type": "DieselGameBoxWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/DSLandscape_1920x1080-b4ff4164a3ce7c8c1901e8fdd53303b2"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/DSLandscape_1920x1080-b4ff4164a3ce7c8c1901e8fdd53303b2"
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/fnv-port_1200x1600-45b1c7c6093bfc78539a8faeead2c929"
       },
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/DSLandscape_1920x1080-b4ff4164a3ce7c8c1901e8fdd53303b2"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/DSLandscape_1920x1080-b4ff4164a3ce7c8c1901e8fdd53303b2"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/fnv-land_2560x1440-ea034ab626174189b6edc7d38e7c05c4"
       },
       {
         "type": "VaultClosed",
@@ -98,7 +90,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "death-stranding",
+    "productSlug": "fallout-new-vegas--ultimate-edition",
     "promotions": {
       "promotionalOffers": [
         {
@@ -108,8 +100,8 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2023-05-25T15:00:00.000Z",
-              "startDate": "2023-05-18T15:00:00.000Z"
+              "endDate": "2023-06-01T15:00:00.000Z",
+              "startDate": "2023-05-25T15:00:00.000Z"
             }
           ]
         }
@@ -122,10 +114,10 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "DEATH STRANDING",
+    "title": "Fallout: New Vegas - Ultimate Edition",
     "url": null,
-    "urlSlug": "mystery-game-1",
-    "viewableDate": "2023-05-11T14:25:00.000Z"
+    "urlSlug": "mystery-game-3",
+    "viewableDate": "2023-05-18T14:25:00.000Z"
   },
   {
     "catalogNs": {
@@ -171,7 +163,7 @@
     "effectiveDate": "2099-01-01T00:00:00.000Z",
     "expiryDate": null,
     "firstSeenDate": "2023-05-18T14:29:02.745204+00:00",
-    "id": "b951f31da58449cd83d6cb1f4ca62d3a",
+    "id": "9d5d8c66d58e412286a3f98139657ef4",
     "isCodeRedemptionOnly": true,
     "items": [
       {
@@ -221,8 +213,8 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2023-06-01T15:00:00.000Z",
-              "startDate": "2023-05-25T15:00:00.000Z"
+              "endDate": "2023-06-08T15:00:00.000Z",
+              "startDate": "2023-06-01T15:00:00.000Z"
             }
           ]
         }
@@ -236,7 +228,7 @@
     "tags": [],
     "title": "Mystery Game",
     "url": null,
-    "urlSlug": "mystery-game-3",
-    "viewableDate": "2023-05-18T14:25:00.000Z"
+    "urlSlug": "mystery-game-5",
+    "viewableDate": "2023-05-25T14:25:00.000Z"
   }
 ]
