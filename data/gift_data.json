@@ -380,23 +380,7 @@
       }
     },
     "productSlug": "midnight-ghost-hunt",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-06-08T15:00:00.000Z",
-              "startDate": "2023-06-01T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
@@ -497,8 +481,7 @@
     },
     "productSlug": "payday-2-c66369",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -511,7 +494,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
