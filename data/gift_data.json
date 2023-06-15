@@ -77,7 +77,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-22T15:00:00.000Z",
+              "id": "15294c605e2a4f8eb350a4a12f1a8d91"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -85,11 +93,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -98,8 +106,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -112,7 +119,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-bpuchurz6ebbygak6r2cksb2yk6dxt",
@@ -225,7 +233,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-22T15:00:00.000Z",
+              "id": "28ac389a79e84a758a6436a353b89087"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -233,11 +249,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -246,8 +262,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -260,7 +275,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-bpuchurz6ebbygak6r2cksb2yk6dxt",
@@ -291,6 +307,168 @@
     "url": null,
     "urlSlug": "b9d3ef2617e0479c827b861baceba0a9",
     "viewableDate": "2023-06-08T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "idle-champions-of-the-forgotten-realms",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Codename Entertainment"
+      },
+      {
+        "key": "developerName",
+        "value": "Codename Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "idle-champions-of-the-forgotten-realms"
+      }
+    ],
+    "description": "Idle Champions is a licensed Dungeons & Dragons strategy management video game uniting iconic characters from novels, campaigns, and shows into one epic adventure.",
+    "effectiveDate": "2021-02-16T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-06-15T15:55:16.314774+00:00",
+    "id": "a9748abde1c94b66aae5250bb9fc5503",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "9a4e1a1eb6b140f6a9e5e4dcb5a2bf55",
+        "namespace": "7e508f543b05465abe3a935960eb70ac"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/IdleChampions_FreeGamesPromo_1200x16001_1200x1600-764258f78394b9f79815bbd9010e8454"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/IdleChampions_FreeGamesPromo_2560x14401_2560x1440-8ce28f11dab0dcafa37bfedfac54931d"
+      },
+      {
+        "type": "ProductLogo",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_IC1_200x200-7321cfa8a8862f9a551c04921617c1db"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/IdleChampions_FreeGamesPromo_1200x16001_1200x1600-764258f78394b9f79815bbd9010e8454"
+      }
+    ],
+    "namespace": "7e508f543b05465abe3a935960eb70ac",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-29T15:00:00.000Z",
+              "startDate": "2023-06-22T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+      "name": "Codename Entertainment"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21136"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "1188"
+      },
+      {
+        "id": "1141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "Idle Champions of the Forgotten Realms",
+    "url": null,
+    "urlSlug": "banegeneralaudience",
+    "viewableDate": "2021-02-16T17:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -380,23 +558,7 @@
       }
     },
     "productSlug": "payday-2-c66369",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-06-15T15:00:00.000Z",
-              "startDate": "2023-06-08T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
@@ -407,5 +569,171 @@
     "url": null,
     "urlSlug": "mystery-game-7",
     "viewableDate": "2023-06-01T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "thehunter-call-of-the-wild",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "thehunter-call-of-the-wild"
+      }
+    ],
+    "description": "Experience an atmospheric hunting game like no other in this realistic and visually breathtaking open world. Immerse yourself in the atmospheric single player campaign, or share the ultimate hunting experience with friends.",
+    "effectiveDate": "2021-11-25T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-06-15T15:55:16.314774+00:00",
+    "id": "7b0d120a875547e9bec70192ddcc96e2",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "87cc65381e6740be807366eb770470d4",
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S1_2560x1440-69120885e0b3acfb87f34ac0bad68ec6"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S1_2560x1440-69120885e0b3acfb87f34ac0bad68ec6"
+      }
+    ],
+    "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "thehunter-call-of-the-wild",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-06-29T15:00:00.000Z",
+              "startDate": "2023-06-22T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+      "name": "Expansive Worlds AB"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1188"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1294"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "1393"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "21146"
+      },
+      {
+        "id": "1307"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "theHunter: Call of the Wild\u2122",
+    "url": null,
+    "urlSlug": "thehunter-call-of-the-wild",
+    "viewableDate": "2021-11-18T15:25:00.000Z"
   }
 ]
