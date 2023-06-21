@@ -580,6 +580,176 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "the-dungeon-of-naheulbeuk",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Dear Villagers"
+      },
+      {
+        "key": "developerName",
+        "value": "Artefacts Studio"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-dungeon-of-naheulbeuk"
+      }
+    ],
+    "description": "Step into the wacky heroic fantasy universe of the Dungeon of Naheulbeuk. Lead a team of unlikely and clumsy heroes in an epic and challenging tactical RPG. Live an adventure filled with humor, surprises and silly encounters.",
+    "effectiveDate": "2020-09-17T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-06-21T17:52:04.043623+00:00",
+    "id": "4d6f7c738cb6468d8fccce3de8d5d02e",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "9ef12d1bf8ee4e9296476234a8049ddf",
+        "namespace": "456d95ca54814c8d98db2f52346ff5de"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+      }
+    ],
+    "namespace": "456d95ca54814c8d98db2f52346ff5de",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 3499,
+        "fmtPrice": {
+          "discountPrice": "$34.99",
+          "intermediatePrice": "$34.99",
+          "originalPrice": "$34.99"
+        },
+        "originalPrice": 3499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "the-dungeon-of-naheulbeuk",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-07-06T15:00:00.000Z",
+              "startDate": "2023-06-29T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+      "name": "Plug In Digital SAS"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "18051"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "20475"
+      },
+      {
+        "id": "21147"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "10719"
+      }
+    ],
+    "title": "The Dungeon of Naheulbeuk",
+    "url": null,
+    "urlSlug": "sarajevogeneralaudience",
+    "viewableDate": "2020-07-01T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "thehunter-call-of-the-wild",
           "pageType": "productHome"
         }
