@@ -171,6 +171,144 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "the-elder-scrolls-online",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-elder-scrolls-online"
+      }
+    ],
+    "description": "Join over 22 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. ",
+    "effectiveDate": "2023-07-20T15:00:00.000Z",
+    "expiryDate": "2023-07-27T15:00:00.000Z",
+    "firstSeenDate": "2023-07-18T09:43:45.537831+00:00",
+    "id": "1a4c71a69a124d62b0985cae3219b692",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "42917e5048494666906dee5e6fef5f34",
+        "namespace": "fn"
+      },
+      {
+        "id": "04aedbf56b4641a99e7fe5cddc60cfb8",
+        "namespace": "27aa2ebdcda14b3bb8a669aab73ca55f"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/esotall_1200x1600-5fc6dfa46dd3fe68292cd6b9ae75b0ee"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/esowide_2560x1440-c6c2917d1d80ae3c0e6d78b92445496b"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/esotall_1200x1600-5fc6dfa46dd3fe68292cd6b9ae75b0ee"
+      }
+    ],
+    "namespace": "27aa2ebdcda14b3bb8a669aab73ca55f",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "the-elder-scrolls-online",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-07-27T15:00:00.000Z",
+              "startDate": "2023-07-20T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+      "name": "Bethesda Softworks LLC"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1264"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1307"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "10719"
+      }
+    ],
+    "title": "The Elder Scrolls Online",
+    "url": null,
+    "urlSlug": "freeclaimbundle",
+    "viewableDate": "2023-07-13T17:20:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "murder-by-numbers",
           "pageType": "productHome"
         }
@@ -418,144 +556,5 @@
     "url": null,
     "urlSlug": "mystery-game-7",
     "viewableDate": "2023-06-01T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "the-elder-scrolls-online",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "the-elder-scrolls-online"
-      }
-    ],
-    "description": "Join over 22 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. ",
-    "effectiveDate": "2023-07-20T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-07-13T15:23:33.338484+00:00",
-    "id": "c052f9c8e36d432fbfb4a10b0849da9f",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "a442457979cf4f459612a9f4207aba16",
-        "namespace": "27aa2ebdcda14b3bb8a669aab73ca55f"
-      },
-      {
-        "id": "42917e5048494666906dee5e6fef5f34",
-        "namespace": "fn"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/EGS_TheElderScrollsOnline_ZeniMaxOnlineStudios_S2_1200x1600-5fc6dfa46dd3fe68292cd6b9ae75b0ee"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/EGS_TheElderScrollsOnline_ZeniMaxOnlineStudios_S1_2560x1440-c6c2917d1d80ae3c0e6d78b92445496b"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/EGS_TheElderScrollsOnline_ZeniMaxOnlineStudios_S2_1200x1600-5fc6dfa46dd3fe68292cd6b9ae75b0ee"
-      }
-    ],
-    "namespace": "27aa2ebdcda14b3bb8a669aab73ca55f",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 1999,
-        "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "the-elder-scrolls-online",
-    "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-07-27T15:00:00.000Z",
-              "startDate": "2023-07-20T15:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    "seller": {
-      "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
-      "name": "Bethesda Softworks LLC"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1264"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1367"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "1307"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "The Elder Scrolls\u00ae Online",
-    "url": null,
-    "urlSlug": "the-elder-scrolls-online",
-    "viewableDate": "2023-07-13T15:00:00.000Z"
   }
 ]
