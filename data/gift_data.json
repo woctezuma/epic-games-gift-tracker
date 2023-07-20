@@ -699,5 +699,173 @@
     "url": null,
     "urlSlug": "mystery-game-7",
     "viewableDate": "2023-06-01T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "severed-steel",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "Digerati"
+      },
+      {
+        "key": "developerName",
+        "value": "Digerati"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "severed-steel"
+      }
+    ],
+    "description": "A stylish single-player FPS featuring a fluid stunt system, destructible voxel environments, loads of bullet time, a unique one-armed protagonist, and a dark electronic soundtrack.",
+    "effectiveDate": "2021-09-17T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-07-20T14:22:34.301265+00:00",
+    "id": "b26543426574454e82e07624450c9022",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "baf62b7de7424d29bdc3cf8c1d3808db",
+        "namespace": "5db7394e65044dd1bb083ee983e2b3a5"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S1_2560x1440-7563487f2c1135a79b72a4d2c198d544"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S1_2560x1440-7563487f2c1135a79b72a4d2c198d544"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
+      }
+    ],
+    "namespace": "5db7394e65044dd1bb083ee983e2b3a5",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2499,
+        "fmtPrice": {
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
+          "originalPrice": "$24.99"
+        },
+        "originalPrice": 2499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "severed-steel",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 40,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-08-03T15:00:00.000Z",
+              "startDate": "2023-07-20T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-08-03T15:00:00.000Z",
+              "startDate": "2023-07-27T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-w3y4zvzsv727kbguuzyz2zg46xdafs",
+      "name": "Digerati"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1185"
+      },
+      {
+        "id": "16979"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Severed Steel",
+    "url": null,
+    "urlSlug": "severed-steel",
+    "viewableDate": "2021-09-17T17:00:00.000Z"
   }
 ]
