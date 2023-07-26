@@ -31,3 +31,6 @@ jobs:
     - name: Run Updater
       run: |
         ./update.sh
+      env:
+        DISCORD_GIFT: ${{ secrets.DISCORD_GIFT }}
+        DISCORD_WRAPPING: ${{ secrets.DISCORD_WRAPPING }}
