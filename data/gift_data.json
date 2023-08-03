@@ -73,7 +73,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-08-10T15:00:00.000Z",
+              "id": "f5cf92a8d34c46059f6fa1aae44aff3a"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -81,11 +89,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1399,
+        "discount": 1399,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$13.99",
-          "intermediatePrice": "$13.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$13.99"
         },
         "originalPrice": 1399,
@@ -94,8 +102,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -108,7 +115,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
@@ -402,15 +410,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "id": "8da36ecc455642818ed0fd68832414f6"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -418,11 +418,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 2600,
-        "discountPrice": 1399,
+        "discount": 0,
+        "discountPrice": 3999,
         "fmtPrice": {
-          "discountPrice": "$13.99",
-          "intermediatePrice": "$13.99",
+          "discountPrice": "$39.99",
+          "intermediatePrice": "$39.99",
           "originalPrice": "$39.99"
         },
         "originalPrice": 3999,
@@ -431,20 +431,7 @@
     },
     "productSlug": "europa-universalis-iv",
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 35,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "startDate": "2023-07-20T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -527,143 +514,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "homeworld-remastered-collection",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "homeworld-remastered-collection"
-      }
-    ],
-    "description": "Experience the epic space strategy games that redefined the RTS genre. Control your fleet and build an armada across more than 30 single-player missions. Choose unit types, fleet formations and flight tactics for each strategic situation.",
-    "effectiveDate": "2023-07-27T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-07-20T15:29:27.840667+00:00",
-    "id": "4709cb4179de4f3daa08fe69ec41bc22",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "d6e96590fb2e4e89ad47c0bb8457d8c5",
-        "namespace": "4311a0ee99724086b1a4f261b827d038"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/4311a0ee99724086b1a4f261b827d038/EGS_HomeworldRemasteredCollection_GearboxSoftware_S2_1200x1600-1cae8117d05be2d91d09757668b957c4"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/4311a0ee99724086b1a4f261b827d038/EGS_HomeworldRemasteredCollection_GearboxSoftware_S1_2560x1440-67229666a0af0fc7234542a7a7cbed78"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/4311a0ee99724086b1a4f261b827d038/EGS_HomeworldRemasteredCollection_GearboxSoftware_S2_1200x1600-1cae8117d05be2d91d09757668b957c4"
-      }
-    ],
-    "namespace": "4311a0ee99724086b1a4f261b827d038",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "id": "22e7aa661c524862aa2ff172e6744c57"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 3499,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$34.99"
-        },
-        "originalPrice": 3499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "homeworld-remastered-collection",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "startDate": "2023-07-27T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
-      "name": "Gearbox Publishing"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "1115"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "Homeworld Remastered Collection",
-    "url": null,
-    "urlSlug": "homeworld-remastered-collection",
-    "viewableDate": "2023-07-20T14:35:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "loop-hero",
           "pageType": "productHome"
         }
@@ -736,8 +586,8 @@
               "discountSetting": {
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "id": "e51d571a4ebb4552b62486bb90732f61"
+              "endDate": "2023-08-10T15:00:00.000Z",
+              "id": "a5e03674d9ef4d15852991aeb3d52615"
             }
           ]
         }
@@ -747,11 +597,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 750,
-        "discountPrice": 749,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$7.49",
-          "intermediatePrice": "$7.49",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -765,20 +615,6 @@
           "promotionalOffers": [
             {
               "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "startDate": "2023-07-20T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
@@ -787,7 +623,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
@@ -1079,181 +916,5 @@
     "url": null,
     "urlSlug": "orwell-keeping-an-eye-on-you",
     "viewableDate": "2022-03-18T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "severed-steel",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "publisherName",
-        "value": "Digerati"
-      },
-      {
-        "key": "developerName",
-        "value": "Digerati"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "severed-steel"
-      }
-    ],
-    "description": "A stylish single-player FPS featuring a fluid stunt system, destructible voxel environments, loads of bullet time, a unique one-armed protagonist, and a dark electronic soundtrack.",
-    "effectiveDate": "2021-09-17T17:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-07-20T14:22:34.301265+00:00",
-    "id": "b26543426574454e82e07624450c9022",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "baf62b7de7424d29bdc3cf8c1d3808db",
-        "namespace": "5db7394e65044dd1bb083ee983e2b3a5"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S1_2560x1440-7563487f2c1135a79b72a4d2c198d544"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S1_2560x1440-7563487f2c1135a79b72a4d2c198d544"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S2_1200x1600-42edb36730050be3d18171baac58a7f2"
-      }
-    ],
-    "namespace": "5db7394e65044dd1bb083ee983e2b3a5",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "id": "f3a57ff3d38f4deab9e239efb8e1b61a"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2499,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$24.99"
-        },
-        "originalPrice": 2499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "severed-steel",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 40,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "startDate": "2023-07-20T15:00:00.000Z"
-            },
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-03T15:00:00.000Z",
-              "startDate": "2023-07-27T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-w3y4zvzsv727kbguuzyz2zg46xdafs",
-      "name": "Digerati"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1185"
-      },
-      {
-        "id": "16979"
-      },
-      {
-        "id": "21109"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "1263"
-      }
-    ],
-    "title": "Severed Steel",
-    "url": null,
-    "urlSlug": "severed-steel",
-    "viewableDate": "2021-09-17T17:00:00.000Z"
   }
 ]
