@@ -116,7 +116,20 @@
           ]
         }
       ],
-      "upcomingPromotionalOffers": []
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 60,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-09-28T15:00:00.000Z",
+              "startDate": "2023-09-14T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
     },
     "seller": {
       "id": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
@@ -637,6 +650,9 @@
       },
       {
         "id": "21894"
+      },
+      {
+        "id": "21127"
       },
       {
         "id": "9547"
