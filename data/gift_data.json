@@ -938,5 +938,166 @@
     "url": null,
     "urlSlug": "orwell-keeping-an-eye-on-you",
     "viewableDate": "2022-03-18T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "black-book",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Hypetrain Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "Morteshka"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "black-book"
+      }
+    ],
+    "description": "\u201cBlack Book\u201d is a dark RPG Adventure, based on Slavic myths, in which you play as a young sorceress. Fight evil forces in card-based battles and explore the world, where humans live alongside mythological creatures.",
+    "effectiveDate": "2021-08-10T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-08-09T16:34:21.122725+00:00",
+    "id": "0bce0871129140d894da3789e2fe0a7f",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "d0c6ec2f180e4b34b1202f12fe489acf",
+        "namespace": "8211dc6089af4542926b7a8137b9079e"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S2_1200x1600-1202bf8f0d59ae480ba82d1850dc6eaa"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S2_1200x1600-1202bf8f0d59ae480ba82d1850dc6eaa"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S1_2560x1440-97e2dbc3d0e628116fa510efe7f7783f"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S2_1200x1600-1202bf8f0d59ae480ba82d1850dc6eaa"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S1_2560x1440-97e2dbc3d0e628116fa510efe7f7783f"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S2_1200x1600-1202bf8f0d59ae480ba82d1850dc6eaa"
+      }
+    ],
+    "namespace": "8211dc6089af4542926b7a8137b9079e",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2499,
+        "fmtPrice": {
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
+          "originalPrice": "$24.99"
+        },
+        "originalPrice": 2499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "black-book",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-08-24T15:00:00.000Z",
+              "startDate": "2023-08-17T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+      "name": "Hypetrain Digital"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "22737"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21147"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Black Book",
+    "url": null,
+    "urlSlug": "tommes-general-audience",
+    "viewableDate": "2021-08-10T17:00:00.000Z"
   }
 ]
