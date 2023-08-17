@@ -77,7 +77,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-08-24T15:00:00.000Z",
+              "id": "a441e7cec2ad4a45a2eabf6e09124424"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -85,11 +93,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 999,
+        "discount": 999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$9.99",
-          "intermediatePrice": "$9.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$9.99"
         },
         "originalPrice": 999,
@@ -98,8 +106,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -112,7 +119,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-99amq5dm46yptbqyp4fd5f2rllp5d4",
@@ -297,203 +305,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "europa-universalis-iv",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Paradox Development Studio  "
-      },
-      {
-        "key": "developerName",
-        "value": "Paradox Development Studio / Paradox Tinto  "
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "europa-universalis-iv"
-      }
-    ],
-    "description": "Lead any nation from Renaissance to Revolution in a complex simulation of the early modern world. Master the art of war, diplomacy and trade to shape and change your nation\u2019s history!",
-    "effectiveDate": "2021-09-30T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-08-02T16:31:24.310751+00:00",
-    "id": "45b82cb4454b40439b61ba126adfabec",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "e108073b4d0b43db8a169594f74f6db9",
-        "namespace": "80d3aeb1d7c3434981e0bcbc47700a83"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S4_1200x1600-381fe4bad2c0951566b465ab1a46726d"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S4_1200x1600-381fe4bad2c0951566b465ab1a46726d"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S2_1200x1600-c6740a476aa44943d38991468a85950d"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S4_1200x1600-381fe4bad2c0951566b465ab1a46726d"
-      },
-      {
-        "type": "ProductLogo",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_IC1_400x400-f2d3c3bdd328fd3552a4fea1422315db"
-      }
-    ],
-    "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-17T15:00:00.000Z",
-              "id": "ee5abeb0c437425296a6f8d959ed5d03"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 3999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$39.99"
-        },
-        "originalPrice": 3999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "europa-universalis-iv",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-17T15:00:00.000Z",
-              "startDate": "2023-08-10T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-      "name": "Paradox Interactive"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "21122"
-      },
-      {
-        "id": "1188"
-      },
-      {
-        "id": "21129"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1393"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1299"
-      },
-      {
-        "id": "17779"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "21146"
-      },
-      {
-        "id": "1115"
-      },
-      {
-        "id": "10719"
-      }
-    ],
-    "title": "Europa Universalis IV",
-    "url": null,
-    "urlSlug": "europa-universalis-iv",
-    "viewableDate": "2021-09-23T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "homeworld-deserts-of-kharak",
           "pageType": "productHome"
         }
@@ -505,6 +316,12 @@
       },
       {
         "path": "games"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "games/edition"
       },
       {
         "path": "applications"
@@ -728,157 +545,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "orwell-keeping-an-eye-on-you",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "orwell-keeping-an-eye-on-you"
-      }
-    ],
-    "description": "Big Brother has arrived - and it\u2019s you. Investigate the lives of citizens to find those responsible for a series of terror attacks. But, be warned, the information you supply will have consequences\u2026",
-    "effectiveDate": "2022-03-18T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-08-03T14:27:21.940041+00:00",
-    "id": "2bc098b80f364e178f364ab368b15372",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "2db9882f03d543b5ab34e5546c4d3252",
-        "namespace": "750dfadbde8445f980601e84434359c5"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S2_1200x1600-4e40d306f86fd5991b39b1aa200b9f74"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S2_1200x1600-4e40d306f86fd5991b39b1aa200b9f74"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S1_2560x1440-df26557fc7586916a5c1d172c44f2232"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S2_1200x1600-4e40d306f86fd5991b39b1aa200b9f74"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S1_2560x1440-df26557fc7586916a5c1d172c44f2232"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S2_1200x1600-4e40d306f86fd5991b39b1aa200b9f74"
-      }
-    ],
-    "namespace": "750dfadbde8445f980601e84434359c5",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-17T15:00:00.000Z",
-              "id": "4d33c976307445f9902afe270b02b5a8"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$9.99"
-        },
-        "originalPrice": 999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "orwell-keeping-an-eye-on-you",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-17T15:00:00.000Z",
-              "startDate": "2023-08-10T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ewry3jhzg59c2mj5km3rugw3xshs3f",
-      "name": "Osmotic Studios GmbH"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1393"
-      },
-      {
-        "id": "1395"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "1127"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "10719"
-      }
-    ],
-    "title": "Orwell: Keeping an Eye on You",
-    "url": null,
-    "urlSlug": "orwell-keeping-an-eye-on-you",
-    "viewableDate": "2022-03-18T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "black-book",
           "pageType": "productHome"
         }
@@ -960,7 +626,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-08-24T15:00:00.000Z",
+              "id": "b3485196083843718efaed71b6be3abf"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -968,11 +642,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 2499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -981,8 +655,7 @@
     },
     "productSlug": "black-book",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -995,7 +668,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
