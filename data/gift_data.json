@@ -574,5 +574,152 @@
     "url": null,
     "urlSlug": "mystery-game-7",
     "viewableDate": "2023-06-01T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "spelldrifter",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "Free Range Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "spelldrifter"
+      }
+    ],
+    "description": "Spelldrifter combines the puzzle-like positional tactics of a turn-based RPG with the customizability and replayability of a collectible card game.  The result: a hybrid, wherein players must juggle the resources at their disposal using both time and space.",
+    "effectiveDate": "2021-04-19T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-08-30T16:30:55.458826+00:00",
+    "id": "98050bc663334e2c9c99e596084bab0f",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "8b89fa855bbc4f0f931f5730d0404c4f",
+        "namespace": "14d712e338ee4fe5b5304d959cd75cd2"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S1_2560x1440-352ef2771d0e47b849b948dc1299214c"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S2_1200x1600-07cc0709cce6b5e7b66eed8665c79b2e"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S2_1200x1600-07cc0709cce6b5e7b66eed8665c79b2e"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S2_1200x1600-07cc0709cce6b5e7b66eed8665c79b2e"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S1_2560x1440-352ef2771d0e47b849b948dc1299214c"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/14d712e338ee4fe5b5304d959cd75cd2/offer/EGS_Spelldrifter_FreeRangeGames_S2_1200x1600-07cc0709cce6b5e7b66eed8665c79b2e-1200x1600-07cc0709cce6b5e7b66eed8665c79b2e.jpeg"
+      }
+    ],
+    "namespace": "14d712e338ee4fe5b5304d959cd75cd2",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "spelldrifter",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-09-14T15:00:00.000Z",
+              "startDate": "2023-09-07T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-qvs2rgyhchu758rbart55ds8vhk65b",
+      "name": "Free Range Games"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1230"
+      }
+    ],
+    "title": "Spelldrifter",
+    "url": null,
+    "urlSlug": "spelldrifter-general-audience",
+    "viewableDate": "2021-04-19T17:00:00.000Z"
   }
 ]
