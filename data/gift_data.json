@@ -170,154 +170,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "homeworld-deserts-of-kharak",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Gearbox Publishing"
-      },
-      {
-        "key": "developerName",
-        "value": "Gearbox Publishing"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "homeworld-deserts-of-kharak"
-      }
-    ],
-    "description": "Homeworld: Deserts of Kharak",
-    "effectiveDate": "2023-08-24T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-08-17T14:36:35.530606+00:00",
-    "id": "508291c29513464b84c1b701edf3d8f4",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "ee510123578247739f9577acaf1ac08e",
-        "namespace": "e209b2d1d5384f639335f64e3e6c4bb8"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/e209b2d1d5384f639335f64e3e6c4bb8/EGS_HomeworldDesertsofKharak_BlackbirdInteractive_S1_2560x1440-31319bacd65f25e6eb277bef9c8e8c53"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/e209b2d1d5384f639335f64e3e6c4bb8/EGS_HomeworldDesertsofKharak_BlackbirdInteractive_S2_1200x1600-b77ea342e37f09347185c8393460d8fd"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/e209b2d1d5384f639335f64e3e6c4bb8/EGS_HomeworldDesertsofKharak_BlackbirdInteractive_S2_1200x1600-b77ea342e37f09347185c8393460d8fd"
-      }
-    ],
-    "namespace": "e209b2d1d5384f639335f64e3e6c4bb8",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-31T15:00:00.000Z",
-              "id": "912e037bf38a441e9d77578318777fa1"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 4999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$49.99"
-        },
-        "originalPrice": 4999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "homeworld-deserts-of-kharak",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-08-31T15:00:00.000Z",
-              "startDate": "2023-08-24T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
-      "name": "Gearbox Publishing"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1203"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "1115"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "Homeworld: Deserts of Kharak",
-    "url": null,
-    "urlSlug": "homeworld-deserts-of-kharak",
-    "viewableDate": "2023-08-17T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "cave-story-plus",
           "pageType": "productHome"
         }
@@ -402,7 +254,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-09-07T15:00:00.000Z",
+              "id": "a29c6f23eda84e5182794ddb5ac9ee86"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -410,11 +270,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -423,8 +283,7 @@
     },
     "productSlug": "cave-story-plus",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -437,7 +296,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
