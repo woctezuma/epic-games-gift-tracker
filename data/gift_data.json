@@ -289,175 +289,6 @@
   },
   {
     "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "cave-story-plus",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Nicalis Inc."
-      },
-      {
-        "key": "developerName",
-        "value": "Nicalis Inc., Studio Pixel"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "cave-story-plus"
-      }
-    ],
-    "description": "Arguably the most well-known indie game of all time, Cave Story+ features an original story brimming with personality, mystery and fast-paced fun. Run, jump, shoot, fly and explore your way through a massive adventure reminiscent of classic 8 and 16-bit games!",
-    "effectiveDate": "2020-12-03T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-08-24T14:37:59.588875+00:00",
-    "id": "be3de140fc3749b28215da1626cce8bc",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "ff20d40bde3844ceb4dcdea5e7170124",
-        "namespace": "78473822f724474d8e436f6bde735623"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S1-2560x1440-23b558de8df0be248f4a32654638ca19.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S1-2560x1440-23b558de8df0be248f4a32654638ca19.jpg"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg"
-      }
-    ],
-    "namespace": "78473822f724474d8e436f6bde735623",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-09-07T15:00:00.000Z",
-              "id": "a29c6f23eda84e5182794ddb5ac9ee86"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1499,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$14.99"
-        },
-        "originalPrice": 1499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "cave-story-plus",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-09-07T15:00:00.000Z",
-              "startDate": "2023-08-31T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
-      "name": "Nicalis"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21109"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "21639"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "1151"
-      }
-    ],
-    "title": "Cave Story+",
-    "url": null,
-    "urlSlug": "laurelgeneralaudience",
-    "viewableDate": "2020-11-26T15:25:00.000Z"
-  },
-  {
-    "catalogNs": {
       "mappings": []
     },
     "categories": [
@@ -636,7 +467,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-09-14T15:00:00.000Z",
+              "id": "16ec745112b84411bb67d24bb6b51929"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -644,11 +483,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -657,8 +496,7 @@
     },
     "productSlug": "spelldrifter",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -671,7 +509,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-qvs2rgyhchu758rbart55ds8vhk65b",
