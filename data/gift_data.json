@@ -120,7 +120,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 60,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-25T16:00:00.000Z",
+              "startDate": "2023-10-11T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
       "name": "Bungie"
