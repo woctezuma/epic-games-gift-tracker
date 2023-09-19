@@ -77,7 +77,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-09-25T17:00:00.000Z",
+              "id": "1e33340832d34aacb47c3e28a56271d7"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -85,11 +93,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 3499,
+        "discount": 1400,
+        "discountPrice": 2099,
         "fmtPrice": {
-          "discountPrice": "$34.99",
-          "intermediatePrice": "$34.99",
+          "discountPrice": "$20.99",
+          "intermediatePrice": "$20.99",
           "originalPrice": "$34.99"
         },
         "originalPrice": 3499,
@@ -98,8 +106,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -112,7 +119,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
@@ -335,7 +343,7 @@
     "title": "The Forest Quartet",
     "url": null,
     "urlSlug": "bfd136c022d84738ae8a25f1cee84bac",
-    "viewableDate": "2023-09-14T14:25:00.000Z"
+    "viewableDate": "2023-09-14T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -407,15 +415,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-09-19T15:00:00.000Z",
-              "id": "f6f1a66eb09743cfab2438c1bf45f2e4"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -423,11 +423,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 320,
-        "discountPrice": 479,
+        "discount": 0,
+        "discountPrice": 799,
         "fmtPrice": {
-          "discountPrice": "$4.79",
-          "intermediatePrice": "$4.79",
+          "discountPrice": "$7.99",
+          "intermediatePrice": "$7.99",
           "originalPrice": "$7.99"
         },
         "originalPrice": 799,
@@ -436,20 +436,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 60,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-09-19T15:00:00.000Z",
-              "startDate": "2023-09-12T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -485,9 +472,6 @@
       },
       {
         "id": "9547"
-      },
-      {
-        "id": "29899"
       },
       {
         "id": "1151"
