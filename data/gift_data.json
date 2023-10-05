@@ -1161,5 +1161,130 @@
     "url": null,
     "urlSlug": "mystery-game-7",
     "viewableDate": "2023-06-01T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": null
+    },
+    "categories": [
+      {
+        "path": "bundles"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "bundles/games"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "qube-ultimate-bundle"
+      }
+    ],
+    "description": "Q.U.B.E. ULTIMATE BUNDLE",
+    "effectiveDate": "2023-10-12T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-10-05T14:29:54.978809+00:00",
+    "id": "f18f14a76a874aa883a651fcc8c513d0",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "11d229f51ac1445a8925b8d14da82b9b",
+        "namespace": "ad43401ad02840c2b2bee5f1f1a59988"
+      },
+      {
+        "id": "0e7ec1d579ab481c93dff6056c19299f",
+        "namespace": "4b5f1eb366dc45f0920d397c01b291ba"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Portrait_V2_1200x1600-981ac683de50fd5afed2c87dbc26494a"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Landscape_V2_2560x1440-50dbecaa32e134e246717f8a5e60ad25"
+      },
+      {
+        "type": "ProductLogo",
+        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Logo_V2_400x400-99dcb7d141728efbe2b1b4e993ce6339"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Portrait_V2_1200x1600-981ac683de50fd5afed2c87dbc26494a"
+      }
+    ],
+    "namespace": "0712c5eca64b47bbbced82cabba9f0d7",
+    "offerMappings": null,
+    "offerType": "BUNDLE",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 4999,
+        "fmtPrice": {
+          "discountPrice": "$49.99",
+          "intermediatePrice": "$49.99",
+          "originalPrice": "$49.99"
+        },
+        "originalPrice": 4999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "qube-ultimate-bundle",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-19T15:00:00.000Z",
+              "startDate": "2023-10-12T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+      "name": "Ten Hut Games"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1298"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "1294"
+      }
+    ],
+    "title": "Q.U.B.E. ULTIMATE BUNDLE",
+    "url": null,
+    "urlSlug": "qube-ultimate-bundle",
+    "viewableDate": "2023-10-05T14:25:00.000Z"
   }
 ]
