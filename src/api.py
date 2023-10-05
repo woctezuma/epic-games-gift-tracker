@@ -1,6 +1,6 @@
 import requests
 
-EPIC_GAMES_API_URL = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
+EPIC_GAMES_API_URL = "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
 
 
 def send_get_request_to_api(verbose=True):
