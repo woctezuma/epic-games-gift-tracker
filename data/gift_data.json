@@ -993,5 +993,140 @@
     "url": null,
     "urlSlug": "qube-ultimate-bundle",
     "viewableDate": "2023-10-05T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "the-evil-within",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-evil-within"
+      }
+    ],
+    "description": "Developed by Tango Gameworks and directed by Resident Evil series creator Shinji Mikami, The Evil Within embodies pure survival horror. \n\nAs Detective Sebastian Castellanos, fight for survival with limited resources in a twisted world of nightmares.",
+    "effectiveDate": "2023-08-02T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-10-11T18:38:19.912329+00:00",
+    "id": "087155540ecc47239c98c1265b40ba99",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "cb8d72c9b6044d3eabed2eca50491efe",
+        "namespace": "d602fd70876141ba9bf4d54809c423d1"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S2_1200x1600-18ffb6d4859f8f05d21833f7b8f4a2c7"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S1_2560x1440-16b7f817d8803517fbecbf3f175ac997"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S2_1200x1600-18ffb6d4859f8f05d21833f7b8f4a2c7"
+      }
+    ],
+    "namespace": "d602fd70876141ba9bf4d54809c423d1",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "the-evil-within",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-26T15:00:00.000Z",
+              "startDate": "2023-10-19T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+      "name": "Bethesda Softworks LLC"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1218"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1080"
+      },
+      {
+        "id": "1210"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "The Evil Within",
+    "url": null,
+    "urlSlug": "the-evil-within",
+    "viewableDate": "2023-08-02T15:00:00.000Z"
   }
 ]
