@@ -881,6 +881,9 @@
       },
       {
         "path": "bundles/games"
+      },
+      {
+        "path": "applications"
       }
     ],
     "customAttributes": [
