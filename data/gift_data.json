@@ -177,7 +177,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "godlike-burger-4150a0",
+          "pageSlug": "eternal-threads-197169",
           "pageType": "productHome"
         }
       ]
@@ -202,40 +202,48 @@
         "value": "false"
       },
       {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
         "key": "isManuallySetPCReleaseDate",
+        "value": "true"
+      },
+      {
+        "key": "isBlockchainUsed",
         "value": "false"
       }
     ],
-    "description": "In Godlike Burger you run the craziest restaurant of the galaxy! Stun, poison and kill customers in many devious ways\u2026 and turn them into burger meat! And don\u2019t worry: Alien customers will keep coming if you are smart about it, because cannibalism is just too damn tasty.",
-    "effectiveDate": "2022-04-21T17:00:00.000Z",
+    "description": "Eternal Threads is a single-player, first-person story-driven puzzle game of time manipulation, choice and consequence.",
+    "effectiveDate": "2023-10-19T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2023-09-28T14:14:14.585715+00:00",
-    "id": "d9300ace164b41ac90a7b54e59d47953",
+    "firstSeenDate": "2023-10-12T15:11:36.422921+00:00",
+    "id": "921e40c4c69f4d728914ca2a4f0aa407",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "c027f1bc9db54f189ad938634500e542",
-        "namespace": "beb7e64d3da74ae780405da48cccb581"
+        "id": "8963690b6659413e95e885f49fd92ea4",
+        "namespace": "35eda4ff87f94a7491dc28175b8f3b4f"
       }
     ],
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/f42598038b9343e58d27e0a8c0b831b6/godlike-burger-offer-1trpc.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/f42598038b9343e58d27e0a8c0b831b6/download-godlike-burger-offer-8u2uh.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1v92y.jpg"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/f42598038b9343e58d27e0a8c0b831b6/download-godlike-burger-offer-8u2uh.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1v92y.jpg"
       }
     ],
-    "namespace": "beb7e64d3da74ae780405da48cccb581",
+    "namespace": "35eda4ff87f94a7491dc28175b8f3b4f",
     "offerMappings": [
       {
-        "pageSlug": "godlike-burger-4150a0",
+        "pageSlug": "eternal-threads-197169",
         "pageType": "productHome"
       }
     ],
@@ -243,15 +251,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-12T15:00:00.000Z",
-              "id": "1c2dc8194022428da305eedb42ed574d"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -259,11 +259,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -272,7 +272,8 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -280,49 +281,39 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2023-10-12T15:00:00.000Z",
-              "startDate": "2023-10-05T15:00:00.000Z"
+              "endDate": "2023-10-26T15:00:00.000Z",
+              "startDate": "2023-10-19T15:00:00.000Z"
             }
           ]
         }
-      ],
-      "upcomingPromotionalOffers": []
+      ]
     },
     "seller": {
-      "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
-      "name": "Daedalic Entertainment"
+      "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
+      "name": "Secret Mode"
     },
     "status": "ACTIVE",
     "tags": [
       {
-        "id": "1216"
+        "id": "1298"
       },
       {
-        "id": "21894"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "1083"
+        "id": "1370"
       },
       {
         "id": "9547"
       },
       {
-        "id": "9549"
+        "id": "1117"
       },
       {
         "id": "1263"
-      },
-      {
-        "id": "10719"
       }
     ],
-    "title": "Godlike Burger",
+    "title": "Eternal Threads",
     "url": null,
-    "urlSlug": "37b001690e2a4d6f872567cdd06f0c6f",
-    "viewableDate": "2022-03-28T18:00:00.000Z"
+    "urlSlug": "a9152a8924cc4e438f0e61106ec02f7d",
+    "viewableDate": "2023-10-12T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -361,7 +352,7 @@
       }
     ],
     "description": "Fight for survival in Blazing Sails, a fast-paced pirate PvP game! Create your own unique pirate and ship. Band together with other players to command your mighty vessel! Explore different game-modes, maps, weapons, ship types and more while eliminating other crews in epic battles on land and sea!",
-    "effectiveDate": "2099-04-06T17:35:00.000Z",
+    "effectiveDate": "2023-10-12T15:00:00.000Z",
     "expiryDate": null,
     "firstSeenDate": "2023-10-05T14:14:47.123493+00:00",
     "id": "363d0be3b57d4741a046d38da0e6355e",
@@ -396,7 +387,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-19T15:00:00.000Z",
+              "id": "94ce01592b8a4b7a9bd05078880614ce"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -404,11 +403,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -417,8 +416,7 @@
     },
     "productSlug": "blazing-sails",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -431,7 +429,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
@@ -930,7 +929,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-19T15:00:00.000Z",
+              "id": "cfbab07fd2d64520b9edde3f1eb00a87"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -938,11 +945,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 4999,
+        "discount": 4999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$49.99",
-          "intermediatePrice": "$49.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$49.99"
         },
         "originalPrice": 4999,
@@ -951,8 +958,7 @@
     },
     "productSlug": "qube-ultimate-bundle",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -965,7 +971,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
