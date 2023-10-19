@@ -409,7 +409,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-26T15:00:00.000Z",
+              "id": "58a82b477c724e3fb95e7b9252cc3569"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -417,11 +425,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -430,8 +438,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -444,7 +451,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
@@ -475,147 +483,6 @@
     "url": null,
     "urlSlug": "a9152a8924cc4e438f0e61106ec02f7d",
     "viewableDate": "2023-10-12T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "blazing-sails",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "blazing-sails"
-      }
-    ],
-    "description": "Fight for survival in Blazing Sails, a fast-paced pirate PvP game! Create your own unique pirate and ship. Band together with other players to command your mighty vessel! Explore different game-modes, maps, weapons, ship types and more while eliminating other crews in epic battles on land and sea!",
-    "effectiveDate": "2023-10-12T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-10-05T14:14:47.123493+00:00",
-    "id": "363d0be3b57d4741a046d38da0e6355e",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "30aec28f450a41499dd27e0d27294b56",
-        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S2_1200x1600-bae3831e97b560958dc785e830ebed8c"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S1_2560x1440-fd7a7b3d357555880cb7969634553c5b"
-      },
-      {
-        "type": "ProductLogo",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_IC1_400x400-a7b91f257fcbd9ced825d3da95298170"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S2_1200x1600-bae3831e97b560958dc785e830ebed8c"
-      }
-    ],
-    "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-19T15:00:00.000Z",
-              "id": "94ce01592b8a4b7a9bd05078880614ce"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1499,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$14.99"
-        },
-        "originalPrice": 1499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "blazing-sails",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-19T15:00:00.000Z",
-              "startDate": "2023-10-12T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
-      "name": "Iceberg Interactive"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1264"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "Blazing Sails",
-    "url": null,
-    "urlSlug": "blazing-sails",
-    "viewableDate": "2023-03-30T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -1031,142 +898,6 @@
   },
   {
     "catalogNs": {
-      "mappings": null
-    },
-    "categories": [
-      {
-        "path": "bundles"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "bundles/games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "qube-ultimate-bundle"
-      }
-    ],
-    "description": "Q.U.B.E. ULTIMATE BUNDLE",
-    "effectiveDate": "2023-10-12T15:00:00.000Z",
-    "expiryDate": "2023-10-19T15:00:00.000Z",
-    "firstSeenDate": "2023-10-05T14:29:54.978809+00:00",
-    "id": "f18f14a76a874aa883a651fcc8c513d0",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "11d229f51ac1445a8925b8d14da82b9b",
-        "namespace": "ad43401ad02840c2b2bee5f1f1a59988"
-      },
-      {
-        "id": "0e7ec1d579ab481c93dff6056c19299f",
-        "namespace": "4b5f1eb366dc45f0920d397c01b291ba"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Portrait_V2_1200x1600-981ac683de50fd5afed2c87dbc26494a"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Landscape_V2_2560x1440-50dbecaa32e134e246717f8a5e60ad25"
-      },
-      {
-        "type": "ProductLogo",
-        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Logo_V2_400x400-99dcb7d141728efbe2b1b4e993ce6339"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/0712c5eca64b47bbbced82cabba9f0d7/EGSBundle_Portrait_V2_1200x1600-981ac683de50fd5afed2c87dbc26494a"
-      }
-    ],
-    "namespace": "0712c5eca64b47bbbced82cabba9f0d7",
-    "offerMappings": null,
-    "offerType": "BUNDLE",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-19T15:00:00.000Z",
-              "id": "cfbab07fd2d64520b9edde3f1eb00a87"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 4999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$49.99"
-        },
-        "originalPrice": 4999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "qube-ultimate-bundle",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-19T15:00:00.000Z",
-              "startDate": "2023-10-12T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
-      "name": "Ten Hut Games"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "1298"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "1294"
-      }
-    ],
-    "title": "Q.U.B.E. ULTIMATE BUNDLE",
-    "url": null,
-    "urlSlug": "qube-ultimate-bundle",
-    "viewableDate": "2023-10-05T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
       "mappings": [
         {
           "pageSlug": "the-evil-within",
@@ -1233,7 +964,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-26T15:00:00.000Z",
+              "id": "e1b950faec4d4fe8a431db1de2f21bde"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1241,11 +980,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -1254,8 +993,7 @@
     },
     "productSlug": "the-evil-within",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1268,7 +1006,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
