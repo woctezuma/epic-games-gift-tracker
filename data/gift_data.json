@@ -897,7 +897,7 @@
     ],
     "description": "Q.U.B.E. ULTIMATE BUNDLE",
     "effectiveDate": "2023-10-12T15:00:00.000Z",
-    "expiryDate": null,
+    "expiryDate": "2023-10-19T15:00:00.000Z",
     "firstSeenDate": "2023-10-05T14:29:54.978809+00:00",
     "id": "f18f14a76a874aa883a651fcc8c513d0",
     "isCodeRedemptionOnly": false,
@@ -1140,6 +1140,137 @@
     "title": "The Evil Within",
     "url": null,
     "urlSlug": "the-evil-within",
+    "viewableDate": "2023-08-02T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "the-evil-within-2",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-evil-within-2"
+      }
+    ],
+    "description": "To save his daughter, Detective Sebastian Castellanos returns to a world of nightmares in The Evil Within 2. \n \nFight for your life inside a terrifying reality using weapons, traps and stealth in this survival horror follow-up from Tango Gameworks.",
+    "effectiveDate": "2023-08-02T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-10-19T14:15:37.036179+00:00",
+    "id": "77693e5298d94911a0edd2492203d9ea",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "ea658708ab0b45599810b8d225947d7c",
+        "namespace": "5891aa5c4c6f4aabbf555a679e02cfb9"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/5891aa5c4c6f4aabbf555a679e02cfb9/EGS_TheEvilWithin2_TangoGameworks_S2_1200x1600-17d620c62723c63398e8d040eb04af7b"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/5891aa5c4c6f4aabbf555a679e02cfb9/EGS_TheEvilWithin2_TangoGameworks_S1_2560x1440-c87f377e1990d84a98db5fb4836af9a9"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/5891aa5c4c6f4aabbf555a679e02cfb9/EGS_TheEvilWithin2_TangoGameworks_S2_1200x1600-17d620c62723c63398e8d040eb04af7b"
+      }
+    ],
+    "namespace": "5891aa5c4c6f4aabbf555a679e02cfb9",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 3999,
+        "fmtPrice": {
+          "discountPrice": "$39.99",
+          "intermediatePrice": "$39.99",
+          "originalPrice": "$39.99"
+        },
+        "originalPrice": 3999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "the-evil-within-2",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-11-02T15:00:00.000Z",
+              "startDate": "2023-10-26T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+      "name": "Bethesda Softworks LLC"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1218"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1080"
+      },
+      {
+        "id": "1210"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "The Evil Within 2",
+    "url": null,
+    "urlSlug": "the-evil-within-2",
     "viewableDate": "2023-08-02T15:00:00.000Z"
   }
 ]
