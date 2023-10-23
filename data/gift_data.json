@@ -729,7 +729,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-10-30T15:00:00.000Z",
+              "id": "001ee18db8424616a5e26c3f461645b5"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -737,11 +745,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 750,
+        "discountPrice": 749,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$7.49",
+          "intermediatePrice": "$7.49",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -750,8 +758,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -764,7 +771,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
@@ -1022,6 +1030,15 @@
         "id": "21122"
       },
       {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
         "id": "19847"
       },
       {
@@ -1034,7 +1051,13 @@
         "id": "1370"
       },
       {
+        "id": "21146"
+      },
+      {
         "id": "9547"
+      },
+      {
+        "id": "21149"
       }
     ],
     "title": "The Evil Within",
