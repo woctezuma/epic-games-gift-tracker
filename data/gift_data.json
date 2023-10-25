@@ -585,15 +585,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-25T16:00:00.000Z",
-              "id": "74698b59a8e548d0b6ce6a2b264f85b3"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -601,11 +593,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1500,
-        "discountPrice": 999,
+        "discount": 0,
+        "discountPrice": 2499,
         "fmtPrice": {
-          "discountPrice": "$9.99",
-          "intermediatePrice": "$9.99",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -613,23 +605,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 40,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-25T16:00:00.000Z",
-              "startDate": "2023-10-11T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
       "name": "Bungie"
