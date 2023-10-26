@@ -923,6 +923,168 @@
   },
   {
     "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "fist-forged-in-shadow-torch",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": ""
+      },
+      {
+        "key": "publisherName",
+        "value": "Antiidelay"
+      },
+      {
+        "key": "developerName",
+        "value": "TiGames"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "fist-forged-in-shadow-torch"
+      }
+    ],
+    "description": "Explore more than a dozen unique areas in a Metroidvania style map. \nThe Fist, Drill, and Whip are three weapons with completely different fighting styles that offer seamless switching between high combo, high damage, and long range attacks. ",
+    "effectiveDate": "2021-12-14T08:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-10-26T13:42:24.881744+00:00",
+    "id": "6e708b1e608f446eaa80488d26b7444b",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "f05f311be3d346bc9404f0c9de3547db",
+        "namespace": "a7e2a2c51b9149c097b771926ed91877"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S6_1200x1600-b0ce396c042359ad9a7b2ca50726cac1"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S6_1200x1600-b0ce396c042359ad9a7b2ca50726cac1"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S6_1200x1600-b0ce396c042359ad9a7b2ca50726cac1"
+      }
+    ],
+    "namespace": "a7e2a2c51b9149c097b771926ed91877",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "fist-forged-in-shadow-torch",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-11-09T16:00:00.000Z",
+              "startDate": "2023-11-02T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-8l37hwc5mnwkll22nf6carncee6w64",
+      "name": "Antiidelay"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "1151"
+      },
+      {
+        "id": "1247"
+      }
+    ],
+    "title": "F.I.S.T.: Forged In Shadow Torch",
+    "url": null,
+    "urlSlug": "fist-forged-in-shadow-torch",
+    "viewableDate": "2021-12-14T08:00:00.000Z"
+  },
+  {
+    "catalogNs": {
       "mappings": []
     },
     "categories": [
