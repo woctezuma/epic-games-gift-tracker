@@ -709,15 +709,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-30T15:00:00.000Z",
-              "id": "001ee18db8424616a5e26c3f461645b5"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -725,11 +717,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 750,
-        "discountPrice": 749,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "$7.49",
-          "intermediatePrice": "$7.49",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -737,23 +729,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-10-30T15:00:00.000Z",
-              "startDate": "2023-10-23T14:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
       "name": "Games Operators S.A."
