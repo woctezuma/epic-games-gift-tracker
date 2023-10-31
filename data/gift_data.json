@@ -239,7 +239,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-11-07T15:00:00.000Z",
+              "id": "2f8ca1910e244b919936c0a1284497ea"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -247,11 +255,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 990,
+        "discountPrice": 509,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$5.09",
+          "intermediatePrice": "$5.09",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -260,8 +268,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -271,7 +278,13 @@
               },
               "endDate": "2023-11-07T15:00:00.000Z",
               "startDate": "2023-10-31T15:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 0,
@@ -309,6 +322,9 @@
       },
       {
         "id": "9547"
+      },
+      {
+        "id": "29899"
       },
       {
         "id": "9549"
