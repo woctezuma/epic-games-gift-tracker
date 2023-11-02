@@ -244,8 +244,8 @@
               "discountSetting": {
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2023-11-07T15:00:00.000Z",
-              "id": "2f8ca1910e244b919936c0a1284497ea"
+              "endDate": "2023-11-09T16:00:00.000Z",
+              "id": "ba3eeba391d748d49e2c68074ec674ec"
             }
           ]
         }
@@ -255,11 +255,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 990,
-        "discountPrice": 509,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$5.09",
-          "intermediatePrice": "$5.09",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -278,13 +278,7 @@
               },
               "endDate": "2023-11-07T15:00:00.000Z",
               "startDate": "2023-10-31T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
+            },
             {
               "discountSetting": {
                 "discountPercentage": 0,
@@ -292,7 +286,13 @@
               },
               "endDate": "2023-11-09T16:00:00.000Z",
               "startDate": "2023-11-02T15:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 34,
@@ -348,9 +348,6 @@
       ]
     },
     "categories": [
-      {
-        "path": "freegames"
-      },
       {
         "path": "games"
       },
@@ -408,15 +405,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-11-02T15:00:00.000Z",
-              "id": "156b535636ca4c68be4404b70d3733c6"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -424,11 +413,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$9.99",
+          "intermediatePrice": "$9.99",
           "originalPrice": "$9.99"
         },
         "originalPrice": 999,
@@ -436,36 +425,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-11-02T15:00:00.000Z",
-              "startDate": "2023-10-26T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 40,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-12-31T11:00:00.000Z",
-              "startDate": "2023-12-16T23:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
+    "promotions": null,
     "seller": {
       "id": "o-722pvnj3qsvbzvskhx4r8x7gcxhhbn",
       "name": "Hatinh Interactive"
@@ -1037,9 +997,6 @@
     },
     "categories": [
       {
-        "path": "freegames"
-      },
-      {
         "path": "games"
       },
       {
@@ -1090,15 +1047,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-11-02T15:00:00.000Z",
-              "id": "3293f667c3b04b478ffed5b832fe82d9"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1106,11 +1055,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 3999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 3999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$39.99",
+          "intermediatePrice": "$39.99",
           "originalPrice": "$39.99"
         },
         "originalPrice": 3999,
@@ -1118,23 +1067,7 @@
       }
     },
     "productSlug": "the-evil-within-2",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-11-02T15:00:00.000Z",
-              "startDate": "2023-10-26T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
       "name": "Bethesda Softworks LLC"
