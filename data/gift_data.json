@@ -273,14 +273,6 @@
           "promotionalOffers": [
             {
               "discountSetting": {
-                "discountPercentage": 34,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-11-07T15:00:00.000Z",
-              "startDate": "2023-10-31T15:00:00.000Z"
-            },
-            {
-              "discountSetting": {
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
@@ -322,9 +314,6 @@
       },
       {
         "id": "9547"
-      },
-      {
-        "id": "29899"
       },
       {
         "id": "9549"
