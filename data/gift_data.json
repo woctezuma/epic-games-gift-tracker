@@ -322,6 +322,138 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "deliver-us-mars",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "deliver-us-mars"
+      }
+    ],
+    "description": "Deliver Us Mars is an atmospheric sci-fi adventure taking you on a suspense-fuelled, high-stakes mission to recover the ARK colony ships stolen by the mysterious Outward.",
+    "effectiveDate": "2023-02-02T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-11-16T15:14:04.137820+00:00",
+    "id": "34c8b5efd29f48209928d74752584426",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "1062c138fe9b49e281bcb313c5252c92",
+        "namespace": "53ec6d9f552241549c4d8aa1a42bcb3b"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S2_1200x1600-8c8042da2f394f7d2ce9403e713b17c9"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S2_1200x1600-8c8042da2f394f7d2ce9403e713b17c9"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S1_2560x1440-b5b36e7ef7feabf180837cc9d15efdae"
+      }
+    ],
+    "namespace": "53ec6d9f552241549c4d8aa1a42bcb3b",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "deliver-us-mars",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-11-30T16:00:00.000Z",
+              "startDate": "2023-11-23T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+      "name": "Frontier Developments"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Deliver Us Mars",
+    "url": null,
+    "urlSlug": "deliver-us-mars-general-audience",
+    "viewableDate": "2023-02-02T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "destiny-2",
           "pageType": "productHome"
         }
