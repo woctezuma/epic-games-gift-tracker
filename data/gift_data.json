@@ -97,7 +97,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 60,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-01-10T16:00:00.000Z",
+              "startDate": "2023-12-13T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
       "name": "Asmodee"
