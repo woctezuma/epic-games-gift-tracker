@@ -343,6 +343,163 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "predecessor",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Omeda Studios"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "predecessor"
+      }
+    ],
+    "description": "Predecessor is a free-to-play Third Person Action MOBA game for PC and Console. You and four allies join arms as you fight for glory on the battlefield against enemy heroes on a 3 lane map featuring an interactive jungle, epic monsters and more!",
+    "effectiveDate": "2022-12-01T08:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-11-29T22:36:30.541636+00:00",
+    "id": "a19138c05ca642d2a7fd73dcbadea7da",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "fd19be1677fd4d20a351d9c2b40fdeb9",
+        "namespace": "85f0435aa88347d185dbcb147716609b"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S1-2560x1440-5ab2309559173f7bbabe128b5d1988fd.jpg"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg"
+      },
+      {
+        "type": "ProductLogo",
+        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_IC1_400x230-074013547b8e9539058db9fa7d3afbab"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_RareBundle_OmedaStudios_Editions_S1_2560x1440-dfb2fa129d3eaf63433575914c1e03bd_2560x1440-dfb2fa129d3eaf63433575914c1e03bd"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_RareBundle_OmedaStudios_Editions_S2_1200x1600-13f650daa246c24da63ed43522e3cfd51_1200x1600-13f650daa246c24da63ed43522e3cfd5"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_RareBundle_OmedaStudios_Editions_S2_1200x1600-13f650daa246c24da63ed43522e3cfd5_1200x1600-13f650daa246c24da63ed43522e3cfd5"
+      }
+    ],
+    "namespace": "85f0435aa88347d185dbcb147716609b",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "predecessor",
+    "promotions": null,
+    "seller": {
+      "id": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+      "name": "Omeda Studios"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1299"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21125"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "21129"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "1310"
+      }
+    ],
+    "title": "Predecessor",
+    "url": null,
+    "urlSlug": "corngeneralaudience",
+    "viewableDate": "2022-11-23T19:37:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "deliver-us-mars",
           "pageType": "productHome"
         }
