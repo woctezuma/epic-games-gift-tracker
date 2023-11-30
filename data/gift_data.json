@@ -952,6 +952,166 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "gigabash",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "PassionRepublic Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "gigabash"
+      }
+    ],
+    "description": "Claim your place as king among Titans!  GigaBash is a multiplayer arena brawler with gigantic film-inspired kaiju, larger than life heroes, earth-shattering special attacks and fully destructible environments.",
+    "effectiveDate": "2022-08-04T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-11-30T15:27:13.290110+00:00",
+    "id": "4a003a822ba54453b59c277f5bfc697f",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "169841e5c2804a30a3ae378eaa027e66",
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S2_1200x1600-76be44277917f4d28d1bad123938d27d"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S2_1200x1600-76be44277917f4d28d1bad123938d27d"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S1_2560x1440-f0d657610403750a33b2ed4a372d21ec"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S2_1200x1600-76be44277917f4d28d1bad123938d27d"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S2_1200x1600-76be44277917f4d28d1bad123938d27d"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S1_2560x1440-f0d657610403750a33b2ed4a372d21ec"
+      }
+    ],
+    "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2499,
+        "fmtPrice": {
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
+          "originalPrice": "$24.99"
+        },
+        "originalPrice": 2499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "gigabash",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-12-14T16:00:00.000Z",
+              "startDate": "2023-12-07T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+      "name": "Passion Republic Games"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1296"
+      },
+      {
+        "id": "1344"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1110"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "GigaBash",
+    "url": null,
+    "urlSlug": "lisbongeneralaudience",
+    "viewableDate": "2021-07-14T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "mighty-fight-federation",
           "pageType": "productHome"
         }
