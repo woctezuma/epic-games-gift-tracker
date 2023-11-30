@@ -263,7 +263,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-12-07T16:00:00.000Z",
+              "id": "c3d26fccfa53422fb60956c7bd9a5b93"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -271,11 +279,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -284,8 +292,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -298,7 +305,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-kkvtnpwtsk8g235g3anpnqrglfrfjk",
@@ -338,319 +346,6 @@
     "url": null,
     "urlSlug": "bf0ef88b44fb4378bf4a9bad53dfd46f",
     "viewableDate": "2022-06-09T08:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "predecessor",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "Omeda Studios"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "predecessor"
-      }
-    ],
-    "description": "Predecessor is a free-to-play Third Person Action MOBA game for PC and Console. You and four allies join arms as you fight for glory on the battlefield against enemy heroes on a 3 lane map featuring an interactive jungle, epic monsters and more!",
-    "effectiveDate": "2022-12-01T08:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-11-29T22:36:30.541636+00:00",
-    "id": "a19138c05ca642d2a7fd73dcbadea7da",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "fd19be1677fd4d20a351d9c2b40fdeb9",
-        "namespace": "85f0435aa88347d185dbcb147716609b"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S1-2560x1440-5ab2309559173f7bbabe128b5d1988fd.jpg"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg"
-      },
-      {
-        "type": "ProductLogo",
-        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_IC1_400x230-074013547b8e9539058db9fa7d3afbab"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_RareBundle_OmedaStudios_Editions_S1_2560x1440-dfb2fa129d3eaf63433575914c1e03bd_2560x1440-dfb2fa129d3eaf63433575914c1e03bd"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_RareBundle_OmedaStudios_Editions_S2_1200x1600-13f650daa246c24da63ed43522e3cfd51_1200x1600-13f650daa246c24da63ed43522e3cfd5"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_RareBundle_OmedaStudios_Editions_S2_1200x1600-13f650daa246c24da63ed43522e3cfd5_1200x1600-13f650daa246c24da63ed43522e3cfd5"
-      }
-    ],
-    "namespace": "85f0435aa88347d185dbcb147716609b",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 1999,
-        "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "predecessor",
-    "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-12-14T16:00:00.000Z",
-              "startDate": "2023-12-07T16:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    "seller": {
-      "id": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
-      "name": "Omeda Studios"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21122"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1299"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21125"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "21129"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "21149"
-      },
-      {
-        "id": "1310"
-      }
-    ],
-    "title": "Predecessor",
-    "url": null,
-    "urlSlug": "corngeneralaudience",
-    "viewableDate": "2022-11-23T19:37:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "deliver-us-mars",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "deliver-us-mars"
-      }
-    ],
-    "description": "Deliver Us Mars is an atmospheric sci-fi adventure taking you on a suspense-fuelled, high-stakes mission to recover the ARK colony ships stolen by the mysterious Outward.",
-    "effectiveDate": "2023-02-02T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-11-16T15:14:04.137820+00:00",
-    "id": "34c8b5efd29f48209928d74752584426",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "1062c138fe9b49e281bcb313c5252c92",
-        "namespace": "53ec6d9f552241549c4d8aa1a42bcb3b"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S2_1200x1600-8c8042da2f394f7d2ce9403e713b17c9"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S2_1200x1600-8c8042da2f394f7d2ce9403e713b17c9"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S1_2560x1440-b5b36e7ef7feabf180837cc9d15efdae"
-      }
-    ],
-    "namespace": "53ec6d9f552241549c4d8aa1a42bcb3b",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-11-30T16:00:00.000Z",
-              "id": "5e4d11aa2be94b42af782dab62dea373"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "deliver-us-mars",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-11-30T16:00:00.000Z",
-              "startDate": "2023-11-23T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
-      "name": "Frontier Developments"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "1263"
-      }
-    ],
-    "title": "Deliver Us Mars",
-    "url": null,
-    "urlSlug": "deliver-us-mars-general-audience",
-    "viewableDate": "2023-02-02T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -1184,7 +879,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-12-07T16:00:00.000Z",
+              "id": "9e3d62c5ebc14740a79d2685ac64395e"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1192,11 +895,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -1205,8 +908,7 @@
     },
     "productSlug": "mighty-fight-federation",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1216,7 +918,13 @@
               },
               "endDate": "2023-12-07T16:00:00.000Z",
               "startDate": "2023-11-30T16:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 34,
@@ -1255,5 +963,138 @@
     "url": null,
     "urlSlug": "mighty-fight-federation",
     "viewableDate": "2022-02-11T19:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "predecessor",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Omeda Studios"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "predecessor"
+      }
+    ],
+    "description": "Predecessor is the Paragon-fuelled, fast-paced action game that combines MOBA and FPS gameplay putting you at the heart of the fight with strategic choice, third person control and immersive action.  ",
+    "effectiveDate": "2022-12-01T08:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2023-11-29T22:36:30.541636+00:00",
+    "id": "a19138c05ca642d2a7fd73dcbadea7da",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "3c5c5a4e007d475e9447847d0ea6561b",
+        "namespace": "85f0435aa88347d185dbcb147716609b"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_S2_1200x1600-1b6e10b847dc68ac1e05c71ab97383ea"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_S1_2560x1440-dbbd785fef3aff87c52c44f156295418"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_S2_1200x1600-1b6e10b847dc68ac1e05c71ab97383ea"
+      }
+    ],
+    "namespace": "85f0435aa88347d185dbcb147716609b",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 899,
+        "fmtPrice": {
+          "discountPrice": "$8.99",
+          "intermediatePrice": "$8.99",
+          "originalPrice": "$8.99"
+        },
+        "originalPrice": 899,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "predecessor",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-12-14T16:00:00.000Z",
+              "startDate": "2023-12-07T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+      "name": "Omeda Studios"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1310"
+      }
+    ],
+    "title": "Predecessor",
+    "url": null,
+    "urlSlug": "predecessor",
+    "viewableDate": "2022-11-23T19:37:00.000Z"
   }
 ]
