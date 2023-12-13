@@ -77,7 +77,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-01-10T16:00:00.000Z",
+              "id": "dabaf5afe0954a4fa56420974323131e"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -85,11 +93,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 3499,
+        "discount": 1400,
+        "discountPrice": 2099,
         "fmtPrice": {
-          "discountPrice": "$34.99",
-          "intermediatePrice": "$34.99",
+          "discountPrice": "$20.99",
+          "intermediatePrice": "$20.99",
           "originalPrice": "$34.99"
         },
         "originalPrice": 3499,
@@ -98,8 +106,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -112,7 +119,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
@@ -548,15 +556,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-12-13T16:00:00.000Z",
-              "id": "a4421fa4fe2b46efa596afcdfa0ecfa9"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -564,11 +564,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 2499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 2499,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -576,23 +576,7 @@
       }
     },
     "productSlug": "gigabash",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-12-13T16:00:00.000Z",
-              "startDate": "2023-12-07T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
       "name": "Passion Republic Games"
@@ -727,8 +711,7 @@
     },
     "productSlug": "destiny-2--legacy-collection-2023",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -741,7 +724,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
@@ -942,15 +926,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-12-13T16:00:00.000Z",
-              "id": "cae08c15fa8c4ad1ad2cdbc4bf4874cc"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -958,11 +934,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 899,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 899,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$8.99",
+          "intermediatePrice": "$8.99",
           "originalPrice": "$8.99"
         },
         "originalPrice": 899,
@@ -970,23 +946,7 @@
       }
     },
     "productSlug": "predecessor",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2023-12-13T16:00:00.000Z",
-              "startDate": "2023-12-07T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
       "name": "Omeda Studios"
