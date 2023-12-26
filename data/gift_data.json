@@ -152,13 +152,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "human-resource-machine"
       }
     ],
-    "description": "Mystery Game Day 8",
-    "effectiveDate": "2099-01-01T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-12-25T15:34:06.994632+00:00",
+    "description": "Human Resource Machine",
+    "effectiveDate": "2023-12-26T16:00:00.000Z",
+    "expiryDate": "2023-12-27T16:00:00.000Z",
+    "firstSeenDate": "2023-12-26T15:09:17.321652+00:00",
     "id": "72bf421ef3784131ab8256915af355ec",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -170,7 +170,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-8-teaser_1920x1080-c31f1e5edde1dd7bbfac692800a81d33"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-8_1920x1080-82fc196b49f405295ab980c3cd9f6a98"
       },
       {
         "type": "VaultClosed",
@@ -202,7 +202,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "human-resource-machine",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -226,7 +226,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game Day 8",
+    "title": "Human Resource Machine",
     "url": null,
     "urlSlug": "mysterygame-8",
     "viewableDate": "2023-12-25T15:25:00.000Z"
