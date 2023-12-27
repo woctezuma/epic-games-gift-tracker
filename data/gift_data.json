@@ -152,13 +152,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "cursed-to-golf-a6bc22"
       }
     ],
-    "description": "Mystery Game Day 9",
-    "effectiveDate": "2099-01-01T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2023-12-26T15:32:47.855001+00:00",
+    "description": "Cursed to Golf",
+    "effectiveDate": "2023-12-27T16:00:00.000Z",
+    "expiryDate": "2023-12-28T16:00:00.000Z",
+    "firstSeenDate": "2023-12-27T15:08:55.429615+00:00",
     "id": "0e4551e4ae65492b88009f8a4e41d778",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -170,7 +170,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-9-teaser_1920x1080-e71ae0041736db5ac259a355cb301116"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-9_1920x1080-418a8fa10dd305bb2a219a7ec869c5ef"
       },
       {
         "type": "VaultClosed",
@@ -202,12 +202,20 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "cursed-to-golf-a6bc22",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2023-12-28T16:00:00.000Z",
+              "startDate": "2023-12-27T16:00:00.000Z"
+            },
             {
               "discountSetting": {
                 "discountPercentage": 0,
@@ -226,7 +234,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game Day 9",
+    "title": "Cursed to Golf",
     "url": null,
     "urlSlug": "mysterygame-9",
     "viewableDate": "2023-12-26T15:25:00.000Z"
