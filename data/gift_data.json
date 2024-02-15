@@ -467,5 +467,413 @@
     "url": null,
     "urlSlug": "doki-doki-literature-club-plus",
     "viewableDate": "2021-06-11T20:30:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "fallout",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "fallout"
+      }
+    ],
+    "description": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. Make the right decisions or you could end up as another fallen hero in the wastelands\u2026",
+    "effectiveDate": "2022-10-20T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-02-15T14:49:07.375136+00:00",
+    "id": "ed7dba6b05354eeca6e2bc130ceffaf3",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "e1514c73151340be95b06e71c0bc71b2",
+        "namespace": "2e412cfcbd954e7180930e9784a47e18"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-f4406e1a479760bfbebc4459f7c17932"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S3_2560x1440-548598863fb854e957d7706a24c6d381"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-f4406e1a479760bfbebc4459f7c17932"
+      }
+    ],
+    "namespace": "2e412cfcbd954e7180930e9784a47e18",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 999,
+        "fmtPrice": {
+          "discountPrice": "$9.99",
+          "intermediatePrice": "$9.99",
+          "originalPrice": "$9.99"
+        },
+        "originalPrice": 999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "fallout",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-02-29T16:00:00.000Z",
+              "startDate": "2024-02-22T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+      "name": "Bethesda Softworks LLC"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1307"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21147"
+      }
+    ],
+    "title": "Fallout: A Post Nuclear Role Playing Game",
+    "url": null,
+    "urlSlug": "fallout",
+    "viewableDate": "2022-10-20T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "fallout-2",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "fallout-2"
+      }
+    ],
+    "description": "Fallout\u00ae 2 is the sequel to the critically acclaimed game that took RPG'ing out of the dungeons and into a dynamic, apocalyptic retro-future. Mastering your character's skills and traits for survival, Fallout\u00ae 2 challenges you to endure in a post-nuclear world",
+    "effectiveDate": "2022-10-20T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-02-15T14:49:07.375136+00:00",
+    "id": "f7eb422464774537915ee423ca84a59a",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "1ac53f327da148f385a2d7162363a06f",
+        "namespace": "aae22da1fb884fa395b25bc30dd61faf"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/aae22da1fb884fa395b25bc30dd61faf/EGS_Fallout2APostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-d07a5a6352badc1a2111ed42a393d049"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/aae22da1fb884fa395b25bc30dd61faf/EGS_Fallout2APostNuclearRolePlayingGame_BethesdaGameStudios_S1_2560x1440-4cfbea54e590ef00cb9c440ac3b3a36c"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/aae22da1fb884fa395b25bc30dd61faf/EGS_Fallout2APostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-d07a5a6352badc1a2111ed42a393d049"
+      }
+    ],
+    "namespace": "aae22da1fb884fa395b25bc30dd61faf",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 999,
+        "fmtPrice": {
+          "discountPrice": "$9.99",
+          "intermediatePrice": "$9.99",
+          "originalPrice": "$9.99"
+        },
+        "originalPrice": 999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "fallout-2",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-02-29T16:00:00.000Z",
+              "startDate": "2024-02-22T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+      "name": "Bethesda Softworks LLC"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1307"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21147"
+      }
+    ],
+    "title": "Fallout 2: A Post Nuclear Role Playing Game",
+    "url": null,
+    "urlSlug": "fallout-2",
+    "viewableDate": "2022-10-20T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "fallout-tactics-brotherhood-of-steel",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "fallout-tactics-brotherhood-of-steel"
+      }
+    ],
+    "description": "Tactical Squad-Based Combat comes to the Fallout\u00ae Universe!\nIn these dark times, the Brotherhood - your Brotherhood - is all that stands between the rekindled flame of civilization and the howling, radiated wasteland.",
+    "effectiveDate": "2022-10-20T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-02-15T14:49:07.375136+00:00",
+    "id": "550b1ad4adcc414a966d459587bcdb30",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "d1d4f510f5ec42eeb47fde6ba391b788",
+        "namespace": "b90be973f6e74975ac1a6ff15dbfd0b3"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/b90be973f6e74975ac1a6ff15dbfd0b3/EGS_FalloutTacticsBrotherhoodofSteel_BethesdaGameStudios_S2_1200x1600-4aa1e4a2770b319a549b91f2b52ddf67"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/b90be973f6e74975ac1a6ff15dbfd0b3/EGS_FalloutTacticsBrotherhoodofSteel_BethesdaGameStudios_S1_2560x1440-36cd52e1846a29ad9f0cf60dff64d210"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/b90be973f6e74975ac1a6ff15dbfd0b3/EGS_FalloutTacticsBrotherhoodofSteel_BethesdaGameStudios_S2_1200x1600-4aa1e4a2770b319a549b91f2b52ddf67"
+      }
+    ],
+    "namespace": "b90be973f6e74975ac1a6ff15dbfd0b3",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 999,
+        "fmtPrice": {
+          "discountPrice": "$9.99",
+          "intermediatePrice": "$9.99",
+          "originalPrice": "$9.99"
+        },
+        "originalPrice": 999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "fallout-tactics-brotherhood-of-steel",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-02-29T16:00:00.000Z",
+              "startDate": "2024-02-22T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+      "name": "Bethesda Softworks LLC"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1088"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "21129"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "Fallout Tactics: Brotherhood of Steel",
+    "url": null,
+    "urlSlug": "fallout-tactics-brotherhood-of-steel",
+    "viewableDate": "2022-10-20T15:00:00.000Z"
   }
 ]
