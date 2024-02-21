@@ -3,6 +3,154 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "aerial-knights-never-yield",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "Headup"
+      },
+      {
+        "key": "developerName",
+        "value": "Aerial_Knight"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "aerial-knights-never-yield"
+      }
+    ],
+    "description": "Take the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies.   Run, Jump, Slide or Dash for acrobatic variants leading to dope combinations and avoid the challenges that await.",
+    "effectiveDate": "2021-05-19T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-02-21T16:30:12.942898+00:00",
+    "id": "2fecb1793ce446408cd869611400a797",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "ce4d4de192a14585bc0979fefd858ec6",
+        "namespace": "2ed7ed64d8604265924b85bbd5670220"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-59f9c0d51a1810f5f864494fab3107d6"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S1_2560x1440-9699d7ad1cbf87e6cb570cba7efb5fa6"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-59f9c0d51a1810f5f864494fab3107d6"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-59f9c0d51a1810f5f864494fab3107d6"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-59f9c0d51a1810f5f864494fab3107d6"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S1_2560x1440-9699d7ad1cbf87e6cb570cba7efb5fa6"
+      }
+    ],
+    "namespace": "2ed7ed64d8604265924b85bbd5670220",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1199,
+        "fmtPrice": {
+          "discountPrice": "$11.99",
+          "intermediatePrice": "$11.99",
+          "originalPrice": "$11.99"
+        },
+        "originalPrice": 1199,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "aerial-knights-never-yield",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-03-07T16:00:00.000Z",
+              "startDate": "2024-02-29T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+      "name": "Headup Gmbh"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Aerial_Knight's Never Yield",
+    "url": null,
+    "urlSlug": "castlegeneralaudience",
+    "viewableDate": "2021-05-12T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "dakar-desert-rally",
           "pageType": "productHome"
         }
@@ -124,6 +272,9 @@
         "id": "1203"
       },
       {
+        "id": "1188"
+      },
+      {
         "id": "1370"
       },
       {
@@ -137,6 +288,167 @@
     "url": null,
     "urlSlug": "dakar-desert-rally",
     "viewableDate": "2022-11-15T14:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "lost-castle-abb2e2",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "addons"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "addons/durable"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "isManuallySetRefundableType",
+        "value": "true"
+      },
+      {
+        "key": "autoGeneratedPrice",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
+        "key": "isManuallySetPCReleaseDate",
+        "value": "false"
+      },
+      {
+        "key": "isBlockchainUsed",
+        "value": "false"
+      }
+    ],
+    "description": "The Old Ones Awaken adds new levels to explore, new enemies to defeat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
+    "effectiveDate": "2024-02-08T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-02-21T16:30:12.942898+00:00",
+    "id": "4a88d0dc64114b20b67339c74543f859",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "30f2fedfe5af4e9d96e151696f372a70",
+        "namespace": "ab29925a0a9a49598adba45d108ceb3e"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1qvy6.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1qvy6.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-5fr2h.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-tl3jh.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-ooqww.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-y89ep.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-sagu3.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1309n.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1mwvz.jpg"
+      }
+    ],
+    "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+    "offerMappings": [
+      {
+        "pageSlug": "lost-castle-lost-castle-the-old-ones-awaken-db1545",
+        "pageType": "offer"
+      }
+    ],
+    "offerType": "ADD_ON",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 399,
+        "fmtPrice": {
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
+          "originalPrice": "$3.99"
+        },
+        "originalPrice": 399,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": null,
+    "seller": {
+      "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+      "name": "Another Indie Studio Limited"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1264"
+      },
+      {
+        "id": "1265"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1083"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      }
+    ],
+    "title": "Lost Castle: The Old Ones Awaken",
+    "url": null,
+    "urlSlug": "lost-castle-the-old-ones-awaken",
+    "viewableDate": "2024-02-01T16:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -165,10 +477,6 @@
       }
     ],
     "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
       {
         "key": "developerName",
         "value": "Team Meat"
@@ -270,6 +578,9 @@
       },
       {
         "id": "21894"
+      },
+      {
+        "id": "19847"
       },
       {
         "id": "1370"
