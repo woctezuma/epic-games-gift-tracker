@@ -246,7 +246,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-03-07T16:00:00.000Z",
+              "id": "f3b7fbd0189f45369cea7d8caf491f77"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -254,11 +262,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1199,
+        "discount": 1199,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$11.99",
-          "intermediatePrice": "$11.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$11.99"
         },
         "originalPrice": 1199,
@@ -267,8 +275,7 @@
     },
     "productSlug": "aerial-knights-never-yield",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -281,7 +288,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
@@ -470,163 +478,5 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "super-meat-boy-forever",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "developerName",
-        "value": "Team Meat"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "super-meat-boy-forever"
-      }
-    ],
-    "description": "The challenge of Super Meat Boy returns in Super Meat Boy Forever! Levels are brutal and death is inevitable. Players will run, jump, punch and kick their way through familiar places and new worlds all while enjoying a story truly meant for the big screen.",
-    "effectiveDate": "2020-12-23T05:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-02-16T22:38:51.022069+00:00",
-    "id": "9ab78d8a6fe84c3f82b31215390f3c51",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "724166a7c67847b4b9f7f08e57c58f65",
-        "namespace": "moose"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S1-2560x1440-76f57fe5321b054665441ce21231961e.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S1-2560x1440-76f57fe5321b054665441ce21231961e.jpg"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg"
-      }
-    ],
-    "namespace": "moose",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-02-29T16:00:00.000Z",
-              "id": "10066497eb4f4721b92ef175592c2b5b"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "super-meat-boy-forever",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-02-29T16:00:00.000Z",
-              "startDate": "2024-02-22T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
-      "name": "Team Meat"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21109"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1151"
-      }
-    ],
-    "title": "Super Meat Boy Forever",
-    "url": null,
-    "urlSlug": "super-meat-boy-forever-launch",
-    "viewableDate": "2020-12-23T05:00:00.000Z"
   }
 ]
