@@ -297,6 +297,191 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "ghostrunner",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "505 Games"
+      },
+      {
+        "key": "developerName",
+        "value": "One More Level and 3D Realms"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ghostrunner"
+      }
+    ],
+    "description": "Ghostrunner offers a unique single-player experience: fast-paced, violent combat, and an original setting that blends science fiction with post-apocalyptic themes. It tells the story of a world that has already ended and its inhabitants who fight to survive.",
+    "effectiveDate": "2020-10-27T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-04-04T14:27:25.170481+00:00",
+    "id": "19b650f9a98a45b0bfe07674b51fa7a0",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "f36085249f784d919993008b89a9c13b",
+        "namespace": "95d0b9561be1464cb43bd029e94cf526"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
+      }
+    ],
+    "namespace": "95d0b9561be1464cb43bd029e94cf526",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "ghostrunner",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-18T15:00:00.000Z",
+              "startDate": "2024-04-11T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+      "name": "505 Games"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "21127"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1132"
+      },
+      {
+        "id": "15375"
+      },
+      {
+        "id": "21137"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1210"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "21149"
+      }
+    ],
+    "title": "Ghostrunner",
+    "url": null,
+    "urlSlug": "ghostrunner",
+    "viewableDate": "2020-10-27T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "lost-castle-abb2e2",
           "pageType": "productHome"
         }
