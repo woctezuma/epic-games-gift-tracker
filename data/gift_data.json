@@ -3,7 +3,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "thief-5bb95f",
+          "pageSlug": "town-of-salem-2-ab6497",
           "pageType": "productHome"
         }
       ]
@@ -29,7 +29,11 @@
       },
       {
         "key": "isManuallySetViewableDate",
-        "value": "false"
+        "value": "true"
+      },
+      {
+        "key": "isPromotionalContentUsed",
+        "value": "null"
       },
       {
         "key": "isManuallySetPCReleaseDate",
@@ -40,36 +44,36 @@
         "value": "false"
       }
     ],
-    "description": "Thief is a 1st person stealth-action game by Eidos-Montr\u00e9al. In this reimagination of the cult classic Thief franchise, steal, stealth and infiltrate your way through the treacherous City as Garrett, the Master Thief.",
-    "effectiveDate": "2023-12-13T16:00:00.000Z",
+    "description": "Step into the Town of Salem, a realm of Mystery and Deceit awaits! Join us in this thrilling online strategy game. Experience paranoia, taste triumph, and confront Murder in every move!",
+    "effectiveDate": "2024-04-18T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-03-28T14:27:48.090831+00:00",
-    "id": "23e4018b5fea4fa0bc1337da2b286154",
+    "firstSeenDate": "2024-04-11T15:07:51.084334+00:00",
+    "id": "f4c04d050f8c459ab1261ecbeeb5720a",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "a8d4d0ed64d743c8a8e1adb0e18dccbc",
-        "namespace": "3319fe5042ab4392a2b11c6938c0cda1"
+        "id": "96fc472dfb804453ac6bb2a3664ec8de",
+        "namespace": "ab9f1f7354a8418388b43132d420524a"
       }
     ],
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-ms1j4.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-1imcg.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1hsod.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-f0yj3.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1hsod.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-f0yj3.png"
       }
     ],
-    "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+    "namespace": "ab9f1f7354a8418388b43132d420524a",
     "offerMappings": [
       {
-        "pageSlug": "thief-5bb95f",
+        "pageSlug": "town-of-salem-2-ab6497",
         "pageType": "productHome"
       }
     ],
@@ -77,15 +81,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-11T15:00:00.000Z",
-              "id": "0f4bb38fcfae437da17e525c9e3e4257"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -93,20 +89,21 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1999,
+        "discount": 0,
         "discountPrice": 0,
         "fmtPrice": {
           "discountPrice": "0",
           "intermediatePrice": "0",
-          "originalPrice": "$19.99"
+          "originalPrice": "0"
         },
-        "originalPrice": 1999,
+        "originalPrice": 0,
         "voucherDiscount": 0
       }
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -114,43 +111,51 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2024-04-11T15:00:00.000Z",
-              "startDate": "2024-04-04T15:00:00.000Z"
+              "endDate": "2024-04-25T15:00:00.000Z",
+              "startDate": "2024-04-18T15:00:00.000Z"
             }
           ]
         }
-      ],
-      "upcomingPromotionalOffers": []
+      ]
     },
     "seller": {
-      "id": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
-      "name": "Eidos Interactive Corporation"
+      "id": "o-bulyczbzrbg4uxq47nrggfr7alesxp",
+      "name": "BlankMediaGames"
     },
     "status": "ACTIVE",
     "tags": [
       {
-        "id": "21894"
+        "id": "1264"
       },
       {
-        "id": "1336"
+        "id": "1296"
       },
       {
-        "id": "1370"
+        "id": "29088"
+      },
+      {
+        "id": "1299"
+      },
+      {
+        "id": "1110"
+      },
+      {
+        "id": "22776"
+      },
+      {
+        "id": "1115"
       },
       {
         "id": "9547"
       },
       {
-        "id": "1084"
-      },
-      {
-        "id": "15375"
+        "id": "10719"
       }
     ],
-    "title": "Thief",
+    "title": "Town of Salem 2",
     "url": null,
-    "urlSlug": "89f4a7b9f3df4f2aa468a2ee2fe38154",
-    "viewableDate": "2023-12-13T16:00:00.000Z"
+    "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a",
+    "viewableDate": "2024-04-11T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -240,7 +245,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-18T15:00:00.000Z",
+              "id": "a7a8eddfaa5b4e08aab8d725a80a6060"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -248,11 +261,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -261,8 +274,7 @@
     },
     "productSlug": "ghostrunner",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -275,7 +287,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
@@ -444,7 +457,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-25T15:00:00.000Z",
+              "id": "0e8b039bbc6c412aa52471972c2313b3"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -452,11 +473,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 399,
+        "discount": 200,
+        "discountPrice": 199,
         "fmtPrice": {
-          "discountPrice": "$3.99",
-          "intermediatePrice": "$3.99",
+          "discountPrice": "$1.99",
+          "intermediatePrice": "$1.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -465,8 +486,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -479,7 +499,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
@@ -651,188 +672,5 @@
     "url": null,
     "urlSlug": "the-big-con",
     "viewableDate": "2021-08-31T12:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "the-outer-worlds-spacers-choice-edition",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "the-outer-worlds-spacers-choice-edition"
-      }
-    ],
-    "description": "The Outer Worlds: Spacer\u2019s Choice Edition is the ultimate way to play the award-winning RPG from Obsidian Entertainment and Private Division. Including the base game and all DLC, this remastered masterpiece is the absolute best version of The Outer Worlds.",
-    "effectiveDate": "2023-03-07T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-03-27T18:36:30.990413+00:00",
-    "id": "0769596f15a445b7a5ad3f8d7c7730e2",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "63e19dde752b4306aa0c2afeddfc93aa",
-        "namespace": "dc61166eea95474e912953b163791d42"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/dc61166eea95474e912953b163791d42/EGS_TheOuterWorldsSpacersChoiceEdition_ObsidianEntertainment_S2_1200x1600-24b156886564b75bf9aa823a0a0eb18e"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/dc61166eea95474e912953b163791d42/EGS_TheOuterWorldsSpacersChoiceEdition_ObsidianEntertainment_S2_1200x1600-24b156886564b75bf9aa823a0a0eb18e"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/dc61166eea95474e912953b163791d42/EGS_TheOuterWorldsSpacersChoiceEdition_ObsidianEntertainment_S1_2560x1440-dd9211a8277a2392a9dd5b108858ba33"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/dc61166eea95474e912953b163791d42/EGS_TheOuterWorldsSpacersChoiceEdition_ObsidianEntertainment_S2_1200x1600-24b156886564b75bf9aa823a0a0eb18e"
-      }
-    ],
-    "namespace": "dc61166eea95474e912953b163791d42",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-11T15:00:00.000Z",
-              "id": "0ff29941d46b4a769832de7b14d0573b"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 5999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$59.99"
-        },
-        "originalPrice": 5999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "the-outer-worlds-spacers-choice-edition",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-11T15:00:00.000Z",
-              "startDate": "2024-04-04T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
-      "name": "Private Division"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21122"
-      },
-      {
-        "id": "1188"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "21127"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "15375"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "1367"
-      },
-      {
-        "id": "1210"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "21147"
-      },
-      {
-        "id": "21149"
-      },
-      {
-        "id": "21119"
-      }
-    ],
-    "title": "The Outer Worlds: Spacer's Choice Edition",
-    "url": null,
-    "urlSlug": "the-outer-worlds-spacers-choice-edition",
-    "viewableDate": "2023-02-27T14:00:00.000Z"
   }
 ]
