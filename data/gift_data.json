@@ -59,15 +59,15 @@
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-1imcg.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-1jqne.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-f0yj3.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-11lvd.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-f0yj3.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-11lvd.png"
       }
     ],
     "namespace": "ab9f1f7354a8418388b43132d420524a",
@@ -102,8 +102,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -116,7 +115,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-bulyczbzrbg4uxq47nrggfr7alesxp",
@@ -156,199 +156,6 @@
     "url": null,
     "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a",
     "viewableDate": "2024-04-11T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "ghostrunner",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "505 Games"
-      },
-      {
-        "key": "developerName",
-        "value": "One More Level and 3D Realms"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "ghostrunner"
-      }
-    ],
-    "description": "Ghostrunner offers a unique single-player experience: fast-paced, violent combat, and an original setting that blends science fiction with post-apocalyptic themes. It tells the story of a world that has already ended and its inhabitants who fight to survive.",
-    "effectiveDate": "2020-10-27T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-04-04T14:27:25.170481+00:00",
-    "id": "19b650f9a98a45b0bfe07674b51fa7a0",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "f36085249f784d919993008b89a9c13b",
-        "namespace": "95d0b9561be1464cb43bd029e94cf526"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg"
-      }
-    ],
-    "namespace": "95d0b9561be1464cb43bd029e94cf526",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-18T15:00:00.000Z",
-              "id": "a7a8eddfaa5b4e08aab8d725a80a6060"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "ghostrunner",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-18T15:00:00.000Z",
-              "startDate": "2024-04-11T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
-      "name": "505 Games"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21122"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "21127"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1132"
-      },
-      {
-        "id": "15375"
-      },
-      {
-        "id": "21137"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21109"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "1210"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "21149"
-      }
-    ],
-    "title": "Ghostrunner",
-    "url": null,
-    "urlSlug": "ghostrunner",
-    "viewableDate": "2020-10-27T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -513,6 +320,136 @@
     "url": null,
     "urlSlug": "industria",
     "viewableDate": "2021-09-23T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": null
+    },
+    "categories": [
+      {
+        "path": "bundles"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "bundles/games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "lisa-the-definitive-edition"
+      }
+    ],
+    "description": "Explore Olathe and unmask its twisted secrets with LISA: The Definitive Edition, including the original narrative-driven RPG LISA: The Painful and its sequel LISA: The Joyful.",
+    "effectiveDate": "2024-04-25T15:00:00.000Z",
+    "expiryDate": "2024-05-02T15:00:00.000Z",
+    "firstSeenDate": "2024-04-18T15:06:57.387196+00:00",
+    "id": "944b5b5d646d46bc92bc33edfe983d26",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "2cde880361534ed4bafd0a9bb502c543",
+        "namespace": "2052c58b9f64498386cbbbc85df90bbf"
+      },
+      {
+        "id": "a7729179144d41ec9e0a7e1c09ad2f35",
+        "namespace": "87de7c0aad7944899fb6d2b05e13b108"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
+      }
+    ],
+    "namespace": "ca3a9d16d131478c97fd56c138a6511a",
+    "offerMappings": null,
+    "offerType": "BUNDLE",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "lisa-the-definitive-edition",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-05-02T15:00:00.000Z",
+              "startDate": "2024-04-25T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-256f2bc2a35049a39ceae0f57d01bb",
+      "name": "Serenity Forge"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "LISA: The Definitive Edition",
+    "url": null,
+    "urlSlug": "lisa-the-definitive-edition",
+    "viewableDate": "2024-04-18T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -770,7 +707,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-25T15:00:00.000Z",
+              "id": "9ad8dea9e6bb47ffbc0e466c4c6e31b9"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -778,11 +723,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -791,8 +736,7 @@
     },
     "productSlug": "the-big-con",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -805,7 +749,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
