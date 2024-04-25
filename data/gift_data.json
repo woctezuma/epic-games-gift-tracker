@@ -3,7 +3,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "town-of-salem-2-ab6497",
+          "pageSlug": "combo-a7e03a",
           "pageType": "productHome"
         }
       ]
@@ -44,36 +44,36 @@
         "value": "false"
       }
     ],
-    "description": "Step into the Town of Salem, a realm of Mystery and Deceit awaits! Join us in this thrilling online strategy game. Experience paranoia, taste triumph, and confront Murder in every move!",
-    "effectiveDate": "2024-04-18T15:00:00.000Z",
+    "description": "Slice, burn, toss, zap, grind and gib massive hordes of repugnant orcs in this long-awaited successor to the award-winning Orcs Must Die! series.",
+    "effectiveDate": "2024-05-02T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-04-11T15:07:51.084334+00:00",
-    "id": "f4c04d050f8c459ab1261ecbeeb5720a",
+    "firstSeenDate": "2024-04-25T15:09:15.552181+00:00",
+    "id": "144edd0ee90645cb9c31ae6d97fcfcaf",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "96fc472dfb804453ac6bb2a3664ec8de",
-        "namespace": "ab9f1f7354a8418388b43132d420524a"
+        "id": "7bb18b0946384739b47c60ef80be049d",
+        "namespace": "a1a52b1a570e4ee3ab3b2a8ca930753e"
       }
     ],
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-1jqne.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-1puow.jpg"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-11lvd.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-f3qpi.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-11lvd.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-f3qpi.png"
       }
     ],
-    "namespace": "ab9f1f7354a8418388b43132d420524a",
+    "namespace": "a1a52b1a570e4ee3ab3b2a8ca930753e",
     "offerMappings": [
       {
-        "pageSlug": "town-of-salem-2-ab6497",
+        "pageSlug": "combo-a7e03a",
         "pageType": "productHome"
       }
     ],
@@ -90,19 +90,20 @@
           "decimals": 2
         },
         "discount": 0,
-        "discountPrice": 0,
+        "discountPrice": 2999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
         },
-        "originalPrice": 0,
+        "originalPrice": 2999,
         "voucherDiscount": 0
       }
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -110,37 +111,36 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2024-04-25T15:00:00.000Z",
-              "startDate": "2024-04-18T15:00:00.000Z"
+              "endDate": "2024-05-09T15:00:00.000Z",
+              "startDate": "2024-05-02T15:00:00.000Z"
             }
           ]
         }
-      ],
-      "upcomingPromotionalOffers": []
+      ]
     },
     "seller": {
-      "id": "o-bulyczbzrbg4uxq47nrggfr7alesxp",
-      "name": "BlankMediaGames"
+      "id": "o-fvarnus9zssf4lmv953ylzl3sbe4qc",
+      "name": "Robot Entertainment"
     },
     "status": "ACTIVE",
     "tags": [
       {
+        "id": "1216"
+      },
+      {
         "id": "1264"
       },
       {
-        "id": "1296"
+        "id": "1170"
       },
       {
-        "id": "29088"
-      },
-      {
-        "id": "1299"
-      },
-      {
-        "id": "1110"
+        "id": "21894"
       },
       {
         "id": "22776"
+      },
+      {
+        "id": "1370"
       },
       {
         "id": "1115"
@@ -149,13 +149,13 @@
         "id": "9547"
       },
       {
-        "id": "10719"
+        "id": "9549"
       }
     ],
-    "title": "Town of Salem 2",
+    "title": "Orcs Must Die! 3",
     "url": null,
-    "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a",
-    "viewableDate": "2024-04-11T15:00:00.000Z"
+    "urlSlug": "e275bea709b14063b3902af8d0deadf0",
+    "viewableDate": "2024-04-25T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -254,7 +254,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-05-02T15:00:00.000Z",
+              "id": "04342039e4af4077ac7eda59f844f457"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -262,11 +270,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -275,8 +283,7 @@
     },
     "productSlug": "industria",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -289,7 +296,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
@@ -405,8 +413,7 @@
     },
     "productSlug": "lisa-the-definitive-edition",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -419,7 +426,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
@@ -558,15 +566,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-25T15:00:00.000Z",
-              "id": "0e8b039bbc6c412aa52471972c2313b3"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -574,11 +574,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 200,
-        "discountPrice": 199,
+        "discount": 0,
+        "discountPrice": 399,
         "fmtPrice": {
-          "discountPrice": "$1.99",
-          "intermediatePrice": "$1.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -586,23 +586,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-25T15:00:00.000Z",
-              "startDate": "2024-04-11T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
@@ -707,15 +691,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-25T15:00:00.000Z",
-              "id": "9ad8dea9e6bb47ffbc0e466c4c6e31b9"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -723,11 +699,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -735,23 +711,7 @@
       }
     },
     "productSlug": "the-big-con",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-04-25T15:00:00.000Z",
-              "startDate": "2024-04-18T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
       "name": "Skybound Game Studios, Inc."
