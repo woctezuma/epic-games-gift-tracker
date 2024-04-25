@@ -101,7 +101,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-25T15:00:00.000Z",
+              "startDate": "2024-04-18T15:00:00.000Z"
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": []
+    },
     "seller": {
       "id": "o-bulyczbzrbg4uxq47nrggfr7alesxp",
       "name": "BlankMediaGames"
@@ -235,9 +251,46 @@
       }
     ],
     "offerType": "BASE_GAME",
-    "price": null,
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
     "productSlug": "industria",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-05-02T15:00:00.000Z",
+              "startDate": "2024-04-25T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
       "name": "Headup Gmbh"
@@ -351,7 +404,23 @@
       }
     },
     "productSlug": "lisa-the-definitive-edition",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-05-02T15:00:00.000Z",
+              "startDate": "2024-04-25T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
       "name": "Serenity Forge"
@@ -486,9 +555,54 @@
       }
     ],
     "offerType": "ADD_ON",
-    "price": null,
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-25T15:00:00.000Z",
+              "id": "0e8b039bbc6c412aa52471972c2313b3"
+            }
+          ]
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 200,
+        "discountPrice": 199,
+        "fmtPrice": {
+          "discountPrice": "$1.99",
+          "intermediatePrice": "$1.99",
+          "originalPrice": "$3.99"
+        },
+        "originalPrice": 399,
+        "voucherDiscount": 0
+      }
+    },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-25T15:00:00.000Z",
+              "startDate": "2024-04-11T15:00:00.000Z"
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": []
+    },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
@@ -590,7 +704,36 @@
     "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
     "offerMappings": [],
     "offerType": "BASE_GAME",
-    "price": null,
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-04-25T15:00:00.000Z",
+              "id": "9ad8dea9e6bb47ffbc0e466c4c6e31b9"
+            }
+          ]
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 1499,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "$14.99"
+        },
+        "originalPrice": 1499,
+        "voucherDiscount": 0
+      }
+    },
     "productSlug": "the-big-con",
     "promotions": {
       "promotionalOffers": [
