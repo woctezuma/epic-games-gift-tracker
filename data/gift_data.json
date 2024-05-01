@@ -250,7 +250,23 @@
       }
     },
     "productSlug": "circus-electrique",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-05-16T15:00:00.000Z",
+              "startDate": "2024-05-09T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
       "name": "Zen Studios"
