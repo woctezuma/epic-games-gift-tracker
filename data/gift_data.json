@@ -154,6 +154,140 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "circus-electrique",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "circus-electrique"
+      }
+    ],
+    "description": "Circus Electrique is part story-driven RPG, part tactics, part circus management, and completely enthralling. When everyday Londoners mysteriously turn into vicious killers, only the show\u2019s talented performers possess the skills necessary to save the city. ",
+    "effectiveDate": "2022-09-06T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-05-01T18:37:52.988522+00:00",
+    "id": "c9b55213beab4dce973680780877ce99",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "de2ae029647b4d0d99c8c53fda8aa9e4",
+        "namespace": "396a808f269241aba0fe2ad322ebd6d5"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S2_1200x1600-50d47b0e40abc0190539fc491f204e23"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S1_2560x1440-0f035a36376dd51b907662f4cd121553"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S2_1200x1600-50d47b0e40abc0190539fc491f204e23"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S1_2560x1440-0f035a36376dd51b907662f4cd121553"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S2_1200x1600-50d47b0e40abc0190539fc491f204e23"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S2_1200x1600-50d47b0e40abc0190539fc491f204e23"
+      }
+    ],
+    "namespace": "396a808f269241aba0fe2ad322ebd6d5",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "circus-electrique",
+    "promotions": null,
+    "seller": {
+      "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+      "name": "Zen Studios"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Circus Electrique",
+    "url": null,
+    "urlSlug": "circus-electrique",
+    "viewableDate": "2021-12-10T16:23:55.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "combo-a7e03a",
           "pageType": "productHome"
         }
