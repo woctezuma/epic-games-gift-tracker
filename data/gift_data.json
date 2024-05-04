@@ -495,9 +495,6 @@
       },
       {
         "path": "addons/durable"
-      },
-      {
-        "path": "applications"
       }
     ],
     "customAttributes": [
@@ -526,7 +523,7 @@
         "value": "false"
       }
     ],
-    "description": "Get 200 Gems, 10 Common chests, 5 Uncommon chests, 10 Wooden chests, 5 Iron Chests, 360 Strange Dust, 50 Scrolls, 2 exclusive Avatars, 35 Game Tokens, 5 Prestige Token and 2 exclusive Skins.",
+    "description": "Get 200 Gems, 10 Common chests, 5 Uncommon chests, 10 Wooden chests, 5 Iron Chests, 360 Strange Dust, 50 Scrolls, 2 exclusive Avatars, 35 Game Tokens, 5 Prestige Token and 1 exclusive Skin.",
     "effectiveDate": "2024-05-09T15:00:00.000Z",
     "expiryDate": "2024-05-16T15:00:00.000Z",
     "firstSeenDate": "2024-05-02T15:07:24.169791+00:00",
