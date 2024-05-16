@@ -588,14 +588,134 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
+        "value": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd"
+      }
+    ],
+    "description": "Winner of over 130 Game of the Year awards, discover the definitive Dragon Age: Inquisition experience. The Game of the Year Edition includes the critically acclaimed game, all three official add-ons - Jaws of Hakkon, The Descent, and Trespasser - and more.",
+    "effectiveDate": "2024-05-16T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-05-16T14:29:27.530108+00:00",
+    "id": "bcc9b6a86d414b5d8032f635e0c6f171",
+    "isCodeRedemptionOnly": true,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/dragon-age-inquisition-game-of-the-year-edition-1ruf7_2560x1440-24b891a8ac072d9b532539047c7a1c23"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/dragon-age-inquisition-game-of-the-year-edition-1ruf7_2560x1440-24b891a8ac072d9b532539047c7a1c23"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-05-23T15:00:00.000Z",
+              "startDate": "2024-05-16T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
+    "url": null,
+    "urlSlug": "mystery-game-01",
+    "viewableDate": "2024-05-09T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "sales-and-specials/mega-sale-2024"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
         "value": "[]"
       }
     ],
-    "description": "Mystery Game 1",
-    "effectiveDate": "2024-05-16T15:00:00.000Z",
+    "description": "Mystery Game 2",
+    "effectiveDate": "2024-05-23T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-05-09T14:28:44.596427+00:00",
-    "id": "bcc9b6a86d414b5d8032f635e0c6f171",
+    "firstSeenDate": "2024-05-16T14:29:27.530108+00:00",
+    "id": "da9df253a7d04f6e8ba9ed175fe73d68",
     "isCodeRedemptionOnly": true,
     "items": [
       {
@@ -649,8 +769,8 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2024-05-23T15:00:00.000Z",
-              "startDate": "2024-05-16T15:00:00.000Z"
+              "endDate": "2024-05-30T15:00:00.000Z",
+              "startDate": "2024-05-23T15:00:00.000Z"
             }
           ]
         }
@@ -662,9 +782,9 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 1",
+    "title": "Mystery Game 2",
     "url": null,
-    "urlSlug": "mystery-game-01",
-    "viewableDate": "2024-05-09T14:25:00.000Z"
+    "urlSlug": "mystery-game-02",
+    "viewableDate": "2024-05-16T14:25:00.000Z"
   }
 ]
