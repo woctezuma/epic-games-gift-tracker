@@ -1,6 +1,120 @@
 [
   {
     "catalogNs": {
+      "mappings": null
+    },
+    "categories": [
+      {
+        "path": "bundles"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "bundles/games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "lisa-the-definitive-edition"
+      }
+    ],
+    "description": "Explore Olathe and unmask its twisted secrets with LISA: The Definitive Edition, including the original narrative-driven RPG LISA: The Painful and its sequel LISA: The Joyful.",
+    "effectiveDate": "2024-05-21T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-05-21T16:31:13.624073+00:00",
+    "id": "944b5b5d646d46bc92bc33edfe983d26",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "2cde880361534ed4bafd0a9bb502c543",
+        "namespace": "2052c58b9f64498386cbbbc85df90bbf"
+      },
+      {
+        "id": "a7729179144d41ec9e0a7e1c09ad2f35",
+        "namespace": "87de7c0aad7944899fb6d2b05e13b108"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
+      }
+    ],
+    "namespace": "ca3a9d16d131478c97fd56c138a6511a",
+    "offerMappings": null,
+    "offerType": "BUNDLE",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2499,
+        "fmtPrice": {
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
+          "originalPrice": "$24.99"
+        },
+        "originalPrice": 2499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "lisa-the-definitive-edition",
+    "promotions": null,
+    "seller": {
+      "id": "o-256f2bc2a35049a39ceae0f57d01bb",
+      "name": "Serenity Forge"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "LISA: The Definitive Edition",
+    "url": null,
+    "urlSlug": "lisa-the-definitive-edition",
+    "viewableDate": "2024-05-21T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
       "mappings": [
         {
           "pageSlug": "lost-castle-abb2e2",
