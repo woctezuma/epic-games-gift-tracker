@@ -139,6 +139,164 @@
   },
   {
     "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "idle-champions-of-the-forgotten-realms",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Codename Entertainment"
+      },
+      {
+        "key": "developerName",
+        "value": "Codename Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "idle-champions-of-the-forgotten-realms"
+      }
+    ],
+    "description": "Idle Champions is a licensed Dungeons & Dragons strategy management video game uniting iconic characters from novels, campaigns, and shows into one epic adventure.",
+    "effectiveDate": "2021-02-16T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-06-06T14:30:46.082113+00:00",
+    "id": "a9748abde1c94b66aae5250bb9fc5503",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "9a4e1a1eb6b140f6a9e5e4dcb5a2bf55",
+        "namespace": "7e508f543b05465abe3a935960eb70ac"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-6c23d0f0576846fc88d1356df3a0c1cf"
+      }
+    ],
+    "namespace": "7e508f543b05465abe3a935960eb70ac",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-06-20T15:00:00.000Z",
+              "startDate": "2024-06-13T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+      "name": "Codename Entertainment"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21136"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "1188"
+      },
+      {
+        "id": "1141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "Idle Champions of the Forgotten Realms",
+    "url": null,
+    "urlSlug": "banegeneralaudience",
+    "viewableDate": "2021-02-16T17:00:00.000Z"
+  },
+  {
+    "catalogNs": {
       "mappings": null
     },
     "categories": [
@@ -580,7 +738,7 @@
       },
       {
         "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "sales-and-specials/mega-sale"
+        "value": "sales-and-specials/mega-sale-2024"
       },
       {
         "key": "com.epicgames.app.freegames.vault.open",
@@ -588,13 +746,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "marvels-midnight-suns"
       }
     ],
-    "description": "Mystery Game 4",
+    "description": "Confront the darker side of the Marvel universe in an all-new Tactical RPG featuring Iron Man, Wolverine, Captain America, Ghost Rider, Blade, and more. ",
     "effectiveDate": "2024-06-06T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-05-30T14:29:34.691714+00:00",
+    "firstSeenDate": "2024-06-06T14:30:46.082113+00:00",
     "id": "1c325be6572b4cb2ad27ce8583764ec7",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -606,7 +764,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_MarvelsMidnightSuns_FiraxisGames_S1_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_MarvelsMidnightSuns_FiraxisGames_S1_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e"
       },
       {
         "type": "VaultClosed",
@@ -638,7 +800,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "marvels-midnight-suns",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -662,9 +824,140 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 4",
+    "title": "Marvel's Midnight Suns",
     "url": null,
     "urlSlug": "mystery-game-04",
     "viewableDate": "2024-05-30T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "redout-2",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "redout-2"
+      }
+    ],
+    "description": "The fastest racing game in the universe. Redout 2 is a tribute to classic arcade racing games and the sequel to the critically acclaimed Redout, where racing through the dystopian wastelands of a semi-abandoned Earth is one of the galaxy\u2019s most popular sports.",
+    "effectiveDate": "2022-06-16T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-06-06T14:30:46.082113+00:00",
+    "id": "b77095c5a9224fbe8a7222db84675873",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "89d71c8a7bdb42cead8a3cbbed4861ed",
+        "namespace": "05ae696a3c5f49af91a7433547460c21"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S2_1200x1600-448c323c84902f4cbc64c1db23fb17bc"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S2_1200x1600-448c323c84902f4cbc64c1db23fb17bc"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b"
+      }
+    ],
+    "namespace": "05ae696a3c5f49af91a7433547460c21",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "redout-2",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-06-20T15:00:00.000Z",
+              "startDate": "2024-06-13T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+      "name": "Saber Interactive"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1203"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1212"
+      }
+    ],
+    "title": "Redout 2",
+    "url": null,
+    "urlSlug": "redout-2",
+    "viewableDate": "2022-06-16T16:00:00.000Z"
   }
 ]
