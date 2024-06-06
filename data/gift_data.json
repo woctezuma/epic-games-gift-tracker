@@ -196,15 +196,15 @@
     "keyImages": [
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608"
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S2_1200x1600-6468bd946e60fac355b8a656fc056aa5"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608"
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S2_1200x1600-6468bd946e60fac355b8a656fc056aa5"
       },
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-6c23d0f0576846fc88d1356df3a0c1cf"
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S1_2560x1440-0e9623fddb7ddef4d0366bed1ecfeb7c"
       }
     ],
     "namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -626,126 +626,6 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "chivalry-2"
-      }
-    ],
-    "description": "Chivalry 2 is a multiplayer first person slasher inspired by epic medieval movie battles. Players are thrust into the action of every iconic moment of the era - from clashing swords, to storms of flaming arrows, to sprawling castle sieges and more.",
-    "effectiveDate": "2024-05-30T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-05-30T14:29:34.691714+00:00",
-    "id": "7a872a4be7ce438082f331cfe6c26b79",
-    "isCodeRedemptionOnly": true,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/chiv2_wide_2560x1440-4248ed263080045c7cb13960711c5f58"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/chiv2_wide_2560x1440-4248ed263080045c7cb13960711c5f58"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "chivalry-2",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-06-06T15:00:00.000Z",
-              "startDate": "2024-05-30T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Chivalry 2",
-    "url": null,
-    "urlSlug": "mystery-game-03",
-    "viewableDate": "2024-05-23T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "sales-and-specials/mega-sale-2024"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
         "value": "marvels-midnight-suns"
       }
     ],
@@ -802,8 +682,7 @@
     },
     "productSlug": "marvels-midnight-suns",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -816,7 +695,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
