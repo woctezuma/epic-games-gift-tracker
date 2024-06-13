@@ -196,15 +196,19 @@
     "keyImages": [
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S2_1200x1600-6468bd946e60fac355b8a656fc056aa5"
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EpicPromo_May2024_1200x1600FINALENG_1200x1600-0e89e45cfb90183798f3d56e9604303a"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S2_1200x1600-6468bd946e60fac355b8a656fc056aa5"
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EpicPromo_May2024_1200x1600FINALENG_1200x1600-0e89e45cfb90183798f3d56e9604303a"
       },
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S1_2560x1440-0e9623fddb7ddef4d0366bed1ecfeb7c"
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EpicPromo_May2024_2560x1440FINALENG_2560x1440-bf7bdca100f00221c8e17dab3dcd392b"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EpicPromo_May2024_1920x1080FINALENG1080P_1920x1080-5212fe7696bb9a106705fdf492925f3e"
       }
     ],
     "namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -234,8 +238,7 @@
     },
     "productSlug": "idle-champions-of-the-forgotten-realms",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -248,7 +251,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
@@ -392,15 +396,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-06-13T15:00:00.000Z",
-              "id": "8231620b12e145619b711ffe9d103544"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -408,11 +404,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1500,
-        "discountPrice": 499,
+        "discount": 0,
+        "discountPrice": 1999,
         "fmtPrice": {
-          "discountPrice": "$4.99",
-          "intermediatePrice": "$4.99",
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -421,20 +417,7 @@
     },
     "productSlug": "lego-builders-journey",
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 25,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-06-13T15:00:00.000Z",
-              "startDate": "2024-05-16T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -701,7 +684,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-06-27T15:00:00.000Z",
+              "id": "480b5973903f43778376295c36db7085"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -709,11 +700,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 399,
+        "discount": 200,
+        "discountPrice": 199,
         "fmtPrice": {
-          "discountPrice": "$3.99",
-          "intermediatePrice": "$3.99",
+          "discountPrice": "$1.99",
+          "intermediatePrice": "$1.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -722,8 +713,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -736,7 +726,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
@@ -866,23 +857,7 @@
       }
     },
     "productSlug": "marvels-midnight-suns",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-06-13T15:00:00.000Z",
-              "startDate": "2024-06-06T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
@@ -958,7 +933,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-06-20T15:00:00.000Z",
+              "id": "5034222e10e44585ae8f023778a73df2"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -966,11 +949,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -979,8 +962,7 @@
     },
     "productSlug": "redout-2",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -993,7 +975,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
