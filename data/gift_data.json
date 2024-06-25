@@ -526,7 +526,23 @@
       }
     },
     "productSlug": "lisa-the-definitive-edition",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 70,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-19T15:00:00.000Z",
+              "startDate": "2024-08-05T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
       "name": "Serenity Forge"
