@@ -923,5 +923,157 @@
     "url": null,
     "urlSlug": "rumble-club-free-game-of-the-week-bonus",
     "viewableDate": "2024-06-13T17:29:33.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "the-falconeer",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Wired Productions"
+      },
+      {
+        "key": "developerName",
+        "value": "Tomas Sala"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-falconeer"
+      }
+    ],
+    "description": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala.",
+    "effectiveDate": "2021-08-05T13:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-06-27T14:29:54.911753+00:00",
+    "id": "98cffb44de6543aaa39a62e3c6124e06",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "72ac6d6fcf1b4024bfc6cc8da1bccddc",
+        "namespace": "29e93200bb53431a961afc53e39fb9c8"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
+      }
+    ],
+    "namespace": "29e93200bb53431a961afc53e39fb9c8",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "the-falconeer",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-07-11T15:00:00.000Z",
+              "startDate": "2024-07-04T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+      "name": "Wired Productions"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1307"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "The Falconeer: Standard Edition",
+    "url": null,
+    "urlSlug": "the-falconeer",
+    "viewableDate": null
   }
 ]
