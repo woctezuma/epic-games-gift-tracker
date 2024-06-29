@@ -97,7 +97,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-01T15:00:00.000Z",
+              "startDate": "2024-07-18T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
       "name": "Kepler Interactive"
@@ -141,7 +157,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "model-builder-f9b456",
+          "pageSlug": "model-builder-complete-edition-f9b456",
           "pageType": "productHome"
         }
       ]
@@ -211,7 +227,7 @@
     "namespace": "23499f64e5304139b514c3e674c5c0d6",
     "offerMappings": [
       {
-        "pageSlug": "model-builder-f9b456",
+        "pageSlug": "model-builder-complete-edition-f9b456",
         "pageType": "productHome"
       }
     ],
