@@ -450,6 +450,141 @@
   },
   {
     "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "arcade-paradise",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "arcade-paradise"
+      }
+    ],
+    "description": "Arcade Paradise",
+    "effectiveDate": "2022-08-11T13:05:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-07-11T14:30:35.874575+00:00",
+    "id": "f7ce9c6bfed74819894366568193d4f8",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "ae14b2753f514e8cb01fc1cf708efb2c",
+        "namespace": "89b9c510e8d74b9da34c447915b1ffb1"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S2_1200x1600-060836f13d8973394299024e8a0df87a"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S2_1200x1600-060836f13d8973394299024e8a0df87a"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S2_1200x1600-060836f13d8973394299024e8a0df87a"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S1_2560x1440-5a8ca84efde851f3ca2b0d30b393543e"
+      }
+    ],
+    "namespace": "89b9c510e8d74b9da34c447915b1ffb1",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "arcade-paradise",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-07-25T15:00:00.000Z",
+              "startDate": "2024-07-18T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+      "name": "Wired Productions"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1264"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Arcade Paradise",
+    "url": null,
+    "urlSlug": "arcade-paradise",
+    "viewableDate": "2021-11-02T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
       "mappings": null
     },
     "categories": [
