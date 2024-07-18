@@ -77,7 +77,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-01T15:00:00.000Z",
+              "id": "36534472e5304999823d5addd5208f6f"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -85,11 +93,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1200,
+        "discountPrice": 299,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$2.99",
+          "intermediatePrice": "$2.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -98,8 +106,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -112,7 +119,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
@@ -238,15 +246,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-07-18T15:00:00.000Z",
-              "id": "65a672009ee44b61a931991d3cf42bb5"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -254,11 +254,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -266,23 +266,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-07-18T15:00:00.000Z",
-              "startDate": "2024-07-11T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-q33grcu5fnu5f6ywl7st6avfuc3ry4",
       "name": "Rose City Games"
@@ -401,7 +385,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-01T15:00:00.000Z",
+              "id": "8f497026e4c2440d81748f8c54b1a074"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -409,11 +401,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1400,
+        "discountPrice": 599,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$5.99",
+          "intermediatePrice": "$5.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -422,8 +414,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -436,7 +427,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-l2jhzf6ltgxbz83h2dd8yj7zudhkvh",
@@ -539,7 +531,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-07-25T15:00:00.000Z",
+              "id": "cb23f7a1a8e14255b1da3264100801b7"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -547,11 +547,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 2499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -560,8 +560,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -574,7 +573,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-dqsahuym89qjm3dn69zaldakdjq6n5",
@@ -706,7 +706,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-07-25T15:00:00.000Z",
+              "id": "78b2a8cfd8e04e80b563462928c50eb8"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -714,11 +722,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -727,8 +735,7 @@
     },
     "productSlug": "arcade-paradise",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -741,7 +748,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
