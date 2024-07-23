@@ -1070,7 +1070,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-19T15:00:00.000Z",
+              "startDate": "2024-08-05T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
@@ -1094,9 +1110,6 @@
       },
       {
         "id": "9547"
-      },
-      {
-        "id": "35244"
       },
       {
         "id": "9549"
