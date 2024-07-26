@@ -969,7 +969,7 @@
       },
       {
         "key": "isManuallySetViewableDate",
-        "value": "true"
+        "value": "false"
       },
       {
         "key": "isPromotionalContentUsed",
@@ -999,19 +999,19 @@
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-akv5w.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-ujl2u.jpg"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1smsy.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1gk76.jpg"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1smsy.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1gk76.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1ioh2.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-4dqsl.png"
       }
     ],
     "namespace": "fe3e06d17d13402388cccfa984de6041",
