@@ -1082,7 +1082,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-19T15:00:00.000Z",
+              "id": "8256023fc1c544c3afd50ab2d696278d"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1090,11 +1098,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 1000,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -1103,8 +1111,7 @@
     },
     "productSlug": "lisa-the-definitive-edition",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1117,7 +1124,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
@@ -1259,7 +1267,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-19T15:00:00.000Z",
+              "id": "33acde71a95e4ada9428960dc14c6ca9"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1267,11 +1283,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 399,
+        "discount": 200,
+        "discountPrice": 199,
         "fmtPrice": {
-          "discountPrice": "$3.99",
-          "intermediatePrice": "$3.99",
+          "discountPrice": "$1.99",
+          "intermediatePrice": "$1.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -1280,8 +1296,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1294,7 +1309,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
