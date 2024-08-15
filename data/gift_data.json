@@ -1402,6 +1402,164 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "the-callisto-protocol",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-callisto-protocol"
+      }
+    ],
+    "description": "Survive to escape the horrors of Callisto. Using a unique blend of shooting and close-quarters combat, players will need to combat rapidly evolving creatures while scavenging to unlock new weapons and gear to outrun the growing threat of Jupiter's Dead Moon.",
+    "effectiveDate": "2022-12-03T05:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-08-15T14:42:04.197147+00:00",
+    "id": "b8833393baf843d6abc4f5eb38487d33",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "17020c8135ea47c5932000ec3c34d700",
+        "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
+      }
+    ],
+    "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 5999,
+        "fmtPrice": {
+          "discountPrice": "$59.99",
+          "intermediatePrice": "$59.99",
+          "originalPrice": "$59.99"
+        },
+        "originalPrice": 5999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "the-callisto-protocol",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-08-29T15:00:00.000Z",
+              "startDate": "2024-08-22T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+      "name": "KRAFTON, Inc."
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1218"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "21127"
+      },
+      {
+        "id": "1210"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "21149"
+      }
+    ],
+    "title": "The Callisto Protocol",
+    "url": null,
+    "urlSlug": "the-callisto-protocol",
+    "viewableDate": "2022-06-13T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "world-of-warships",
           "pageType": "productHome"
         }
