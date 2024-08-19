@@ -629,15 +629,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-08-19T15:00:00.000Z",
-              "id": "8256023fc1c544c3afd50ab2d696278d"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -645,11 +637,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1000,
-        "discountPrice": 1499,
+        "discount": 0,
+        "discountPrice": 2499,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -658,20 +650,7 @@
     },
     "productSlug": "lisa-the-definitive-edition",
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 60,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-08-19T15:00:00.000Z",
-              "startDate": "2024-08-05T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -827,15 +806,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-08-19T15:00:00.000Z",
-              "id": "33acde71a95e4ada9428960dc14c6ca9"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -843,11 +814,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 200,
-        "discountPrice": 199,
+        "discount": 0,
+        "discountPrice": 399,
         "fmtPrice": {
-          "discountPrice": "$1.99",
-          "intermediatePrice": "$1.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -855,23 +826,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-08-19T15:00:00.000Z",
-              "startDate": "2024-08-05T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
