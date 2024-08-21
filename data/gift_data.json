@@ -404,9 +404,6 @@
         "id": "1370"
       },
       {
-        "id": "21147"
-      },
-      {
         "id": "9547"
       }
     ],
@@ -1023,6 +1020,136 @@
     "url": null,
     "urlSlug": "the-callisto-protocol",
     "viewableDate": "2022-06-13T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "wild-card-football",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "wild-card-football"
+      }
+    ],
+    "description": "Wild Card Football is a fun pick-up-and-play arcade-style football game featuring 7v7 team-focused gameplay with the unique Wild Card system that lets you change the course of the action in an instant with special power-ups and rule-breaking abilities.",
+    "effectiveDate": "2023-10-10T12:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-08-21T16:34:56.030136+00:00",
+    "id": "ed35305f4e1e42b9a4166ab396816a73",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "d22b421ca67b4eb3a57e930ece01f8a5",
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
+      }
+    ],
+    "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "wild-card-football",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-09-05T15:00:00.000Z",
+              "startDate": "2024-08-29T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-09-16T15:00:00.000Z",
+              "startDate": "2024-09-02T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+      "name": "Saber Interactive"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "Wild Card Football",
+    "url": null,
+    "urlSlug": "wild-card-football",
+    "viewableDate": "2023-10-10T12:00:00.000Z"
   },
   {
     "catalogNs": {
