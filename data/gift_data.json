@@ -268,7 +268,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "gigantic-rampage-edition-03f532",
+          "pageSlug": "sniper-ghost-warrior-contracts-c772b9",
           "pageType": "productHome"
         }
       ]
@@ -298,7 +298,7 @@
       },
       {
         "key": "isPromotionalContentUsed",
-        "value": "null"
+        "value": "false"
       },
       {
         "key": "isManuallySetPCReleaseDate",
@@ -309,36 +309,36 @@
         "value": "false"
       }
     ],
-    "description": "GIGANTIC: RAMPAGE EDITION is a premium and definitive release of the original 5v5 MOBA Hero Shooter, GIGANTIC. Choose a unique hero and team up with other players to control objectives. GIGANTIC: RAMPAGE EDITION includes a new game mode, cross platform play, new heroes, new maps.",
-    "effectiveDate": "2024-04-09T13:00:00.000Z",
+    "description": "Become the ultimate assassin in the most realistic modern warfare sniping game available. Engage in an immersive single-player campaign across large, open-ended maps. Tactical thinking, stealth approach and precision in execution of long shots required.",
+    "effectiveDate": "2024-09-05T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-08-15T14:30:41.890730+00:00",
-    "id": "5a387d243a05401b926575736262a929",
+    "firstSeenDate": "2024-08-29T15:11:31.875779+00:00",
+    "id": "20f88d53af6e4e59876ed82749db4ee5",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "e39d1216d9224629a9ed76acb1fc8e84",
-        "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a"
+        "id": "5269c29b7e274e8bb8e00d64b7b1d984",
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e"
       }
     ],
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-19wce.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-erbx1.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-pjf64.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1uy1h.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-pjf64.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1uy1h.png"
       }
     ],
-    "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
+    "namespace": "3196925cb7ea45c3a9c47118e52a820e",
     "offerMappings": [
       {
-        "pageSlug": "gigantic-rampage-edition-03f532",
+        "pageSlug": "sniper-ghost-warrior-contracts-c772b9",
         "pageType": "productHome"
       }
     ],
@@ -346,15 +346,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-08-29T15:00:00.000Z",
-              "id": "bc3cbcf7fed2464a9d2c7ab9194a65dd"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -362,20 +354,21 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 2999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$19.99"
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
         },
-        "originalPrice": 1999,
+        "originalPrice": 2999,
         "voucherDiscount": 0
       }
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -383,56 +376,42 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2024-08-29T15:00:00.000Z",
-              "startDate": "2024-08-22T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-09-16T15:00:00.000Z",
-              "startDate": "2024-09-02T15:00:00.000Z"
+              "endDate": "2024-09-12T15:00:00.000Z",
+              "startDate": "2024-09-05T15:00:00.000Z"
             }
           ]
         }
       ]
     },
     "seller": {
-      "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
-      "name": "Arc Games"
+      "id": "o-2w466jcy8qfum5kv5drctwrsft632w",
+      "name": "CI Games "
     },
     "status": "ACTIVE",
     "tags": [
       {
-        "id": "1216"
+        "id": "21894"
       },
       {
-        "id": "29088"
+        "id": "1210"
       },
       {
-        "id": "1299"
-      },
-      {
-        "id": "19847"
+        "id": "1370"
       },
       {
         "id": "9547"
       },
       {
-        "id": "9549"
+        "id": "1084"
+      },
+      {
+        "id": "1294"
       }
     ],
-    "title": "Gigantic: Rampage Edition",
+    "title": "Sniper Ghost Warrior Contracts",
     "url": null,
-    "urlSlug": "97e81d8b0e3a4b69a141dcb5ceb2464b",
-    "viewableDate": "2024-02-20T17:00:00.000Z"
+    "urlSlug": "a646b7f8bea44745a55e6a6085b6a9d7",
+    "viewableDate": "2024-08-29T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -513,7 +492,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-09-05T15:00:00.000Z",
+              "id": "ad1d5203495c441fa2993153b8ccc8b5"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -521,11 +508,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -534,8 +521,7 @@
     },
     "productSlug": "fallout-classic-collection",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -548,7 +534,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
@@ -1019,172 +1006,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "the-callisto-protocol",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "the-callisto-protocol"
-      }
-    ],
-    "description": "Survive to escape the horrors of Callisto. Using a unique blend of shooting and close-quarters combat, players will need to combat rapidly evolving creatures while scavenging to unlock new weapons and gear to outrun the growing threat of Jupiter's Dead Moon.",
-    "effectiveDate": "2022-12-03T05:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-08-15T14:42:04.197147+00:00",
-    "id": "b8833393baf843d6abc4f5eb38487d33",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "17020c8135ea47c5932000ec3c34d700",
-        "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c"
-      }
-    ],
-    "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-08-29T15:00:00.000Z",
-              "id": "f7608494d63846d09a3b1bf72a819233"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 5999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$59.99"
-        },
-        "originalPrice": 5999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "the-callisto-protocol",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-08-29T15:00:00.000Z",
-              "startDate": "2024-08-22T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
-      "name": "KRAFTON, Inc."
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1218"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "21127"
-      },
-      {
-        "id": "1210"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "21149"
-      }
-    ],
-    "title": "The Callisto Protocol",
-    "url": null,
-    "urlSlug": "the-callisto-protocol",
-    "viewableDate": "2022-06-13T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "wild-card-football",
           "pageType": "productHome"
         }
@@ -1245,7 +1066,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-09-05T15:00:00.000Z",
+              "id": "a0c69df10dd042139998634c8db7c773"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1253,11 +1082,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -1266,8 +1095,7 @@
     },
     "productSlug": "wild-card-football",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1277,7 +1105,13 @@
               },
               "endDate": "2024-09-05T15:00:00.000Z",
               "startDate": "2024-08-29T15:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 50,
