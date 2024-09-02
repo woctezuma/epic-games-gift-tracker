@@ -1105,13 +1105,7 @@
               },
               "endDate": "2024-09-05T15:00:00.000Z",
               "startDate": "2024-08-29T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
+            },
             {
               "discountSetting": {
                 "discountPercentage": 50,
@@ -1122,7 +1116,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
