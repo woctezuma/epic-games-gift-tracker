@@ -653,7 +653,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-09-12T15:00:00.000Z",
+              "id": "d2f37f467ede4476b7d58b49dbf2f9e2"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -661,11 +669,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -674,8 +682,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -688,7 +695,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-2w466jcy8qfum5kv5drctwrsft632w",
@@ -802,15 +810,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-09-05T15:00:00.000Z",
-              "id": "ad1d5203495c441fa2993153b8ccc8b5"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -818,11 +818,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -830,23 +830,7 @@
       }
     },
     "productSlug": "fallout-classic-collection",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-09-05T15:00:00.000Z",
-              "startDate": "2024-08-29T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
       "name": "Bethesda Softworks LLC"
@@ -924,7 +908,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-09-12T15:00:00.000Z",
+              "id": "3d7e40a9891d4586bd91ac1ee50a8083"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -932,11 +924,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 5999,
+        "discount": 5999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$59.99",
-          "intermediatePrice": "$59.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$59.99"
         },
         "originalPrice": 5999,
@@ -945,8 +937,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -959,7 +950,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -1314,146 +1306,5 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "wild-card-football",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "wild-card-football"
-      }
-    ],
-    "description": "Wild Card Football is a fun pick-up-and-play arcade-style football game featuring 7v7 team-focused gameplay with the unique Wild Card system that lets you change the course of the action in an instant with special power-ups and rule-breaking abilities.",
-    "effectiveDate": "2023-10-10T12:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-08-21T16:34:56.030136+00:00",
-    "id": "ed35305f4e1e42b9a4166ab396816a73",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "d22b421ca67b4eb3a57e930ece01f8a5",
-        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983"
-      }
-    ],
-    "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-09-05T15:00:00.000Z",
-              "id": "a0c69df10dd042139998634c8db7c773"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "wild-card-football",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-09-05T15:00:00.000Z",
-              "startDate": "2024-08-29T15:00:00.000Z"
-            },
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-09-16T15:00:00.000Z",
-              "startDate": "2024-09-02T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
-      "name": "Saber Interactive"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "38815"
-      }
-    ],
-    "title": "Wild Card Football",
-    "url": null,
-    "urlSlug": "wild-card-football",
-    "viewableDate": "2023-10-10T12:00:00.000Z"
   }
 ]
