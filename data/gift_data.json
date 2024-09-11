@@ -711,6 +711,9 @@
         "id": "19847"
       },
       {
+        "id": "21129"
+      },
+      {
         "id": "1210"
       },
       {
@@ -723,7 +726,16 @@
         "id": "1084"
       },
       {
+        "id": "21149"
+      },
+      {
         "id": "1294"
+      },
+      {
+        "id": "21119"
+      },
+      {
+        "id": "21135"
       }
     ],
     "title": "Sniper Ghost Warrior Contracts",
@@ -1152,7 +1164,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-10-03T15:00:00.000Z",
+              "startDate": "2024-09-19T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
