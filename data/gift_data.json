@@ -1162,5 +1162,182 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "moving-out",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Team17 Digital Ltd"
+      },
+      {
+        "key": "developerName",
+        "value": "Team17 Digital Ltd"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "moving-out"
+      }
+    ],
+    "description": "Moving Out is a ridiculous physics-based moving simulator that brings new meaning to \"couch co-op\"! As a newly certified Furniture Arrangement & Relocation Technician, you\u2019ll take on moving jobs all across the busy town of Packmore.",
+    "effectiveDate": "2021-12-28T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-10-17T14:35:08.510471+00:00",
+    "id": "0a8b32256f374cf4998c3ecf44c31db9",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "e54d8bf3a451400189159b03231794f7",
+        "namespace": "f919a1262081444fb28f0fdef68d6b14"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S1_2560x1440-86272cbdeb4cc4b39f0760ab720ac585"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S1_2560x1440-86272cbdeb4cc4b39f0760ab720ac585"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580"
+      }
+    ],
+    "namespace": "f919a1262081444fb28f0fdef68d6b14",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2499,
+        "fmtPrice": {
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
+          "originalPrice": "$24.99"
+        },
+        "originalPrice": 2499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "moving-out",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-11-01T15:00:00.000Z",
+              "startDate": "2024-10-18T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-10-31T15:00:00.000Z",
+              "startDate": "2024-10-24T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-01-09T16:00:00.000Z",
+              "startDate": "2024-12-12T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+      "name": "Team17 Digital Ltd"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1264"
+      },
+      {
+        "id": "1296"
+      },
+      {
+        "id": "18051"
+      },
+      {
+        "id": "1110"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "Moving Out",
+    "url": null,
+    "urlSlug": "moving-out",
+    "viewableDate": "2021-12-28T16:00:00.000Z"
   }
 ]
