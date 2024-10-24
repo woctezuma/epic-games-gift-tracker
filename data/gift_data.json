@@ -435,7 +435,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "kardboard-kings-0962f8",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
