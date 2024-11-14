@@ -219,7 +219,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-11-21T16:00:00.000Z",
+              "id": "42c7cc4f32e24b97b45812d6f9ac6d21"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -227,11 +235,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -240,8 +248,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -254,7 +261,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
@@ -415,181 +423,6 @@
     "url": null,
     "urlSlug": "3f18c54a6e00424ba6e8f4422167cac7",
     "viewableDate": "2023-01-16T17:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "deceive-inc",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "deceive-inc"
-      }
-    ],
-    "description": "Go undercover as the world\u2019s greatest spies in this multiplayer game of subterfuge. Disguise as anyone, deploy high-tech gadgets or neutralize the competition. As long as you extract with the objective, no trick is too dirty when you work for DECEIVE INC.",
-    "effectiveDate": "2023-03-21T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-10-31T14:34:34.185909+00:00",
-    "id": "327e2f6dbe2b4859b3e1ba4f69dff5c2",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "bae29d08beae43ef8e6674702d25573f",
-        "namespace": "eca9a86adffa4605b8250d383fc01098"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S2_1200x1600-7b92243bc46b5d69987132bd4b3e8309"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S2_1200x1600-7b92243bc46b5d69987132bd4b3e8309"
-      }
-    ],
-    "namespace": "eca9a86adffa4605b8250d383fc01098",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-11-14T16:00:00.000Z",
-              "id": "194cc1f706a64606971c9180fc4ad346"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "deceive-inc",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-11-14T16:00:00.000Z",
-              "startDate": "2024-11-07T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
-      "name": "Tripwire Interactive"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "21121"
-      },
-      {
-        "id": "21122"
-      },
-      {
-        "id": "21125"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "21129"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "21136"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "1299"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "22776"
-      },
-      {
-        "id": "1210"
-      },
-      {
-        "id": "1115"
-      },
-      {
-        "id": "21149"
-      }
-    ],
-    "title": "Deceive Inc.",
-    "url": null,
-    "urlSlug": "deceive-inc",
-    "viewableDate": "2023-03-21T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -818,7 +651,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-11-21T16:00:00.000Z",
+              "id": "d6927f9c3cb14b498ee7c00f2b844b0f"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -826,11 +667,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -839,8 +680,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -853,7 +693,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-c5ek86yk5np9s3wezvcqkfjdkkahk5",
@@ -1175,156 +1016,5 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "apex-legends-006cde",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "addons"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "addons/durable"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "isManuallySetRefundableType",
-        "value": "true"
-      },
-      {
-        "key": "autoGeneratedPrice",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetViewableDate",
-        "value": "true"
-      },
-      {
-        "key": "isPromotionalContentUsed",
-        "value": "null"
-      },
-      {
-        "key": "isManuallySetPCReleaseDate",
-        "value": "true"
-      },
-      {
-        "key": "isBlockchainUsed",
-        "value": "false"
-      }
-    ],
-    "description": "Grab the Ash Free Unlock Bundle and drop straight into Apex Legends: From The Rift,  for energetic mayhem and fun.\nThe bundle includes: Ash unlocked and Ash 'Burning Chrome' Epic Skin",
-    "effectiveDate": "2024-11-07T16:00:00.000Z",
-    "expiryDate": "2024-11-14T16:00:00.000Z",
-    "firstSeenDate": "2024-10-31T15:25:36.755162+00:00",
-    "id": "b3b5fa8919d0460996a580892993a5cf",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "8e3788621b9a447883465e7226bc8580",
-        "namespace": "f9f24f4a353b451297e31f5db9cc54f2"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1szf2.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1c97o.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1c97o.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-8o1iv.jpg"
-      }
-    ],
-    "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
-    "offerMappings": [
-      {
-        "pageSlug": "apex-legends-season-23-epic-content-offer-ecf761",
-        "pageType": "offer"
-      }
-    ],
-    "offerType": "ADD_ON",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-11-14T16:00:00.000Z",
-              "startDate": "2024-11-07T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
-      "name": "Electronic Arts"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "29088"
-      },
-      {
-        "id": "1299"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "Apex Legends\u2122: Ash Free Unlock Bundle",
-    "url": null,
-    "urlSlug": "season-23-epic-content-offer",
-    "viewableDate": "2024-10-31T15:00:00.000Z"
   }
 ]
