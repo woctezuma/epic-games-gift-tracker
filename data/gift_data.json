@@ -442,6 +442,152 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "bus-simulator-21",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "bus-simulator-21"
+      }
+    ],
+    "description": "It's your stop! Bus Simulator 21 Next Stop is here! Enjoy many game improvements and a brand-new game mode with this comprehensive update.",
+    "effectiveDate": "2023-05-16T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-11-28T15:16:45.247487+00:00",
+    "id": "10adac482d1647e1afc237b66dc45066",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "575bb12301ab416e9e2ff6797dc4d466",
+        "namespace": "2b09519576cb4276bfd8df52f5288e4a"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/2b09519576cb4276bfd8df52f5288e4a/EGS_BusSimulator21NextStop_stillalivestudios_S2_1200x1600-79304bca6b4b6f8abeeb7077ea30d0e0"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/2b09519576cb4276bfd8df52f5288e4a/EGS_BusSimulator21NextStop_stillalivestudios_S1_2560x1440-ae24be3577061e1b8f850fffe2e5b3a8"
+      },
+      {
+        "type": "ProductLogo",
+        "url": "https://cdn1.epicgames.com/offer/2b09519576cb4276bfd8df52f5288e4a/EGS_BusSimulator21NextStop_stillalivestudios_IC1_400x400-ed82554381d4f167336eb0d32a2b8fd6"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/2b09519576cb4276bfd8df52f5288e4a/EGS_BusSimulator21NextStop_stillalivestudios_S2_1200x1600-79304bca6b4b6f8abeeb7077ea30d0e0"
+      }
+    ],
+    "namespace": "2b09519576cb4276bfd8df52f5288e4a",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 3499,
+        "fmtPrice": {
+          "discountPrice": "$34.99",
+          "intermediatePrice": "$34.99",
+          "originalPrice": "$34.99"
+        },
+        "originalPrice": 3499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "bus-simulator-21",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-12-12T16:00:00.000Z",
+              "startDate": "2024-12-05T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-01-09T16:00:00.000Z",
+              "startDate": "2025-01-04T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-rq9c97g8tttn6czdh2kd9vubqbunvf",
+      "name": "Astragon Entertainment GmbH"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1393"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "Bus Simulator 21 Next Stop",
+    "url": null,
+    "urlSlug": "bus-simulator-21",
+    "viewableDate": "2023-05-16T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "beholder-8c3b4c",
           "pageType": "productHome"
         }
