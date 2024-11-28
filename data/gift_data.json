@@ -97,7 +97,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 25,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-01-09T16:00:00.000Z",
+              "startDate": "2024-12-12T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
       "name": "Kepler Interactive"
