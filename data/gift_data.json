@@ -856,7 +856,23 @@
       }
     },
     "productSlug": "lisa-the-definitive-edition",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 70,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-01-10T04:59:00.000Z",
+              "startDate": "2024-12-12T14:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
       "name": "Serenity Forge"
@@ -994,15 +1010,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-12-03T16:00:00.000Z",
-              "id": "ebb8dba33aff4f8fa6f1f5118e8fe953"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1010,11 +1018,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 200,
-        "discountPrice": 199,
+        "discount": 0,
+        "discountPrice": 399,
         "fmtPrice": {
-          "discountPrice": "$1.99",
-          "intermediatePrice": "$1.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -1022,23 +1030,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-12-03T16:00:00.000Z",
-              "startDate": "2024-11-19T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
@@ -1050,9 +1042,6 @@
       },
       {
         "id": "1265"
-      },
-      {
-        "id": "39909"
       },
       {
         "id": "1367"
