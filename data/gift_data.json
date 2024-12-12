@@ -977,7 +977,7 @@
       },
       {
         "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
+        "value": "sales-and-specials/holiday-sale"
       },
       {
         "key": "com.epicgames.app.freegames.vault.open",
@@ -985,13 +985,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "the-lord-of-the-rings-return-to-moria-f01344"
       }
     ],
-    "description": "Mystery Game 1",
+    "description": "The Lord of The Rings Return to Moria",
     "effectiveDate": "2024-12-12T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-05T15:39:43.477612+00:00",
+    "firstSeenDate": "2024-12-12T15:22:33.107118+00:00",
     "id": "3da7480aac8645f5988cec4572f4ab52",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1002,11 +1002,11 @@
     ],
     "keyImages": [
       {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_Game1_1080x1920_1920x1080-86e04a5abce8b42fb56bdfe41d103bba"
       },
       {
-        "type": "DieselStoreFrontWide",
+        "type": "VaultClosed",
         "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
       }
     ],
@@ -1035,7 +1035,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "the-lord-of-the-rings-return-to-moria-f01344",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1059,7 +1059,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 1",
+    "title": "The Lord of The Rings Return to Moria",
     "url": null,
     "urlSlug": "mysterygame1",
     "viewableDate": "2024-12-05T15:25:00.000Z"
