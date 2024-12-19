@@ -759,14 +759,130 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
+        "value": "vampire-survivors-f699a1"
+      }
+    ],
+    "description": "Vampire Survivors",
+    "effectiveDate": "2024-12-19T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2024-12-19T15:29:43.924404+00:00",
+    "id": "a5015ac15d8748f2a849cc6b51e9fcf9",
+    "isCodeRedemptionOnly": true,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game2_1080x1920_1920x1080-995e42f6bcd7206113daf83bb6270c8c"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "vampire-survivors-f699a1",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2024-12-20T16:00:00.000Z",
+              "startDate": "2024-12-19T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Vampire Survivors",
+    "url": null,
+    "urlSlug": "mysterygame2",
+    "viewableDate": "2024-12-12T15:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "sales-and-specials/holiday-sale"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
         "value": "[]"
       }
     ],
-    "description": "Mystery Game 2",
-    "effectiveDate": "2024-12-19T16:00:00.000Z",
+    "description": "Mystery Game 3",
+    "effectiveDate": "2024-12-20T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-12T15:30:36.114007+00:00",
-    "id": "a5015ac15d8748f2a849cc6b51e9fcf9",
+    "firstSeenDate": "2024-12-19T15:29:43.924404+00:00",
+    "id": "862e2387886e41b9873d8462203763ed",
     "isCodeRedemptionOnly": true,
     "items": [
       {
@@ -820,8 +936,8 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2024-12-20T16:00:00.000Z",
-              "startDate": "2024-12-19T16:00:00.000Z"
+              "endDate": "2024-12-21T16:00:00.000Z",
+              "startDate": "2024-12-20T16:00:00.000Z"
             }
           ]
         }
@@ -833,9 +949,9 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 2",
+    "title": "Mystery Game 3",
     "url": null,
-    "urlSlug": "mysterygame2",
-    "viewableDate": "2024-12-12T15:25:00.000Z"
+    "urlSlug": "mysterygame3",
+    "viewableDate": "2024-12-19T15:25:00.000Z"
   }
 ]
