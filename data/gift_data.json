@@ -759,13 +759,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "wizard-of-legend-21c07d"
       }
     ],
-    "description": "Mystery Game 5",
+    "description": "Wizard of Legend",
     "effectiveDate": "2024-12-22T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-21T15:25:51.412204+00:00",
+    "firstSeenDate": "2024-12-22T15:21:34.338891+00:00",
     "id": "06b83773e1f743a18000db1f99faa90e",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -777,7 +777,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game5_1080x1920_1920x1080-76a9e2e9ff82f068293d98827a638253"
       },
       {
         "type": "VaultClosed",
@@ -809,7 +809,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "wizard-of-legend-21c07d",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -833,7 +833,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 5",
+    "title": "Wizard of Legend",
     "url": null,
     "urlSlug": "mysterygame5",
     "viewableDate": "2024-12-21T15:25:00.000Z"
