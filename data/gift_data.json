@@ -759,13 +759,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "dark-and-darker-qa-dark-and-darker-legendary-status-a83d59"
       }
     ],
-    "description": "Mystery Game 6",
+    "description": "Dark and Darker - Legendary Status",
     "effectiveDate": "2024-12-23T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-22T15:28:47.636364+00:00",
+    "firstSeenDate": "2024-12-23T15:25:28.026320+00:00",
     "id": "fa53d260ee9b4c7fa049b2721a9a7d31",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -777,7 +777,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game6_1920x1080_1920x1080-a9761fce0451d8b9be7fa2e9892de753"
       },
       {
         "type": "VaultClosed",
@@ -809,7 +809,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "dark-and-darker-qa-dark-and-darker-legendary-status-a83d59",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -833,7 +833,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 6",
+    "title": "Dark and Darker - Legendary Status",
     "url": null,
     "urlSlug": "mysterygame6",
     "viewableDate": "2024-12-22T15:25:00.000Z"
