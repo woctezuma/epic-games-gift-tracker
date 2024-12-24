@@ -646,122 +646,6 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "dark-and-darker-qa-dark-and-darker-legendary-status-a83d59"
-      }
-    ],
-    "description": "Dark and Darker - Legendary Status",
-    "effectiveDate": "2024-12-23T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2024-12-23T15:25:28.026320+00:00",
-    "id": "fa53d260ee9b4c7fa049b2721a9a7d31",
-    "isCodeRedemptionOnly": true,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game6_1920x1080_1920x1080-a9761fce0451d8b9be7fa2e9892de753"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "dark-and-darker-qa-dark-and-darker-legendary-status-a83d59",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2024-12-24T16:00:00.000Z",
-              "startDate": "2024-12-23T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Dark and Darker - Legendary Status",
-    "url": null,
-    "urlSlug": "mysterygame6",
-    "viewableDate": "2024-12-22T15:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "sales-and-specials/holiday-sale"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
         "value": "dredge-3e3a5f"
       }
     ],
@@ -814,8 +698,7 @@
     },
     "productSlug": "dredge-3e3a5f",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -828,7 +711,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
