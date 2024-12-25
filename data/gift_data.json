@@ -762,13 +762,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "control"
       }
     ],
-    "description": "Mystery Game 8",
+    "description": "Control",
     "effectiveDate": "2024-12-25T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-24T15:31:22.482573+00:00",
+    "firstSeenDate": "2024-12-25T15:16:30.186869+00:00",
     "id": "48b7fada65364b0d9500ecaf9c80228f",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -780,7 +780,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game8_1080x1920_1920x1080-17347f31e263e117a7a45d04eb557ec8"
       },
       {
         "type": "VaultClosed",
@@ -812,7 +812,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "control",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -836,7 +836,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 8",
+    "title": "Control",
     "url": null,
     "urlSlug": "mysterygame8",
     "viewableDate": "2024-12-24T15:25:00.000Z"
