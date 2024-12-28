@@ -762,13 +762,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "kill-knight-e981b3"
       }
     ],
-    "description": "Mystery Game 11",
+    "description": "Kill Knight",
     "effectiveDate": "2024-12-28T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-27T15:31:29.092986+00:00",
+    "firstSeenDate": "2024-12-28T15:17:02.767830+00:00",
     "id": "4a67bc93f23f4d9c8b0a375295fc93eb",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -780,7 +780,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game11_1080x1920_1920x1080-040262a7bf171f8b775ddbf6fd290161"
       },
       {
         "type": "VaultClosed",
@@ -812,7 +812,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "kill-knight-e981b3",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -836,7 +836,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 11",
+    "title": "Kill Knight",
     "url": null,
     "urlSlug": "mysterygame11",
     "viewableDate": "2024-12-27T15:25:00.000Z"
