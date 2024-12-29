@@ -762,13 +762,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "combo-a7e03a"
       }
     ],
-    "description": "Mystery Game 12",
+    "description": "Orcs Must Die! 3",
     "effectiveDate": "2024-12-29T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-28T15:27:45.801878+00:00",
+    "firstSeenDate": "2024-12-29T15:11:37.125791+00:00",
     "id": "9859aa5e2b0f41cbaab06af348d33a1f",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -780,7 +780,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game12_1080x1920_1920x1080-56319729cf3c39fa405e21f05209cd86"
       },
       {
         "type": "VaultClosed",
@@ -812,7 +812,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "combo-a7e03a",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -836,7 +836,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 12",
+    "title": "Orcs Must Die! 3",
     "url": null,
     "urlSlug": "mysterygame12",
     "viewableDate": "2024-12-28T15:25:00.000Z"
