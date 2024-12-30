@@ -762,13 +762,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "redacted-d9d21e"
       }
     ],
-    "description": "Mystery Game 13",
+    "description": "[REDACTED]",
     "effectiveDate": "2024-12-30T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-29T15:30:36.817292+00:00",
+    "firstSeenDate": "2024-12-30T15:15:17.139455+00:00",
     "id": "e114a5e98b504b2d9728a21577357af0",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -780,7 +780,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game13_1080x1920_1920x1080-f565f3c3e8b6cc8925c5a0ebb6893e17"
       },
       {
         "type": "VaultClosed",
@@ -812,7 +812,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "redacted-d9d21e",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -836,7 +836,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 13",
+    "title": "[REDACTED]",
     "url": null,
     "urlSlug": "mysterygame13",
     "viewableDate": "2024-12-29T15:25:00.000Z"
