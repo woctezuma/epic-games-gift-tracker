@@ -762,13 +762,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "sifu"
       }
     ],
-    "description": "Mystery Game 14",
+    "description": "Sifu",
     "effectiveDate": "2024-12-31T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2024-12-30T15:28:17.239842+00:00",
+    "firstSeenDate": "2024-12-31T15:16:31.100783+00:00",
     "id": "a4a17421855249edbf4fc6b5a4819f7f",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -780,7 +780,7 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game14_1080x1920_1920x1080-74a4bb3ae433e762b171a6641cbe71f5"
       },
       {
         "type": "VaultClosed",
@@ -812,7 +812,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "sifu",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -836,7 +836,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 14",
+    "title": "Sifu",
     "url": null,
     "urlSlug": "mysterygame14",
     "viewableDate": "2024-12-30T15:25:00.000Z"
