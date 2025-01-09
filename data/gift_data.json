@@ -137,7 +137,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-01-16T16:00:00.000Z",
+              "id": "dabd71958d3c4a2f8356a2cdfb25bc03"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -145,11 +153,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1299,
+        "discount": 1299,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$12.99",
-          "intermediatePrice": "$12.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$12.99"
         },
         "originalPrice": 1299,
@@ -158,8 +166,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -172,7 +179,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-r9qyzcd8d5v5sds5z8y9c4le2upujd",
@@ -188,6 +196,9 @@
       },
       {
         "id": "1299"
+      },
+      {
+        "id": "19847"
       },
       {
         "id": "22776"
@@ -294,15 +305,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-09T16:00:00.000Z",
-              "id": "f1e934210af04486b1ecf48cb839466d"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -310,11 +313,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1125,
-        "discountPrice": 374,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "$3.74",
-          "intermediatePrice": "$3.74",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -322,23 +325,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 25,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-09T16:00:00.000Z",
-              "startDate": "2024-12-12T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
       "name": "Kepler Interactive"
@@ -993,121 +980,5 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "sales-and-specials/holiday-sale"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "hell-let-loose-03f036"
-      }
-    ],
-    "description": "Hell Let Loose",
-    "effectiveDate": "2025-01-02T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-01-02T15:30:44.649119+00:00",
-    "id": "d30946927c894a6dad62a32faeece0d6",
-    "isCodeRedemptionOnly": true,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game16_1080x1920_1920x1080-bc3fb611db960a5c949a7d6ca5e36b5e"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "hell-let-loose-03f036",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-09T16:00:00.000Z",
-              "startDate": "2025-01-02T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Hell Let Loose",
-    "url": null,
-    "urlSlug": "mysterygame16",
-    "viewableDate": "2025-01-01T15:25:00.000Z"
   }
 ]
