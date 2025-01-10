@@ -718,15 +718,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-10T04:59:00.000Z",
-              "id": "659780d2c03f45e5bd2bb9c65e3af6e8"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -734,11 +726,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 750,
-        "discountPrice": 1749,
+        "discount": 0,
+        "discountPrice": 2499,
         "fmtPrice": {
-          "discountPrice": "$17.49",
-          "intermediatePrice": "$17.49",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -746,23 +738,7 @@
       }
     },
     "productSlug": "lisa-the-definitive-edition",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 70,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-10T04:59:00.000Z",
-              "startDate": "2024-12-12T14:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
       "name": "Serenity Forge"
