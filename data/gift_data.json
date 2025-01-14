@@ -220,6 +220,9 @@
       },
       {
         "id": "10719"
+      },
+      {
+        "id": "21119"
       }
     ],
     "title": "Turmoil",
@@ -873,15 +876,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-14T16:00:00.000Z",
-              "id": "ac299edb6adb42b38dadf9df9222c11b"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -889,11 +884,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 200,
-        "discountPrice": 199,
+        "discount": 0,
+        "discountPrice": 399,
         "fmtPrice": {
-          "discountPrice": "$1.99",
-          "intermediatePrice": "$1.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -901,23 +896,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-14T16:00:00.000Z",
-              "startDate": "2025-01-07T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
@@ -941,9 +920,6 @@
       },
       {
         "id": "9547"
-      },
-      {
-        "id": "29899"
       },
       {
         "id": "9549"
