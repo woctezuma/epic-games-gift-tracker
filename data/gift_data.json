@@ -434,197 +434,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "behind-the-frame-the-finest-scenery",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Akupara Games"
-      },
-      {
-        "key": "developerName",
-        "value": "Silver Lining Studio"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "behind-the-frame-the-finest-scenery"
-      },
-      {
-        "key": "isBlockchainUsed",
-        "value": "null"
-      }
-    ],
-    "description": "Guide brush strokes and solve a variety of puzzles to help an aspiring artist complete her masterpiece. As her painting starts to take shape, uncover an emotional tale of chance and artistry revealed behind unrelated yet familiar moments.",
-    "effectiveDate": "2021-08-25T13:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-01-16T15:40:33.318610+00:00",
-    "id": "ade0eed6f17a412b97d29a992b35754c",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "153ad313b8bc476eb4786be9a9f29a5c",
-        "namespace": "5fb8093984924ff5bfad61ae28730818"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S2_1200x1600-e8ebbaa03f51ba841b061de5fc6eab84"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S2_1200x1600-e8ebbaa03f51ba841b061de5fc6eab84"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S1_2560x1440-6aecd08e68bad5772e080342679154d0"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S2_1200x1600-e8ebbaa03f51ba841b061de5fc6eab84"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S1_2560x1440-6aecd08e68bad5772e080342679154d0"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S2_1200x1600-e8ebbaa03f51ba841b061de5fc6eab84"
-      }
-    ],
-    "namespace": "5fb8093984924ff5bfad61ae28730818",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-30T16:00:00.000Z",
-              "id": "4a9662cf075c43b8909b8ea7bb8dc961"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1299,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$12.99"
-        },
-        "originalPrice": 1299,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "behind-the-frame-the-finest-scenery",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-01-30T16:00:00.000Z",
-              "startDate": "2025-01-23T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 60,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-24T16:00:00.000Z",
-              "startDate": "2025-02-10T16:00:00.000Z"
-            },
-            {
-              "discountSetting": {
-                "discountPercentage": 60,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-04-09T15:00:00.000Z",
-              "startDate": "2025-03-26T16:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    "seller": {
-      "id": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
-      "name": "Akupara Games"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1298"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "1294"
-      },
-      {
-        "id": "10719"
-      }
-    ],
-    "title": "Behind the Frame: The Finest Scenery",
-    "url": null,
-    "urlSlug": "behind-the-frame-the-finest-scenery",
-    "viewableDate": "2021-08-10T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "beyond-blue",
           "pageType": "productHome"
         }
@@ -1139,7 +948,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-06T16:00:00.000Z",
+              "id": "c101dc1cbe814f44a0e2c605f008e6d0"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1147,11 +964,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -1160,8 +977,7 @@
     },
     "productSlug": "undying",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1174,7 +990,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-wwzfgcpzmd2b2ymr5mwvlwfwbpl7ay",
