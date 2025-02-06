@@ -583,7 +583,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-13T16:00:00.000Z",
+              "id": "a7f41925cd6c4edc8d9d3edada67b121"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -591,11 +599,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -604,8 +612,7 @@
     },
     "productSlug": "beyond-blue",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -618,7 +625,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
@@ -1127,6 +1135,360 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "humankind",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "SEGA"
+      },
+      {
+        "key": "developerName",
+        "value": "AMPLITUDE Studios"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "humankind"
+      }
+    ],
+    "description": "HUMANKIND\u2122 is a historical strategy game, where you\u2019ll be re-writing the entire narrative of human history and combining cultures to create a civilization that\u2019s as unique as you are.",
+    "effectiveDate": "2021-08-17T14:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-02-06T16:35:16.044356+00:00",
+    "id": "e79119839e374d468236b7acc979ff95",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "a72585838efe416bbc19b8e6e9bb9491",
+        "namespace": "02c14a01b7044db98de3f3a10813a42e"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57"
+      }
+    ],
+    "namespace": "02c14a01b7044db98de3f3a10813a42e",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-13T16:00:00.000Z",
+              "id": "d480984cb6714bad93c7e3ffe448bf18"
+            }
+          ]
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 4999,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "$49.99"
+        },
+        "originalPrice": 4999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "humankind",
+    "promotions": {
+      "promotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-13T16:00:00.000Z",
+              "startDate": "2025-02-06T16:00:00.000Z"
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-24T16:00:00.000Z",
+              "startDate": "2025-02-10T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+      "name": "SEGA of Europe"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1088"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "1188"
+      },
+      {
+        "id": "21125"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "21127"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1166"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1299"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "21146"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "10719"
+      }
+    ],
+    "title": "HUMANKIND\u2122 Standard Edition",
+    "url": null,
+    "urlSlug": "scorpiogeneralaudience",
+    "viewableDate": "2021-08-17T14:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "apex-legends-006cde",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "addons"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "addons/durable"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "isManuallySetRefundableType",
+        "value": "true"
+      },
+      {
+        "key": "autoGeneratedPrice",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
+        "key": "isPromotionalContentUsed",
+        "value": "null"
+      },
+      {
+        "key": "isManuallySetPCReleaseDate",
+        "value": "false"
+      },
+      {
+        "key": "isBlockchainUsed",
+        "value": "false"
+      }
+    ],
+    "description": "Grab the Loba Free Unlock Bundle and drop straight into Apex Legends: Takeover,  for energetic mayhem and fun.\nThe bundle includes: Loba unlocked and Loba 'Torrent' Epic Skin",
+    "effectiveDate": "2025-02-13T16:00:00.000Z",
+    "expiryDate": "2025-02-20T16:00:00.000Z",
+    "firstSeenDate": "2025-02-06T16:35:16.044356+00:00",
+    "id": "f4b09c0830d44f08a4a042b697483977",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "6f53de8bd11b4d3995a804b5960978c9",
+        "namespace": "f9f24f4a353b451297e31f5db9cc54f2"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-bnz8f.jpg"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1nk9w.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1nk9w.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-m7i3m.jpg"
+      }
+    ],
+    "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+    "offerMappings": [
+      {
+        "pageSlug": "apex-legends-season-24-epic-content-offer-f63bd1",
+        "pageType": "offer"
+      }
+    ],
+    "offerType": "ADD_ON",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-20T16:00:00.000Z",
+              "startDate": "2025-02-13T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+      "name": "Electronic Arts"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "29088"
+      },
+      {
+        "id": "1299"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "Apex Legends\u2122: Loba Free Unlock Bundle",
+    "url": null,
+    "urlSlug": "season-24-epic-content-offer",
+    "viewableDate": "2025-02-06T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "undying",
           "pageType": "productHome"
         }
@@ -1199,15 +1561,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-06T16:00:00.000Z",
-              "id": "c101dc1cbe814f44a0e2c605f008e6d0"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1215,11 +1569,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -1227,23 +1581,7 @@
       }
     },
     "productSlug": "undying",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-06T16:00:00.000Z",
-              "startDate": "2025-01-30T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-wwzfgcpzmd2b2ymr5mwvlwfwbpl7ay",
       "name": "Skystone Games"
