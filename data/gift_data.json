@@ -77,7 +77,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-24T16:00:00.000Z",
+              "id": "10561264d615448e9975cb13cf9805dd"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -85,11 +93,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1125,
+        "discountPrice": 374,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$3.74",
+          "intermediatePrice": "$3.74",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -98,8 +106,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -109,7 +116,13 @@
               },
               "endDate": "2025-02-24T16:00:00.000Z",
               "startDate": "2025-02-10T16:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 25,
@@ -142,6 +155,9 @@
       },
       {
         "id": "19847"
+      },
+      {
+        "id": "39911"
       },
       {
         "id": "1336"
@@ -903,7 +919,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-24T16:00:00.000Z",
+              "id": "b626b34b118a46ba80bf0a63791563ef"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -911,11 +935,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 750,
+        "discountPrice": 1749,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "$17.49",
+          "intermediatePrice": "$17.49",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -924,8 +948,7 @@
     },
     "productSlug": "lisa-the-definitive-edition",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -938,7 +961,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
@@ -948,6 +972,9 @@
     "tags": [
       {
         "id": "1367"
+      },
+      {
+        "id": "39911"
       },
       {
         "id": "1370"
@@ -1246,13 +1273,7 @@
               },
               "endDate": "2025-02-13T16:00:00.000Z",
               "startDate": "2025-02-06T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
+            },
             {
               "discountSetting": {
                 "discountPercentage": 20,
@@ -1263,7 +1284,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -1288,6 +1310,9 @@
       },
       {
         "id": "21127"
+      },
+      {
+        "id": "39911"
       },
       {
         "id": "9547"
