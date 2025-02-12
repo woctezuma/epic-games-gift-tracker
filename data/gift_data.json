@@ -1509,5 +1509,208 @@
     "url": null,
     "urlSlug": "season-24-epic-content-offer",
     "viewableDate": "2025-02-06T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "world-war-z",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Saber Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Saber Interactive"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "world-war-z"
+      }
+    ],
+    "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
+    "effectiveDate": "2021-09-21T13:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-02-12T23:37:05.203169+00:00",
+    "id": "05af9ab1d2dc4b78ada8b2f09724da20",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "4446fc9443324b7f8f742fb913ad9ba3",
+        "namespace": "wombat"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZ_SaberInteractive_Editions_S1_2560x1440-1555028d9b62f5348df49ad07b4301f0"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZ_SaberInteractive_Editions_S2_1200x1600-8f45e0b69430aeffb89fc9906e3e5a34"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZ_SaberInteractive_Editions_S2_1200x1600-8f45e0b69430aeffb89fc9906e3e5a34"
+      }
+    ],
+    "namespace": "wombat",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-24T16:00:00.000Z",
+              "id": "192f1e0567ec4fea925c25b60a293a97"
+            }
+          ]
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 2000,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$39.99"
+        },
+        "originalPrice": 3999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "world-war-z",
+    "promotions": {
+      "promotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-24T16:00:00.000Z",
+              "startDate": "2025-02-10T16:00:00.000Z"
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-27T16:00:00.000Z",
+              "startDate": "2025-02-20T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+      "name": "Saber Interactive"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "1220"
+      },
+      {
+        "id": "1188"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "39911"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1080"
+      },
+      {
+        "id": "1210"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "World War Z Aftermath",
+    "url": null,
+    "urlSlug": "world-war-z-aftermath",
+    "viewableDate": "2021-09-21T13:00:00.000Z"
   }
 ]
