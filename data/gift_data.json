@@ -858,6 +858,149 @@
   },
   {
     "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "garden-story",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "Rose City Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Picogram"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "garden-story"
+      }
+    ],
+    "description": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
+    "effectiveDate": "2021-08-11T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-02-13T15:47:09.837936+00:00",
+    "id": "794bbf45d5fe451d9f805d99d30bbbd0",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "d47ef5e7c5c24210be62c0a73b737018",
+        "namespace": "0f3f352865294c3ea5e10454f24fde85"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S1_2560x1440-b1549cf6645f51ab0bacf6d73aa1631d"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
+      }
+    ],
+    "namespace": "0f3f352865294c3ea5e10454f24fde85",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "garden-story",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-02-27T16:00:00.000Z",
+              "startDate": "2025-02-20T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-q33grcu5fnu5f6ywl7st6avfuc3ry4",
+      "name": "Rose City Games"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Garden Story",
+    "url": null,
+    "urlSlug": "genericviridian-general-audience",
+    "viewableDate": null
+  },
+  {
+    "catalogNs": {
       "mappings": null
     },
     "categories": [
