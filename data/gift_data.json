@@ -1088,6 +1088,153 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "mages-of-mystralia",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "mages-of-mystralia"
+      }
+    ],
+    "description": "In a world of magic, your mind is your greatest weapon. Learn the ways of magic and design your own spells to fight enemies, navigate treacherous terrain, and right past wrongs in the kingdom of Mystralia.",
+    "effectiveDate": "2021-12-27T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-02-20T15:25:51.995168+00:00",
+    "id": "464a19f4865248b5948c9514af11d563",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "e0b43e0732a14730a11810de940e47f9",
+        "namespace": "bd12fd574df14846ad24703ca7b1a12b"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
+      }
+    ],
+    "namespace": "bd12fd574df14846ad24703ca7b1a12b",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "mages-of-mystralia",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-03-06T16:00:00.000Z",
+              "startDate": "2025-02-27T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-xez4pg2utm5x7l9d2xvzff2cuvsfzb",
+      "name": "Dan Adelman LLC"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Mages of Mystralia",
+    "url": null,
+    "urlSlug": "mages-of-mystralia",
+    "viewableDate": "2021-12-27T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "apex-legends-006cde",
           "pageType": "productHome"
         }
