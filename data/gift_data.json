@@ -77,15 +77,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-24T16:00:00.000Z",
-              "id": "10561264d615448e9975cb13cf9805dd"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -93,11 +85,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1125,
-        "discountPrice": 374,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "$3.74",
-          "intermediatePrice": "$3.74",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -106,20 +98,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 25,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-24T16:00:00.000Z",
-              "startDate": "2025-02-10T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -148,6 +127,9 @@
         "id": "1296"
       },
       {
+        "id": "21138"
+      },
+      {
         "id": "21894"
       },
       {
@@ -155,9 +137,6 @@
       },
       {
         "id": "19847"
-      },
-      {
-        "id": "39911"
       },
       {
         "id": "1336"
@@ -660,15 +639,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-24T16:00:00.000Z",
-              "id": "b626b34b118a46ba80bf0a63791563ef"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -676,11 +647,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 750,
-        "discountPrice": 1749,
+        "discount": 0,
+        "discountPrice": 2499,
         "fmtPrice": {
-          "discountPrice": "$17.49",
-          "intermediatePrice": "$17.49",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -688,23 +659,7 @@
       }
     },
     "productSlug": "lisa-the-definitive-edition",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 70,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-24T16:00:00.000Z",
-              "startDate": "2025-02-10T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
       "name": "Serenity Forge"
@@ -713,9 +668,6 @@
     "tags": [
       {
         "id": "1367"
-      },
-      {
-        "id": "39911"
       },
       {
         "id": "1370"
@@ -1156,14 +1108,6 @@
           "promotionalOffers": [
             {
               "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-24T16:00:00.000Z",
-              "startDate": "2025-02-10T16:00:00.000Z"
-            },
-            {
-              "discountSetting": {
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
@@ -1195,9 +1139,6 @@
       },
       {
         "id": "21894"
-      },
-      {
-        "id": "39911"
       },
       {
         "id": "9547"
