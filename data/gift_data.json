@@ -427,157 +427,6 @@
   },
   {
     "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "garden-story",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "publisherName",
-        "value": "Rose City Games"
-      },
-      {
-        "key": "developerName",
-        "value": "Picogram"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "garden-story"
-      }
-    ],
-    "description": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
-    "effectiveDate": "2021-08-11T17:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-02-13T15:47:09.837936+00:00",
-    "id": "794bbf45d5fe451d9f805d99d30bbbd0",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "d47ef5e7c5c24210be62c0a73b737018",
-        "namespace": "0f3f352865294c3ea5e10454f24fde85"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S1_2560x1440-b1549cf6645f51ab0bacf6d73aa1631d"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c"
-      }
-    ],
-    "namespace": "0f3f352865294c3ea5e10454f24fde85",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-27T16:00:00.000Z",
-              "id": "c34bbd0877014184b56ed871180ca596"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "garden-story",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-27T16:00:00.000Z",
-              "startDate": "2025-02-20T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-q33grcu5fnu5f6ywl7st6avfuc3ry4",
-      "name": "Rose City Games"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "1367"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "1263"
-      }
-    ],
-    "title": "Garden Story",
-    "url": null,
-    "urlSlug": "genericviridian-general-audience",
-    "viewableDate": null
-  },
-  {
-    "catalogNs": {
       "mappings": null
     },
     "categories": [
@@ -931,7 +780,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-03-06T16:00:00.000Z",
+              "id": "35886a83e7bb41b88e3cf835badfdd0f"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -939,11 +796,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -952,8 +809,7 @@
     },
     "productSlug": "mages-of-mystralia",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -966,7 +822,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-xez4pg2utm5x7l9d2xvzff2cuvsfzb",
@@ -1188,195 +1045,5 @@
     "url": null,
     "urlSlug": "thems-fightin-herds",
     "viewableDate": "2022-12-19T15:55:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "world-war-z",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Saber Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "Saber Interactive"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "world-war-z"
-      }
-    ],
-    "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
-    "effectiveDate": "2021-09-21T13:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-02-12T23:37:05.203169+00:00",
-    "id": "05af9ab1d2dc4b78ada8b2f09724da20",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "4446fc9443324b7f8f742fb913ad9ba3",
-        "namespace": "wombat"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/wombat/landscapewwz-aftermath-1248x702_1248x702-43415cb8226261eba181a914f0bc85bc"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/wombat/portrait-wwzaftermath-1200x1600_1200x1600-1c62343365f63ed408e5906b88141d7e"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/wombat/portrait-wwzaftermath-1200x1600_1200x1600-1c62343365f63ed408e5906b88141d7e"
-      }
-    ],
-    "namespace": "wombat",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-27T16:00:00.000Z",
-              "id": "5a8681fdf5f748a08eb546965ca07267"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 3999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$39.99"
-        },
-        "originalPrice": 3999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "world-war-z",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-02-27T16:00:00.000Z",
-              "startDate": "2025-02-20T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
-      "name": "Saber Interactive"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21122"
-      },
-      {
-        "id": "1220"
-      },
-      {
-        "id": "1188"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "1264"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "1203"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21109"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "1080"
-      },
-      {
-        "id": "1210"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "21149"
-      },
-      {
-        "id": "21119"
-      }
-    ],
-    "title": "World War Z Aftermath",
-    "url": null,
-    "urlSlug": "world-war-z-aftermath",
-    "viewableDate": "2021-09-21T13:00:00.000Z"
   }
 ]
