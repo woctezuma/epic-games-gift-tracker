@@ -728,161 +728,6 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "mages-of-mystralia",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "mages-of-mystralia"
-      }
-    ],
-    "description": "In a world of magic, your mind is your greatest weapon. Learn the ways of magic and design your own spells to fight enemies, navigate treacherous terrain, and right past wrongs in the kingdom of Mystralia.",
-    "effectiveDate": "2021-12-27T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-02-20T15:25:51.995168+00:00",
-    "id": "464a19f4865248b5948c9514af11d563",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "e0b43e0732a14730a11810de940e47f9",
-        "namespace": "bd12fd574df14846ad24703ca7b1a12b"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077"
-      }
-    ],
-    "namespace": "bd12fd574df14846ad24703ca7b1a12b",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-03-06T16:00:00.000Z",
-              "id": "35886a83e7bb41b88e3cf835badfdd0f"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "mages-of-mystralia",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-03-06T16:00:00.000Z",
-              "startDate": "2025-02-27T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-xez4pg2utm5x7l9d2xvzff2cuvsfzb",
-      "name": "Dan Adelman LLC"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "21109"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "1263"
-      }
-    ],
-    "title": "Mages of Mystralia",
-    "url": null,
-    "urlSlug": "mages-of-mystralia",
-    "viewableDate": "2021-12-27T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
           "pageSlug": "mortal-shell",
           "pageType": "productHome"
         }
@@ -1152,7 +997,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-03-13T15:00:00.000Z",
+              "id": "fbbf86292a2e4552a7b85c2c3f17c56b"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1160,11 +1013,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -1173,8 +1026,7 @@
     },
     "productSlug": "thems-fightin-herds/home",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1187,7 +1039,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
@@ -1245,5 +1098,160 @@
     "url": null,
     "urlSlug": "thems-fightin-herds",
     "viewableDate": "2022-12-19T15:55:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "world-of-warships",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "addons"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "addons/durable"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "isManuallySetRefundableType",
+        "value": "true"
+      },
+      {
+        "key": "autoGeneratedPrice",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
+        "key": "isPromotionalContentUsed",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetPCReleaseDate",
+        "value": "false"
+      },
+      {
+        "key": "isBlockchainUsed",
+        "value": "false"
+      }
+    ],
+    "description": "Behold our token of appreciation for playing World of Warships at the Epic Games Store on this, our fourth anniversary on the platform!",
+    "effectiveDate": "2025-03-13T15:00:00.000Z",
+    "expiryDate": "2025-03-20T15:00:00.000Z",
+    "firstSeenDate": "2025-03-06T16:24:14.093522+00:00",
+    "id": "ffb6b42a72d74d7fba7b9720fda5feee",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "11ada746480a4b979292dfa52cb6d17e",
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1o35p.jpg"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1550k.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1550k.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ckhl.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-xb89h.jpg"
+      }
+    ],
+    "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+    "offerMappings": [
+      {
+        "pageSlug": "world-of-warships-world-of-warships-\u2014-anniversary-party-favor-68fa01",
+        "pageType": "offer"
+      }
+    ],
+    "offerType": "ADD_ON",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 3000,
+        "fmtPrice": {
+          "discountPrice": "$30.00",
+          "intermediatePrice": "$30.00",
+          "originalPrice": "$30.00"
+        },
+        "originalPrice": 3000,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-03-20T15:00:00.000Z",
+              "startDate": "2025-03-13T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+      "name": "Wargaming Group Limited"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "29088"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "22775"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "World of Warships \u2014 Anniversary Party Favor",
+    "url": null,
+    "urlSlug": "world-of-warships-anniversary-party-favor",
+    "viewableDate": "2025-03-06T16:00:00.000Z"
   }
 ]
