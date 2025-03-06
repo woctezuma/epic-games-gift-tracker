@@ -883,6 +883,182 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "mortal-shell",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Playstack Ltd"
+      },
+      {
+        "key": "developerName",
+        "value": "Cold Symmetry"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "mortal-shell"
+      }
+    ],
+    "description": "Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness and precision. Possess lost warriors, discover hidden sanctums, and face formidable foes.",
+    "effectiveDate": "2020-08-18T12:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-03-06T15:27:03.431655+00:00",
+    "id": "10c62ba6044c4cbba8b50ad16dc58c4d",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "85e2cfb26a6a4031b7c3c6ca35ef502d",
+        "namespace": "ff8c96d781824ba1ae62d18d207fc52e"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5"
+      }
+    ],
+    "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "mortal-shell",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-03-20T15:00:00.000Z",
+              "startDate": "2025-03-13T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+      "name": "Playstack"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21125"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "21129"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1263"
+      },
+      {
+        "id": "21137"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "21149"
+      }
+    ],
+    "title": "Mortal Shell",
+    "url": null,
+    "urlSlug": "spinellaunchaudience",
+    "viewableDate": "2020-08-18T12:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "thems-fightin-herds",
           "pageType": "productHome"
         }
