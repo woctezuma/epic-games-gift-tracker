@@ -522,7 +522,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-03-27T15:00:00.000Z",
+              "id": "7ea8924459ac40a0b61e5e1223e0f864"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -530,11 +538,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 5999,
+        "discount": 5999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$59.99",
-          "intermediatePrice": "$59.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$59.99"
         },
         "originalPrice": 5999,
@@ -543,8 +551,7 @@
     },
     "productSlug": "jurassic-world-evolution-2",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -557,7 +564,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
@@ -914,14 +922,12 @@
   },
   {
     "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "mortal-shell",
-          "pageType": "productHome"
-        }
-      ]
+      "mappings": []
     },
     "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
       {
         "path": "freegames"
       },
@@ -929,10 +935,116 @@
         "path": "games"
       },
       {
-        "path": "games/edition"
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
       },
       {
-        "path": "games/edition/base"
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      }
+    ],
+    "description": "Mystery Game 1",
+    "effectiveDate": "2025-03-27T15:00:00.000Z",
+    "expiryDate": "2025-04-03T15:00:00.000Z",
+    "firstSeenDate": "2025-03-20T15:17:11.467172+00:00",
+    "id": "9977d12c6b5e41f894448f605aa34b0a",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/CQ_Gift_1920x1080_wrap-a1_1920x1080-f145f9945a78d880facf5d2f374aaf77"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/CQ_Gift_1920x1080_wrap-a1_1920x1080-f145f9945a78d880facf5d2f374aaf77"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-04-03T15:00:00.000Z",
+              "startDate": "2025-03-27T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Mystery Game 1",
+    "url": null,
+    "urlSlug": "mystery-game-0317",
+    "viewableDate": "2025-03-20T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
       },
       {
         "path": "applications"
@@ -940,75 +1052,51 @@
     ],
     "customAttributes": [
       {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
         "key": "com.epicgames.app.blacklist",
         "value": "[]"
       },
       {
-        "key": "publisherName",
-        "value": "Playstack Ltd"
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
       },
       {
-        "key": "developerName",
-        "value": "Cold Symmetry"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "mortal-shell"
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
       }
     ],
-    "description": "Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness and precision. Possess lost warriors, discover hidden sanctums, and face formidable foes.",
-    "effectiveDate": "2020-08-18T12:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-03-06T15:27:03.431655+00:00",
-    "id": "10c62ba6044c4cbba8b50ad16dc58c4d",
+    "description": "Mystery Game 2",
+    "effectiveDate": "2025-03-27T15:00:00.000Z",
+    "expiryDate": "2025-04-03T15:00:00.000Z",
+    "firstSeenDate": "2025-03-20T15:17:11.467172+00:00",
+    "id": "e494e053818b4790b5388836b3937e18",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "85e2cfb26a6a4031b7c3c6ca35ef502d",
-        "namespace": "ff8c96d781824ba1ae62d18d207fc52e"
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
       }
     ],
     "keyImages": [
       {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e"
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-a1_1920x1080-7644d526b2a7dcdc7ca5787446ce0c0d"
       },
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-a1_1920x1080-7644d526b2a7dcdc7ca5787446ce0c0d"
       }
     ],
-    "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+    "namespace": "d5241c76f178492ea1540fce45616757",
     "offerMappings": [],
-    "offerType": "BASE_GAME",
+    "offerType": "OTHERS",
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-03-20T15:00:00.000Z",
-              "id": "7509ac06b9874db090c78dbf304b2677"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1016,210 +1104,21 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 2999,
+        "discount": 0,
         "discountPrice": 0,
         "fmtPrice": {
           "discountPrice": "0",
           "intermediatePrice": "0",
-          "originalPrice": "$29.99"
+          "originalPrice": "0"
         },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "mortal-shell",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-03-20T15:00:00.000Z",
-              "startDate": "2025-03-13T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
-      "name": "Playstack"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "21122"
-      },
-      {
-        "id": "21125"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "21129"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1263"
-      },
-      {
-        "id": "21137"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "1367"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "21149"
-      }
-    ],
-    "title": "Mortal Shell",
-    "url": null,
-    "urlSlug": "spinellaunchaudience",
-    "viewableDate": "2020-08-18T12:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "world-of-warships",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "addons"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "addons/durable"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "isManuallySetRefundableType",
-        "value": "true"
-      },
-      {
-        "key": "autoGeneratedPrice",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetViewableDate",
-        "value": "true"
-      },
-      {
-        "key": "isPromotionalContentUsed",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetPCReleaseDate",
-        "value": "false"
-      },
-      {
-        "key": "isBlockchainUsed",
-        "value": "false"
-      }
-    ],
-    "description": "Behold our token of appreciation for playing World of Warships at the Epic Games Store on this, our fourth anniversary on the platform!",
-    "effectiveDate": "2025-03-13T15:00:00.000Z",
-    "expiryDate": "2025-03-20T15:00:00.000Z",
-    "firstSeenDate": "2025-03-06T16:24:14.093522+00:00",
-    "id": "ffb6b42a72d74d7fba7b9720fda5feee",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "11ada746480a4b979292dfa52cb6d17e",
-        "namespace": "84c76746bce94effb8e1047fabfd7eb7"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1o35p.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1550k.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1550k.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ckhl.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-xb89h.jpg"
-      }
-    ],
-    "namespace": "84c76746bce94effb8e1047fabfd7eb7",
-    "offerMappings": [
-      {
-        "pageSlug": "world-of-warships-world-of-warships-\u2014-anniversary-party-favor-68fa01",
-        "pageType": "offer"
-      }
-    ],
-    "offerType": "ADD_ON",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-03-20T15:00:00.000Z",
-              "id": "dfc3893fba064a43b5540a0a0e063b9e"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 3000,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$30.00"
-        },
-        "originalPrice": 3000,
+        "originalPrice": 0,
         "voucherDiscount": 0
       }
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1227,39 +1126,22 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2025-03-20T15:00:00.000Z",
-              "startDate": "2025-03-13T15:00:00.000Z"
+              "endDate": "2025-04-03T15:00:00.000Z",
+              "startDate": "2025-03-27T15:00:00.000Z"
             }
           ]
         }
-      ],
-      "upcomingPromotionalOffers": []
+      ]
     },
     "seller": {
-      "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
-      "name": "Wargaming Group Limited"
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
     },
     "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1216"
-      },
-      {
-        "id": "29088"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "22775"
-      },
-      {
-        "id": "9547"
-      }
-    ],
-    "title": "World of Warships \u2014 Anniversary Party Favor",
+    "tags": [],
+    "title": "Mystery Game 2",
     "url": null,
-    "urlSlug": "world-of-warships-anniversary-party-favor",
-    "viewableDate": "2025-03-06T16:00:00.000Z"
+    "urlSlug": "mystery-game-03172",
+    "viewableDate": "2025-03-20T14:25:00.000Z"
   }
 ]
