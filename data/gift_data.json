@@ -77,7 +77,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-04-09T15:00:00.000Z",
+              "id": "299a8425c61a4a0fae2c0b28673dd671"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -85,11 +93,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1125,
+        "discountPrice": 374,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$3.74",
+          "intermediatePrice": "$3.74",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -98,8 +106,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -112,7 +119,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
@@ -149,6 +157,9 @@
       },
       {
         "id": "21147"
+      },
+      {
+        "id": "15375"
       }
     ],
     "title": "Cat Quest II",
@@ -684,7 +695,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-04-09T15:00:00.000Z",
+              "id": "49e0980e7bf14699b9521f175b703553"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -692,11 +711,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 875,
+        "discountPrice": 1624,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "$16.24",
+          "intermediatePrice": "$16.24",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -705,8 +724,7 @@
     },
     "productSlug": "lisa-the-definitive-edition",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -716,7 +734,13 @@
               },
               "endDate": "2025-04-09T15:00:00.000Z",
               "startDate": "2025-03-26T16:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 65,
@@ -752,6 +776,9 @@
       },
       {
         "id": "1263"
+      },
+      {
+        "id": "15375"
       }
     ],
     "title": "LISA: The Definitive Edition",
