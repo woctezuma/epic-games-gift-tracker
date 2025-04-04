@@ -457,7 +457,7 @@
     "description": "Jump into Arcadegeddon today and get 5,000 ARCoins\n\nRise up and play with up to three friends in this ever-evolving cooperative multiplayer, roguelite shooter. Explore multiple biomes, mini games, find hidden chests, and defeat numerous enemies and bosses.",
     "effectiveDate": "2025-04-10T15:00:00.000Z",
     "expiryDate": "2025-04-17T15:00:00.000Z",
-    "firstSeenDate": "2025-04-03T15:17:57.597864+00:00",
+    "firstSeenDate": "2025-04-04T16:38:55.241989+00:00",
     "id": "33b2cb59eb304f0d978457bffaac8f0c",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -582,6 +582,9 @@
         "id": "29088"
       },
       {
+        "id": "19847"
+      },
+      {
         "id": "1210"
       },
       {
@@ -594,7 +597,7 @@
         "id": "9549"
       }
     ],
-    "title": "Arcadgeddon",
+    "title": "Arcadegeddon",
     "url": null,
     "urlSlug": "arcadgeddon-f2p-promo-bundle",
     "viewableDate": "2025-04-03T15:00:00.000Z"
