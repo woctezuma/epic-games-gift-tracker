@@ -1342,5 +1342,133 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "touch-type-tale",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "touch-type-tale"
+      }
+    ],
+    "description": "Touch Type Tale is a real-time strategy game with a typing twist, featuring a story rich campaign and online competitive play that will delight even the most hardened RTS veterans.",
+    "effectiveDate": "2023-03-28T13:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-05-01T14:41:16.333561+00:00",
+    "id": "ac63bc06c6d44a5d8c423675bd7208d9",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "3e4320e49c8b4ebc96280ca671a38a7f",
+        "namespace": "7029f6353d7f468eb6940bbe6041474e"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S2_1200x1600-445c7e11e96c1b6aceece2007b58645d"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S1_2560x1440-0d3402bfb34e9a73019de6569f6e66b6"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S2_1200x1600-445c7e11e96c1b6aceece2007b58645d"
+      }
+    ],
+    "namespace": "7029f6353d7f468eb6940bbe6041474e",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "touch-type-tale",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-05-15T15:00:00.000Z",
+              "startDate": "2025-05-08T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+      "name": "Mythwright"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1299"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "Touch Type Tale",
+    "url": null,
+    "urlSlug": "touch-type-tale",
+    "viewableDate": "2023-03-28T13:00:00.000Z"
   }
 ]
