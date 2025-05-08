@@ -421,15 +421,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-05-08T15:00:00.000Z",
-              "id": "e3cd37de9e86496b91443ac541c6fc01"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -437,11 +429,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -449,23 +441,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-05-08T15:00:00.000Z",
-              "startDate": "2025-05-01T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-w5juz4p54jnbqrtqfw5x65yd6p6lpx",
       "name": "GrahamOfLegend"
@@ -664,7 +640,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-05-15T15:00:00.000Z",
+              "id": "6e2fb8fb672e418bb1c77c5e6230b530"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -672,11 +656,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 999,
+        "discount": 999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$9.99",
-          "intermediatePrice": "$9.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$9.99"
         },
         "originalPrice": 999,
@@ -685,8 +669,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -699,7 +682,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-8ejptp3p7szx5jtbcpvur5nczb7yf2",
@@ -1332,7 +1316,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-05-15T15:00:00.000Z",
+              "id": "54bff5bbd41c45499856a6e0a99cb8f6"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1340,11 +1332,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -1353,8 +1345,7 @@
     },
     "productSlug": "touch-type-tale",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1367,7 +1358,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
