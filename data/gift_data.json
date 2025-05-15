@@ -842,13 +842,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "dead-island-2"
       }
     ],
-    "description": "Mystery Game 1",
+    "description": "Dead Island 2",
     "effectiveDate": "2025-05-15T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-08T14:43:21.349206+00:00",
+    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
     "id": "bc07d445f178417da137028c19573b4e",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -860,11 +860,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day1wide_2560x1440-fdc688ce46680914ee3c4a7949ce8a67"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day1tall_1200x1600-efc5201842cf642eb45f73227cd0789b"
       },
       {
         "type": "VaultClosed",
@@ -896,7 +896,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "dead-island-2",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -920,9 +920,129 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 1",
+    "title": "Dead Island 2",
     "url": null,
     "urlSlug": "mystery-game",
+    "viewableDate": "2025-05-08T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "happy-game-35a105"
+      }
+    ],
+    "description": "Happy Game",
+    "effectiveDate": "2025-05-15T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
+    "id": "c0c9f6ca5ea14a608094219f96789ae0",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day2wide1_2560x1440-172520950cf13ed61da47e4dfd394459"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day2tall_1200x1600-8002957fbdb8e8c879f72e78213e6c62"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "happy-game-35a105",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-05-22T15:00:00.000Z",
+              "startDate": "2025-05-15T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Happy Game",
+    "url": null,
+    "urlSlug": "mystery-game-2-02",
     "viewableDate": "2025-05-08T14:25:00.000Z"
   },
   {
@@ -965,11 +1085,11 @@
         "value": "[]"
       }
     ],
-    "description": "Mystery Game 2",
-    "effectiveDate": "2025-05-15T15:00:00.000Z",
+    "description": "Mystery Game 3",
+    "effectiveDate": "2025-05-22T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-08T14:43:21.349206+00:00",
-    "id": "c0c9f6ca5ea14a608094219f96789ae0",
+    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
+    "id": "af3f55227dff45f2805901ae10c96ab3",
     "isCodeRedemptionOnly": false,
     "items": [
       {
@@ -1027,8 +1147,8 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2025-05-22T15:00:00.000Z",
-              "startDate": "2025-05-15T15:00:00.000Z"
+              "endDate": "2025-05-29T15:00:00.000Z",
+              "startDate": "2025-05-22T15:00:00.000Z"
             }
           ]
         }
@@ -1040,10 +1160,250 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 2",
+    "title": "Mystery Game 3",
     "url": null,
-    "urlSlug": "mystery-game-2-02",
-    "viewableDate": "2025-05-08T14:25:00.000Z"
+    "urlSlug": "mystery-game-3-01",
+    "viewableDate": "2025-05-15T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "[]"
+      }
+    ],
+    "description": "Mystery Game 4",
+    "effectiveDate": "2025-05-22T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
+    "id": "94c637ba57d748d28235e8fafe3860c4",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "[]",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-05-29T15:00:00.000Z",
+              "startDate": "2025-05-22T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Mystery Game 4",
+    "url": null,
+    "urlSlug": "mystery-game-4-01",
+    "viewableDate": "2025-05-15T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "[]"
+      }
+    ],
+    "description": "Mystery Game 5",
+    "effectiveDate": "2025-05-22T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
+    "id": "9799fecaebb9459989bc95af8844fba6",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "[]",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-05-29T15:00:00.000Z",
+              "startDate": "2025-05-22T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Mystery Game 5",
+    "url": null,
+    "urlSlug": "mystery-game-5-01",
+    "viewableDate": "2025-05-15T14:25:00.000Z"
   },
   {
     "catalogNs": {
