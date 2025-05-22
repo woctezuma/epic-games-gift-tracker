@@ -853,13 +853,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "sifu"
       }
     ],
-    "description": "Mystery Game 3",
+    "description": "Sifu",
     "effectiveDate": "2025-05-22T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
+    "firstSeenDate": "2025-05-22T14:12:26.618729+00:00",
     "id": "af3f55227dff45f2805901ae10c96ab3",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -871,11 +871,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day3wide_1920x1080-1df3ab45b895adfee06b011673df20aa"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day3tall_1200x1600-32aca69d756abfcc25f8581942a6162b"
       },
       {
         "type": "VaultClosed",
@@ -907,7 +907,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "sifu",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -931,7 +931,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 3",
+    "title": "Sifu",
     "url": null,
     "urlSlug": "mystery-game-3-01",
     "viewableDate": "2025-05-15T14:25:00.000Z"
@@ -973,13 +973,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "deliver-at-all-costs-a30c8d"
       }
     ],
-    "description": "Mystery Game 4",
+    "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past \u2014 as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
     "effectiveDate": "2025-05-22T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
+    "firstSeenDate": "2025-05-22T14:12:26.618729+00:00",
     "id": "94c637ba57d748d28235e8fafe3860c4",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -990,16 +990,16 @@
     ],
     "keyImages": [
       {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "type": "DieselGameBoxWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day4wide_2560x1440-6c3e68829f8277aca2b7399160bad072"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day4tall_1200x1600-bf115f3ebe6a2e3c0b44b3f1e708e0da"
       },
       {
         "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
       }
     ],
     "namespace": "d5241c76f178492ea1540fce45616757",
@@ -1027,7 +1027,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "deliver-at-all-costs-a30c8d",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1051,7 +1051,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 4",
+    "title": "Deliver At All Costs",
     "url": null,
     "urlSlug": "mystery-game-4-01",
     "viewableDate": "2025-05-15T14:25:00.000Z"
@@ -1093,13 +1093,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "gigapocalypse-fdc53b"
       }
     ],
-    "description": "Mystery Game 5",
+    "description": "Gigapocalypse",
     "effectiveDate": "2025-05-22T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
+    "firstSeenDate": "2025-05-22T14:12:26.618729+00:00",
     "id": "9799fecaebb9459989bc95af8844fba6",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -1111,11 +1111,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/day5wide_2560x1440-cfedc75b3acfde245f0178d3de44bb17"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/day5tall_1200x1600-f65097969dbeb845b0cd4f5fcb656198"
       },
       {
         "type": "VaultClosed",
@@ -1147,7 +1147,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "gigapocalypse-fdc53b",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1171,7 +1171,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 5",
+    "title": "Gigapocalypse",
     "url": null,
     "urlSlug": "mystery-game-5-01",
     "viewableDate": "2025-05-15T14:25:00.000Z"
