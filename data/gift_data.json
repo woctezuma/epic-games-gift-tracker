@@ -613,126 +613,6 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "dead-island-2"
-      }
-    ],
-    "description": "Dead Island 2",
-    "effectiveDate": "2025-05-15T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
-    "id": "bc07d445f178417da137028c19573b4e",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day1wide_2560x1440-fdc688ce46680914ee3c4a7949ce8a67"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day1tall_1200x1600-efc5201842cf642eb45f73227cd0789b"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "dead-island-2",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-05-22T15:00:00.000Z",
-              "startDate": "2025-05-15T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Dead Island 2",
-    "url": null,
-    "urlSlug": "mystery-game",
-    "viewableDate": "2025-05-08T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
         "value": "[]"
       }
     ],
@@ -853,126 +733,6 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "happy-game-35a105"
-      }
-    ],
-    "description": "Happy Game",
-    "effectiveDate": "2025-05-15T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-05-15T14:35:36.462755+00:00",
-    "id": "c0c9f6ca5ea14a608094219f96789ae0",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day2wide1_2560x1440-172520950cf13ed61da47e4dfd394459"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day2tall_1200x1600-8002957fbdb8e8c879f72e78213e6c62"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "happy-game-35a105",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-05-22T15:00:00.000Z",
-              "startDate": "2025-05-15T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Happy Game",
-    "url": null,
-    "urlSlug": "mystery-game-2-02",
-    "viewableDate": "2025-05-08T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
         "value": "sifu"
       }
     ],
@@ -1029,8 +789,7 @@
     },
     "productSlug": "sifu",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1043,7 +802,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
@@ -1149,8 +909,7 @@
     },
     "productSlug": "deliver-at-all-costs-a30c8d",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1163,7 +922,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
@@ -1269,8 +1029,7 @@
     },
     "productSlug": "gigapocalypse-fdc53b",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1283,7 +1042,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
