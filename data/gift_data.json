@@ -613,13 +613,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "tiny-tinas-wonderlands"
       }
     ],
-    "description": "Mystery Game 6",
+    "description": "Tiny Tina's Wonderlands",
     "effectiveDate": "2025-05-29T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-22T14:39:05.501097+00:00",
+    "firstSeenDate": "2025-05-29T14:28:47.515676+00:00",
     "id": "ce28797ae01f4c8ebb3e8692a5aa1395",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -631,11 +631,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Tinytinawide_2560x1440-ba126bdeac3faab0596b7c56e9c09990"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TinyTinatall_1200x1600-356dd4965bde4c5dbd1000f9c97ac4b4"
       },
       {
         "type": "VaultClosed",
@@ -667,7 +667,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "tiny-tinas-wonderlands",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -691,7 +691,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 6",
+    "title": "Tiny Tina's Wonderlands",
     "url": null,
     "urlSlug": "mystery-game-2-01",
     "viewableDate": "2025-05-22T14:25:00.000Z"
@@ -1093,13 +1093,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "limbo"
       }
     ],
-    "description": "Mystery Game 7",
+    "description": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.",
     "effectiveDate": "2025-05-29T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-22T14:39:05.501097+00:00",
+    "firstSeenDate": "2025-05-29T14:28:47.515676+00:00",
     "id": "8ac7a28bdcdf4f4db7706419aa502c0e",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -1111,11 +1111,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day7wide_2560x1440-6c93379907b03def09fcd60c6677a5d9"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day7tall_1200x1600-b64b7e087d5bc3b29085a390ea79a7e9"
       },
       {
         "type": "VaultClosed",
@@ -1147,7 +1147,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "limbo",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1171,7 +1171,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 7",
+    "title": "Limbo",
     "url": null,
     "urlSlug": "mystery-game-7-01",
     "viewableDate": "2025-05-22T14:25:00.000Z"
