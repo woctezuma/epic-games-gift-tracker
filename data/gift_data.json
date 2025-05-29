@@ -613,6 +613,126 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
+        "value": "[]"
+      }
+    ],
+    "description": "Mystery Game 8",
+    "effectiveDate": "2025-06-05T14:25:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-05-29T15:28:06.655956+00:00",
+    "id": "172406399087483db3a8b84e7051107b",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "[]",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-06-12T15:00:00.000Z",
+              "startDate": "2025-06-05T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Mystery Game 8",
+    "url": null,
+    "urlSlug": "mystery-game-01-01",
+    "viewableDate": "2025-05-29T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
         "value": "tiny-tinas-wonderlands"
       }
     ],
@@ -669,8 +789,7 @@
     },
     "productSlug": "tiny-tinas-wonderlands",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -683,7 +802,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
@@ -695,366 +815,6 @@
     "url": null,
     "urlSlug": "mystery-game-2-01",
     "viewableDate": "2025-05-22T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "sifu"
-      }
-    ],
-    "description": "Sifu",
-    "effectiveDate": "2025-05-22T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-05-22T14:12:26.618729+00:00",
-    "id": "af3f55227dff45f2805901ae10c96ab3",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day3wide_1920x1080-1df3ab45b895adfee06b011673df20aa"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day3tall_1200x1600-32aca69d756abfcc25f8581942a6162b"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "sifu",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-05-29T15:00:00.000Z",
-              "startDate": "2025-05-22T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Sifu",
-    "url": null,
-    "urlSlug": "mystery-game-3-01",
-    "viewableDate": "2025-05-15T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "deliver-at-all-costs-a30c8d"
-      }
-    ],
-    "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past \u2014 as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
-    "effectiveDate": "2025-05-22T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-05-22T14:12:26.618729+00:00",
-    "id": "94c637ba57d748d28235e8fafe3860c4",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselGameBoxWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day4wide_2560x1440-6c3e68829f8277aca2b7399160bad072"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day4tall_1200x1600-bf115f3ebe6a2e3c0b44b3f1e708e0da"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "deliver-at-all-costs-a30c8d",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-05-29T15:00:00.000Z",
-              "startDate": "2025-05-22T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Deliver At All Costs",
-    "url": null,
-    "urlSlug": "mystery-game-4-01",
-    "viewableDate": "2025-05-15T14:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "gigapocalypse-fdc53b"
-      }
-    ],
-    "description": "Gigapocalypse",
-    "effectiveDate": "2025-05-22T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-05-22T14:12:26.618729+00:00",
-    "id": "9799fecaebb9459989bc95af8844fba6",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/day5wide_2560x1440-cfedc75b3acfde245f0178d3de44bb17"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/day5tall_1200x1600-f65097969dbeb845b0cd4f5fcb656198"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "gigapocalypse-fdc53b",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-05-29T15:00:00.000Z",
-              "startDate": "2025-05-22T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Gigapocalypse",
-    "url": null,
-    "urlSlug": "mystery-game-5-01",
-    "viewableDate": "2025-05-15T14:25:00.000Z"
   },
   {
     "catalogNs": {
@@ -1149,8 +909,7 @@
     },
     "productSlug": "limbo",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1163,7 +922,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
@@ -1175,5 +935,125 @@
     "url": null,
     "urlSlug": "mystery-game-7-01",
     "viewableDate": "2025-05-22T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "[]"
+      }
+    ],
+    "description": "Mystery Game 9",
+    "effectiveDate": "2025-06-05T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-05-29T15:28:06.655956+00:00",
+    "id": "550d30ebf2f343609a2b01c98293b264",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "[]",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-06-12T15:00:00.000Z",
+              "startDate": "2025-06-05T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Mystery Game 9",
+    "url": null,
+    "urlSlug": "mystery-game-9",
+    "viewableDate": "2025-05-29T14:25:00.000Z"
   }
 ]
