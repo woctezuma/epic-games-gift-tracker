@@ -632,13 +632,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "deathloop"
       }
     ],
-    "description": "Mystery Game 8",
-    "effectiveDate": "2025-06-05T14:25:00.000Z",
+    "description": "DEATHLOOP",
+    "effectiveDate": "2025-06-05T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-29T15:28:06.655956+00:00",
+    "firstSeenDate": "2025-06-05T14:15:36.722380+00:00",
     "id": "172406399087483db3a8b84e7051107b",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -650,11 +650,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day8wide_2560x1440-bf6d342edbd2411ccf24e326852fca93"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day8tall_1200x1600-d062aa01760072626d27af24af05db77"
       },
       {
         "type": "VaultClosed",
@@ -686,7 +686,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "deathloop",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -710,10 +710,10 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 8",
+    "title": "DEATHLOOP",
     "url": null,
-    "urlSlug": "mystery-game-01-01",
-    "viewableDate": "2025-05-29T15:00:00.000Z"
+    "urlSlug": "mystery-game-08",
+    "viewableDate": "2025-05-29T14:25:00.000Z"
   },
   {
     "catalogNs": {
@@ -992,13 +992,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "ogu-and-the-secret-forest-ffc421"
       }
     ],
-    "description": "Mystery Game 9",
+    "description": "Explore the wonderful world with baby Ogu! 'Ogu and the Secret Forest' is a 2D adventure game with hand-drawn characters and various types of puzzles. Befriend bouncy characters and defeat strange creatures to unravel the mystery of the charming world.",
     "effectiveDate": "2025-06-05T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2025-05-29T15:28:06.655956+00:00",
+    "firstSeenDate": "2025-06-05T14:15:36.722380+00:00",
     "id": "550d30ebf2f343609a2b01c98293b264",
     "isCodeRedemptionOnly": false,
     "items": [
@@ -1010,11 +1010,11 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813_1920x1080-a27cf3919dde320a72936374a1d47813"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day9wide_2560x1440-f6421d67946917c410a33f9c7a3abaed"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x16001_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Day9tall_1200x1600-1ee245eb887f771cd4a50115eb56226f"
       },
       {
         "type": "VaultClosed",
@@ -1046,7 +1046,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "ogu-and-the-secret-forest-ffc421",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1070,9 +1070,145 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 9",
+    "title": "Ogu and the Secret Forest",
     "url": null,
     "urlSlug": "mystery-game-9",
     "viewableDate": "2025-05-29T14:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "two-point-hospital",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "SEGA of Europe"
+      },
+      {
+        "key": "developerName",
+        "value": "SEGA of Europe"
+      }
+    ],
+    "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+    "effectiveDate": "2025-02-13T16:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-06-05T14:15:36.722380+00:00",
+    "id": "1078bc6439ab4b92b8786695e5f7f37d",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "1cddd0e043ac4471a7917dcb854ebed5",
+        "namespace": "0f4a572a3c1541319db70c3737d3a123"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S2_1200x1600-8bd004a67b677888a8a1510bde5aa586"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S1_2560x1440-ee16893556f141506d548b32d4cd23cc"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S2_1200x1600-8bd004a67b677888a8a1510bde5aa586"
+      }
+    ],
+    "namespace": "0f4a572a3c1541319db70c3737d3a123",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-06-19T15:00:00.000Z",
+              "startDate": "2025-06-12T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+      "name": "SEGA of Europe"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1296"
+      },
+      {
+        "id": "1393"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "Two Point Hospital",
+    "url": null,
+    "urlSlug": "two-point-hospital",
+    "viewableDate": "2025-02-13T16:00:00.000Z"
   }
 ]
