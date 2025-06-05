@@ -545,7 +545,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-07-31T15:00:00.000Z",
+              "startDate": "2025-07-17T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
