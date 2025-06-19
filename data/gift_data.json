@@ -398,7 +398,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-06-26T15:00:00.000Z",
+              "id": "9eacfe48a5bd40f3aa6a9cdf52f08452"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -406,11 +414,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -419,8 +427,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -433,7 +440,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-hpn3hhrtaucjv5c67kvxa9sumrhskt",
@@ -958,179 +966,5 @@
     "url": null,
     "urlSlug": "sable",
     "viewableDate": "2021-06-12T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "two-point-hospital",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "SEGA of Europe"
-      },
-      {
-        "key": "developerName",
-        "value": "SEGA of Europe"
-      }
-    ],
-    "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
-    "effectiveDate": "2025-02-13T16:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-06-05T14:15:36.722380+00:00",
-    "id": "1078bc6439ab4b92b8786695e5f7f37d",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "1cddd0e043ac4471a7917dcb854ebed5",
-        "namespace": "0f4a572a3c1541319db70c3737d3a123"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S2_1200x1600-8bd004a67b677888a8a1510bde5aa586"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S1_2560x1440-ee16893556f141506d548b32d4cd23cc"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S2_1200x1600-8bd004a67b677888a8a1510bde5aa586"
-      }
-    ],
-    "namespace": "0f4a572a3c1541319db70c3737d3a123",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-06-19T15:00:00.000Z",
-              "id": "6c7087a25bbc4833bd43df2fcc7e7eef"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-06-19T15:00:00.000Z",
-              "startDate": "2025-06-12T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
-      "name": "SEGA of Europe"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "21122"
-      },
-      {
-        "id": "1188"
-      },
-      {
-        "id": "21127"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1296"
-      },
-      {
-        "id": "21136"
-      },
-      {
-        "id": "1393"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "1115"
-      },
-      {
-        "id": "21149"
-      },
-      {
-        "id": "21119"
-      }
-    ],
-    "title": "Two Point Hospital",
-    "url": null,
-    "urlSlug": "two-point-hospital",
-    "viewableDate": "2025-02-13T16:00:00.000Z"
   }
 ]
