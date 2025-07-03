@@ -498,7 +498,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-07-10T15:00:00.000Z",
+              "id": "02cf6c6f84ba40cfae2bbed1da2d8095"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -506,11 +514,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -519,8 +527,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -533,7 +540,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-j8dsgh9bnmwgkjuyts7cyffpkfc3yk",
@@ -660,7 +668,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-07-10T15:00:00.000Z",
+              "id": "268cbd89982547d2a290f40a0b125335"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -668,11 +684,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -681,8 +697,7 @@
     },
     "productSlug": "figment/home",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -692,7 +707,13 @@
               },
               "endDate": "2025-07-10T15:00:00.000Z",
               "startDate": "2025-07-03T15:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 20,
@@ -1197,210 +1218,5 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "sable",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Raw Fury"
-      },
-      {
-        "key": "developerName",
-        "value": "Shedworks"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "sable"
-      }
-    ],
-    "description": "Embark on a unique and unforgettable journey and guide Sable through her Gliding; a rite of passage that will take her across vast deserts and mesmerizing landscapes, capped by the remains of spaceships and ancient wonders.",
-    "effectiveDate": "2021-09-23T13:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2025-06-19T14:12:21.165363+00:00",
-    "id": "d19627e74ac445bcbcfc8157a35d6f80",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "5623f6cc511545bc98bca0201a1b847c",
-        "namespace": "66a0893b7b9a42a695f0a387d64dfcc6"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S4_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
-      },
-      {
-        "type": "CodeRedemption_340x440",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
-      },
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf"
-      },
-      {
-        "type": "DieselStoreFrontTall",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391"
-      }
-    ],
-    "namespace": "66a0893b7b9a42a695f0a387d64dfcc6",
-    "offerMappings": [],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-07-03T15:00:00.000Z",
-              "id": "de6bcc724bac48a6bd4933359d37aef1"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2499,
-        "discountPrice": 0,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$24.99"
-        },
-        "originalPrice": 2499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "sable",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-07-03T15:00:00.000Z",
-              "startDate": "2025-06-26T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
-      "name": "Raw Fury"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "21122"
-      },
-      {
-        "id": "1188"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "21127"
-      },
-      {
-        "id": "21130"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "1263"
-      },
-      {
-        "id": "21137"
-      },
-      {
-        "id": "21138"
-      },
-      {
-        "id": "21139"
-      },
-      {
-        "id": "21140"
-      },
-      {
-        "id": "21141"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "21146"
-      },
-      {
-        "id": "1307"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "21149"
-      },
-      {
-        "id": "21119"
-      }
-    ],
-    "title": "Sable",
-    "url": null,
-    "urlSlug": "sable",
-    "viewableDate": "2021-06-12T15:00:00.000Z"
   }
 ]
