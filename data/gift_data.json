@@ -553,25 +553,16 @@
     "status": "ACTIVE",
     "tags": [
       {
-        "id": "1265"
+        "id": "21122"
       },
       {
-        "id": "21140"
-      },
-      {
-        "id": "21109"
+        "id": "1188"
       },
       {
         "id": "19847"
       },
       {
-        "id": "1370"
-      },
-      {
         "id": "1386"
-      },
-      {
-        "id": "1083"
       },
       {
         "id": "9547"
@@ -580,7 +571,37 @@
         "id": "9549"
       },
       {
+        "id": "1265"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1083"
+      },
+      {
+        "id": "21149"
+      },
+      {
         "id": "10719"
+      },
+      {
+        "id": "21119"
       }
     ],
     "title": "Backpack Hero",
@@ -1227,5 +1248,153 @@
     "url": null,
     "urlSlug": "lost-castle-the-old-ones-awaken",
     "viewableDate": "2024-02-01T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "sid-meiers-civilization-vi",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CU,IR,SY,VE"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "sid-meiers-civilization-vi--platinum-edition"
+      }
+    ],
+    "description": "Sid Meier\u2019s Civilization VI: Platinum Edition is the perfect entry point for PC gamers who have yet to experience the addictive gameplay that has made Civilization one of the greatest game series of all time.",
+    "effectiveDate": "2020-05-28T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-07-09T16:44:43.156738+00:00",
+    "id": "9cf93671754649668f7a043b6200ff9b",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "d071707490764c32972609373cd6ad92",
+        "namespace": "cd14dcaa4f3443f19f7169a980559c62"
+      },
+      {
+        "id": "313a52ab4d664e9dad6b545d1fa8500f",
+        "namespace": "cd14dcaa4f3443f19f7169a980559c62"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
+      }
+    ],
+    "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+    "offerMappings": [
+      {
+        "pageSlug": "sid-meiers-civilization-vi--platinum-edition",
+        "pageType": "offer"
+      }
+    ],
+    "offerType": "EDITION",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 7999,
+        "fmtPrice": {
+          "discountPrice": "$79.99",
+          "intermediatePrice": "$79.99",
+          "originalPrice": "$79.99"
+        },
+        "originalPrice": 7999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "sid-meiers-civilization-vi--platinum-edition",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-07-24T15:00:00.000Z",
+              "startDate": "2025-07-17T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+      "name": "2K Games, Inc."
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1088"
+      },
+      {
+        "id": "1203"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1386"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1166"
+      }
+    ],
+    "title": "Sid Meier\u2019s Civilization\u00ae VI Platinum Edition",
+    "url": null,
+    "urlSlug": "sid-meiers-civilization-vi--platinum-edition",
+    "viewableDate": null
   }
 ]
