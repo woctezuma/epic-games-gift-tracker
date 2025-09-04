@@ -666,6 +666,162 @@
   },
   {
     "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "ghostrunner-2",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ghostrunner-2"
+      }
+    ],
+    "description": "Ghostrunner 2 is a hardcore FPP slasher set in a post-apocalyptic, cyberpunk world. Featuring everything fans loved about Ghostrunner plus incredible boss fights, new interactive story, thrilling motorbike levels, improved skills, and more cyber ninja action. ",
+    "effectiveDate": "2023-10-26T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2025-09-04T14:21:13.900607+00:00",
+    "id": "be5600439b434624802764f704755cde",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "b5644df892c8403ba6e18998565e75e5",
+        "namespace": "708f57aaa04b42ef885be16c8288f0ac"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07"
+      }
+    ],
+    "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 3999,
+        "fmtPrice": {
+          "discountPrice": "$39.99",
+          "intermediatePrice": "$39.99",
+          "originalPrice": "$39.99"
+        },
+        "originalPrice": 3999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "ghostrunner-2",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-09-18T15:00:00.000Z",
+              "startDate": "2025-09-11T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+      "name": "505 Games"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21129"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21137"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "21149"
+      }
+    ],
+    "title": "Ghostrunner 2",
+    "url": null,
+    "urlSlug": "ghostrunner-2",
+    "viewableDate": "2023-10-26T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
       "mappings": null
     },
     "categories": [
