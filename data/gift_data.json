@@ -101,7 +101,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 40,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-10-09T15:00:00.000Z",
+              "startDate": "2025-09-25T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
       "name": "KONAMI"
