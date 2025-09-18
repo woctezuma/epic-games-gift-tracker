@@ -662,15 +662,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-09-18T15:00:00.000Z",
-              "id": "784da3fb2a8f44ffa047b9b94b3afbaf"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -678,11 +670,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -690,23 +682,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-09-18T15:00:00.000Z",
-              "startDate": "2025-09-11T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-2mkf2lxtzafg97txffccjfxmjmj3sb",
       "name": "Midjiwan AB"
@@ -919,7 +895,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-09-25T15:00:00.000Z",
+              "id": "d4270b01f5d247e49ca986179708791b"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -927,11 +911,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 999,
+        "discount": 999,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$9.99",
-          "intermediatePrice": "$9.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$9.99"
         },
         "originalPrice": 999,
@@ -940,8 +924,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -954,7 +937,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-n6nlxccdm655mnvxdmxek4c5pbwm6c",
@@ -1067,7 +1051,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-09-25T15:00:00.000Z",
+              "id": "138790ca39674530ab038b4ffd0f3ac8"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1075,11 +1067,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 499,
+        "discount": 499,
+        "discountPrice": 0,
         "fmtPrice": {
-          "discountPrice": "$4.99",
-          "intermediatePrice": "$4.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$4.99"
         },
         "originalPrice": 499,
@@ -1088,8 +1080,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1102,7 +1093,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
@@ -1351,15 +1343,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-09-18T15:00:00.000Z",
-              "id": "89b71f2be94542338975f744e684018f"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1367,11 +1351,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 3999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 3999,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$39.99",
+          "intermediatePrice": "$39.99",
           "originalPrice": "$39.99"
         },
         "originalPrice": 3999,
@@ -1380,20 +1364,7 @@
     },
     "productSlug": "ghostrunner-2",
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-09-18T15:00:00.000Z",
-              "startDate": "2025-09-11T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": []
     },
     "seller": {
@@ -2002,15 +1973,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-09-18T15:00:00.000Z",
-              "id": "1884e93006204a7497292411f48ed144"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -2018,11 +1981,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 799,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 799,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$7.99",
+          "intermediatePrice": "$7.99",
           "originalPrice": "$7.99"
         },
         "originalPrice": 799,
@@ -2030,23 +1993,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-09-18T15:00:00.000Z",
-              "startDate": "2025-09-11T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
       "name": "ustwo games"
