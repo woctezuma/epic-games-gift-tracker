@@ -1126,7 +1126,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-11-09T17:00:00.000Z",
+              "id": "fe4fe34999bc41a6979cc2d49d775fcb"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1134,11 +1142,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 1000,
+        "discountPrice": 1499,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -1147,8 +1155,7 @@
     },
     "productSlug": "lisa-the-definitive-edition",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1158,7 +1165,13 @@
               },
               "endDate": "2025-11-09T17:00:00.000Z",
               "startDate": "2025-10-26T16:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 50,
