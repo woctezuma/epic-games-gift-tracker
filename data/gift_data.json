@@ -927,15 +927,19 @@
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-vjwsp.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-v2snm.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-cm93r.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1v1f5.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-cm93r.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1v1f5.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-3dlbc.jpg"
       },
       {
         "type": "heroCarouselVideo",
