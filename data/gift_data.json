@@ -705,7 +705,7 @@
         "id": "1218"
       },
       {
-        "id": "21138"
+        "id": "1188"
       },
       {
         "id": "21894"
@@ -714,22 +714,31 @@
         "id": "19847"
       },
       {
-        "id": "1080"
-      },
-      {
-        "id": "1370"
-      },
-      {
         "id": "9547"
       },
       {
         "id": "9549"
       },
       {
+        "id": "1198"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1080"
+      },
+      {
+        "id": "1370"
+      },
+      {
         "id": "21149"
       },
       {
-        "id": "1198"
+        "id": "21119"
       }
     ],
     "title": "Five Nights at Freddy's: Into the Pit",
@@ -1283,6 +1292,12 @@
     "tags": [
       {
         "id": "1218"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21139"
       },
       {
         "id": "21894"
@@ -1897,15 +1912,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-11-04T16:00:00.000Z",
-              "id": "bad81578008a4cf8960aafe4d3194450"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1913,11 +1920,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 520,
-        "discountPrice": 279,
+        "discount": 0,
+        "discountPrice": 799,
         "fmtPrice": {
-          "discountPrice": "$2.79",
-          "intermediatePrice": "$2.79",
+          "discountPrice": "$7.99",
+          "intermediatePrice": "$7.99",
           "originalPrice": "$7.99"
         },
         "originalPrice": 799,
@@ -1926,20 +1933,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 35,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-11-04T16:00:00.000Z",
-              "startDate": "2025-10-28T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -1972,9 +1966,6 @@
       },
       {
         "id": "9547"
-      },
-      {
-        "id": "29899"
       },
       {
         "id": "1117"
