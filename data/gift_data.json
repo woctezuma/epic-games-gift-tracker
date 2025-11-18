@@ -81,7 +81,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-12-02T16:00:00.000Z",
+              "id": "719974bfe5ab4d959fb4d28411ab70f8"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -89,11 +97,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1200,
+        "discountPrice": 799,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$7.99",
+          "intermediatePrice": "$7.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -102,8 +110,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -116,7 +123,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
@@ -132,6 +140,9 @@
       },
       {
         "id": "21122"
+      },
+      {
+        "id": "39909"
       },
       {
         "id": "19847"
@@ -411,7 +422,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-12-02T16:00:00.000Z",
+              "id": "0f4d7f4ca77a41dcbd75dfc6f3214fe8"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -419,11 +438,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 700,
+        "discountPrice": 1299,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$12.99",
+          "intermediatePrice": "$12.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -432,8 +451,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -443,7 +461,13 @@
               },
               "endDate": "2025-12-02T16:00:00.000Z",
               "startDate": "2025-11-18T16:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 0,
@@ -464,6 +488,9 @@
     "tags": [
       {
         "id": "1088"
+      },
+      {
+        "id": "39909"
       },
       {
         "id": "21894"
@@ -835,7 +862,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-12-02T16:00:00.000Z",
+              "id": "18273fd84899404690ae54ebafce7407"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -843,11 +878,11 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1600,
+        "discountPrice": 399,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -856,8 +891,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -870,7 +904,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
@@ -880,6 +915,9 @@
     "tags": [
       {
         "id": "1298"
+      },
+      {
+        "id": "39909"
       },
       {
         "id": "19847"
@@ -1130,9 +1168,6 @@
       },
       {
         "id": "1370"
-      },
-      {
-        "id": "21146"
       },
       {
         "id": "21149"
