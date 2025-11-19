@@ -1178,7 +1178,7 @@
       },
       {
         "type": "heroCarouselVideo",
-        "url": "com.epicgames.video://0f23849b-c756-4c99-86fa-4560658f1f7d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F24397552e51f404d8f89e93ed383d35a%2Fzero-hour-video-t3j3z.jpg"
+        "url": "com.epicgames.video.qs://3ffd1482-c4c4-4226-9cbf-80874ce46cfd?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F24397552e51f404d8f89e93ed383d35a%2Fzero-hour-video-ptttw.jpg"
       },
       {
         "type": "featuredMedia",
