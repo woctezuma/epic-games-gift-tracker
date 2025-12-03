@@ -99,6 +99,7 @@
         },
         "discount": 1499,
         "discountPrice": 0,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "0",
           "intermediatePrice": "0",
@@ -245,6 +246,7 @@
         },
         "discount": 0,
         "discountPrice": 1999,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$19.99",
           "intermediatePrice": "$19.99",
@@ -408,6 +410,7 @@
         },
         "discount": 0,
         "discountPrice": 1999,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$19.99",
           "intermediatePrice": "$19.99",
@@ -554,6 +557,7 @@
         },
         "discount": 0,
         "discountPrice": 1499,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$14.99",
           "intermediatePrice": "$14.99",
@@ -703,6 +707,7 @@
         },
         "discount": 0,
         "discountPrice": 1999,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$19.99",
           "intermediatePrice": "$19.99",
@@ -822,6 +827,7 @@
         },
         "discount": 0,
         "discountPrice": 3999,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$39.99",
           "intermediatePrice": "$39.99",
@@ -1008,6 +1014,7 @@
         },
         "discount": 0,
         "discountPrice": 2499,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$24.99",
           "intermediatePrice": "$24.99",
@@ -1144,6 +1151,7 @@
         },
         "discount": 0,
         "discountPrice": 2499,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$24.99",
           "intermediatePrice": "$24.99",
@@ -1318,6 +1326,7 @@
         },
         "discount": 0,
         "discountPrice": 399,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$3.99",
           "intermediatePrice": "$3.99",
@@ -1490,6 +1499,7 @@
         },
         "discount": 0,
         "discountPrice": 799,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$7.99",
           "intermediatePrice": "$7.99",
@@ -1651,6 +1661,7 @@
         },
         "discount": 0,
         "discountPrice": 1999,
+        "dualPrice": null,
         "fmtPrice": {
           "discountPrice": "$19.99",
           "intermediatePrice": "$19.99",
