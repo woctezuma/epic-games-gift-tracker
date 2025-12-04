@@ -1,7 +1,12 @@
 [
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "universe-for-sale-05c53e",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -151,7 +156,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "castlevania-anniversary-collection-a61f94",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -310,7 +320,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "model-builder-complete-edition-f9b456",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -602,7 +617,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "eternal-threads-197169",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -731,7 +751,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "ghostrunner-2",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -1186,7 +1211,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "lost-castle-abb2e2",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -1343,7 +1373,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "monument-valley-1d99d3",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -1521,7 +1556,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "thems-fightin-herds",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
