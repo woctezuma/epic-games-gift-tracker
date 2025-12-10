@@ -1465,6 +1465,14 @@
     ],
     "keyImages": [
       {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-2560x1440_2560x1440-a0a64f9bfb9f477590937dbe95f612cf"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-1200x1600_1200x1600-8dc0d6d6181b46bf9de789e29c0a0854"
+      },
+      {
         "type": "VaultClosed",
         "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-2560x1440_2560x1440-bdb583c697524be8ede523d920663f2f"
       }
