@@ -1452,7 +1452,7 @@
       }
     ],
     "description": "Mystery Game 1",
-    "effectiveDate": "2025-12-12T04:00:00.000Z",
+    "effectiveDate": "2025-12-12T02:23:00.000Z",
     "expiryDate": "2025-12-18T16:00:00.000Z",
     "firstSeenDate": "2025-12-04T16:47:13.423678+00:00",
     "id": "e4f007a25ee8426e97c16e994f6127e9",
@@ -1515,7 +1515,7 @@
                 "discountType": "PERCENTAGE"
               },
               "endDate": "2025-12-18T16:00:00.000Z",
-              "startDate": "2025-12-12T04:00:00.000Z"
+              "startDate": "2025-12-12T02:23:00.000Z"
             }
           ]
         }
