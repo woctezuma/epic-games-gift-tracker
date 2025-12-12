@@ -1,12 +1,7 @@
 [
   {
     "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "castlevania-anniversary-collection-a61f94",
-          "pageType": "productHome"
-        }
-      ]
+      "mappings": null
     },
     "categories": [
       {
@@ -78,29 +73,7 @@
       }
     ],
     "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 1999,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": null,
     "promotions": null,
     "seller": {
@@ -242,29 +215,7 @@
       }
     ],
     "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 1999,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": null,
     "promotions": null,
     "seller": {
@@ -397,29 +348,7 @@
       }
     ],
     "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 1999,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": null,
     "promotions": null,
     "seller": {
@@ -517,55 +446,9 @@
     "namespace": "708f57aaa04b42ef885be16c8288f0ac",
     "offerMappings": [],
     "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-08T16:00:00.000Z",
-              "id": "d1314a07f999419f90c6251cf14ed266"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 3200,
-        "discountPrice": 799,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$7.99",
-          "intermediatePrice": "$7.99",
-          "originalPrice": "$39.99"
-        },
-        "originalPrice": 3999,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": "ghostrunner-2",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 20,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-08T16:00:00.000Z",
-              "startDate": "2025-12-11T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
       "name": "505 Games"
@@ -677,55 +560,9 @@
     "namespace": "ca3a9d16d131478c97fd56c138a6511a",
     "offerMappings": null,
     "offerType": "BUNDLE",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-08T16:00:00.000Z",
-              "id": "14ecddc765f640f3afe35ad8f9c8beb4"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1250,
-        "discountPrice": 1249,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$12.49",
-          "intermediatePrice": "$12.49",
-          "originalPrice": "$24.99"
-        },
-        "originalPrice": 2499,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": "lisa-the-definitive-edition",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-08T16:00:00.000Z",
-              "startDate": "2025-12-11T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-256f2bc2a35049a39ceae0f57d01bb",
       "name": "Serenity Forge"
@@ -863,29 +700,7 @@
       }
     ],
     "offerType": "ADD_ON",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 399,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$3.99",
-          "intermediatePrice": "$3.99",
-          "originalPrice": "$3.99"
-        },
-        "originalPrice": 399,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": null,
     "promotions": null,
     "seller": {
@@ -923,12 +738,7 @@
   },
   {
     "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "monument-valley-1d99d3",
-          "pageType": "productHome"
-        }
-      ]
+      "mappings": null
     },
     "categories": [
       {
@@ -1036,55 +846,9 @@
       }
     ],
     "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-08T16:00:00.000Z",
-              "id": "401cf5deea8c4a898777bc93b79c1a8e"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 520,
-        "discountPrice": 279,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$2.79",
-          "intermediatePrice": "$2.79",
-          "originalPrice": "$7.99"
-        },
-        "originalPrice": 799,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 35,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-08T16:00:00.000Z",
-              "startDate": "2025-12-11T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
       "name": "ustwo games"
@@ -1117,7 +881,7 @@
   },
   {
     "catalogNs": {
-      "mappings": []
+      "mappings": null
     },
     "categories": [
       {
@@ -1148,15 +912,15 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "hogwarts-legacy"
       }
     ],
-    "description": "Mystery Game 1",
+    "description": "Hogwarts Legacy",
     "effectiveDate": "2025-12-12T02:23:00.000Z",
     "expiryDate": "2025-12-18T16:00:00.000Z",
-    "firstSeenDate": "2025-12-04T16:47:13.423678+00:00",
+    "firstSeenDate": "2025-12-12T02:27:28.322798+00:00",
     "id": "e4f007a25ee8426e97c16e994f6127e9",
-    "isCodeRedemptionOnly": false,
+    "isCodeRedemptionOnly": true,
     "items": [
       {
         "id": "8341d7c7e4534db7848cc428aa4cbe5a",
@@ -1166,11 +930,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-2560x1440_2560x1440-a0a64f9bfb9f477590937dbe95f612cf"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec11_giveaway_2560x1440_2560x1440-ece5c5fb3e724cbdabf2d163ef4f34f9"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-1200x1600_1200x1600-8dc0d6d6181b46bf9de789e29c0a0854"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec11_giveaway_1200x1600_1200x1600-7ad17188c1b54a35b62bf2122101b5fd"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec11_giveaway_2560x1440_2560x1440-05d489c87ee04b6489684ffbbebce43e"
       },
       {
         "type": "VaultClosed",
@@ -1180,62 +948,22 @@
     "namespace": "d5241c76f178492ea1540fce45616757",
     "offerMappings": [],
     "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "[]",
-    "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-12-18T16:00:00.000Z",
-              "startDate": "2025-12-12T02:23:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
+    "price": null,
+    "productSlug": "hogwarts-legacy",
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 1",
+    "title": "Hogwarts Legacy",
     "url": null,
     "urlSlug": "mysterygame2025-1",
     "viewableDate": "2025-12-04T16:00:00.000Z"
   },
   {
-    "catalogNs": {
-      "mappings": []
-    },
+    "catalogNs": null,
     "categories": [
       {
         "path": "freegames/vaulted"
@@ -1293,47 +1021,9 @@
     "namespace": "d5241c76f178492ea1540fce45616757",
     "offerMappings": [],
     "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": "[]",
-    "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-12-19T16:00:00.000Z",
-              "startDate": "2025-12-18T16:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
       "name": "Epic Dev Test Account"
@@ -1439,29 +1129,7 @@
       }
     ],
     "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 1999,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
+    "price": null,
     "productSlug": "thems-fightin-herds/home",
     "promotions": null,
     "seller": {
