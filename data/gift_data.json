@@ -1269,13 +1269,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "eternights-c2fbca"
       }
     ],
-    "description": "Mystery Game 3",
+    "description": "Eternights is a dating action game where you try to make the most out of life during the apocalypse. Monday: Go on a date. Tuesday: Clear dungeon. Friday: Freak out! The clock is ticking!!",
     "effectiveDate": "2025-12-19T16:00:00.000Z",
     "expiryDate": "2025-12-20T16:00:00.000Z",
-    "firstSeenDate": "2025-12-18T15:35:32.466734+00:00",
+    "firstSeenDate": "2025-12-19T15:13:54.245135+00:00",
     "id": "38662974c4dc4a55bd16fe0817985424",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1287,7 +1287,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec19_giveaway_2560x1440_2560x1440-35f0694dabc74e52b717607909332c27"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec19_giveaway_1200x1600_1200x1600-e226c422901e4d76beb832dbb36f6d25"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec19_giveaway_2560x1440_2560x1440-56414d7af2cc442a8fffeba791625bcd"
       },
       {
         "type": "VaultClosed",
@@ -1320,7 +1328,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "eternights-c2fbca",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1344,7 +1352,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 3",
+    "title": "Eternights",
     "url": null,
     "urlSlug": "mysterygame2025-3",
     "viewableDate": "2025-12-18T15:25:00.000Z"
