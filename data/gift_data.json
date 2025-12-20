@@ -1269,13 +1269,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "blood-west-8f6ffd"
       }
     ],
-    "description": "Mystery Game 4",
+    "description": "Weird west legends meet eldritch horror in BLOOD WEST, an immersive stealth FPS. Become the Undead Gunslinger, doomed to roam the barren lands until he manages to purge their curse, freeing his soul. 3 varied scenarios, perk-based progression, and 20+ hours of gameplay await you!",
     "effectiveDate": "2025-12-20T16:00:00.000Z",
     "expiryDate": "2025-12-21T16:00:00.000Z",
-    "firstSeenDate": "2025-12-19T15:34:40.429741+00:00",
+    "firstSeenDate": "2025-12-20T15:17:58.923582+00:00",
     "id": "5b238ea42cc549c2955d12f3babbc390",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1287,7 +1287,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_2560x1440_2560x1440-dfdb6205510e4167ba1057f6f92cfd1d"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_1200x1600_1200x1600-566878d8c0db4f53a69ad6f248ff4df5"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_2560x1440_2560x1440-a1a37a557bb5425a8e724c57c470ec60"
       },
       {
         "type": "VaultClosed",
@@ -1320,7 +1328,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "blood-west-8f6ffd",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1344,7 +1352,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 4",
+    "title": "Blood West",
     "url": null,
     "urlSlug": "mysterygame2025-4",
     "viewableDate": "2025-12-19T15:25:00.000Z"
