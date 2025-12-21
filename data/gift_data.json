@@ -1148,127 +1148,6 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "blood-west-8f6ffd"
-      }
-    ],
-    "description": "Weird west legends meet eldritch horror in BLOOD WEST, an immersive stealth FPS. Become the Undead Gunslinger, doomed to roam the barren lands until he manages to purge their curse, freeing his soul. 3 varied scenarios, perk-based progression, and 20+ hours of gameplay await you!",
-    "effectiveDate": "2025-12-20T16:00:00.000Z",
-    "expiryDate": "2025-12-21T16:00:00.000Z",
-    "firstSeenDate": "2025-12-20T15:17:58.923582+00:00",
-    "id": "5b238ea42cc549c2955d12f3babbc390",
-    "isCodeRedemptionOnly": true,
-    "items": [
-      {
-        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-        "namespace": "d5241c76f178492ea1540fce45616757"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_2560x1440_2560x1440-dfdb6205510e4167ba1057f6f92cfd1d"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_1200x1600_1200x1600-566878d8c0db4f53a69ad6f248ff4df5"
-      },
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_2560x1440_2560x1440-a1a37a557bb5425a8e724c57c470ec60"
-      },
-      {
-        "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
-      }
-    ],
-    "namespace": "d5241c76f178492ea1540fce45616757",
-    "offerMappings": [],
-    "offerType": "OTHERS",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": []
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 0,
-        "discountPrice": 0,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "0"
-        },
-        "originalPrice": 0,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": "blood-west-8f6ffd",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2025-12-21T16:00:00.000Z",
-              "startDate": "2025-12-20T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-      "name": "Epic Dev Test Account"
-    },
-    "status": "ACTIVE",
-    "tags": [],
-    "title": "Blood West",
-    "url": null,
-    "urlSlug": "mysterygame2025-4",
-    "viewableDate": "2025-12-19T15:25:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": []
-    },
-    "categories": [
-      {
-        "path": "freegames/vaulted"
-      },
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "applications"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.freegames.vault.close",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.slug",
-        "value": "free-games"
-      },
-      {
-        "key": "com.epicgames.app.freegames.vault.open",
-        "value": "[]"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
         "value": "sorry-were-closed-724c86"
       }
     ],
@@ -1330,8 +1209,7 @@
     },
     "productSlug": "sorry-were-closed-724c86",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1344,7 +1222,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
