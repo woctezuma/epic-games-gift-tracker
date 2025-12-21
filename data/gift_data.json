@@ -1269,14 +1269,135 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
+        "value": "sorry-were-closed-724c86"
+      }
+    ],
+    "description": "Sorry We're Closed is a nostalgic, single-player survival horror game with rich lore, deep characters and multiple endings. Explore unsettling locations with fixed camera angles. Open your Third Eye to see between worlds, uncover secrets and solve puzzles.",
+    "effectiveDate": "2025-12-21T16:00:00.000Z",
+    "expiryDate": "2025-12-22T16:00:00.000Z",
+    "firstSeenDate": "2025-12-21T15:28:23.892699+00:00",
+    "id": "efef757f06ef40cb939d568a782087d9",
+    "isCodeRedemptionOnly": true,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_2560x14401_2560x1440-44c02dfeb64346b6bf075109d974c9df"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_1200x16001_1200x1600-7e6210ecd7204bc78979e0b7d536adc9"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_2560x14401_2560x1440-1a8c8998966447698da1634d33a23f98"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "sorry-were-closed-724c86",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2025-12-22T16:00:00.000Z",
+              "startDate": "2025-12-21T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Sorry We're Closed",
+    "url": null,
+    "urlSlug": "mysterygame2025-5",
+    "viewableDate": "2025-12-20T15:25:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
         "value": "[]"
       }
     ],
-    "description": "Mystery Game 5",
-    "effectiveDate": "2025-12-21T16:00:00.000Z",
-    "expiryDate": "2025-12-22T16:00:00.000Z",
-    "firstSeenDate": "2025-12-20T15:31:48.771309+00:00",
-    "id": "efef757f06ef40cb939d568a782087d9",
+    "description": "Mystery Game 6",
+    "effectiveDate": "2025-12-22T16:00:00.000Z",
+    "expiryDate": "2025-12-23T16:00:00.000Z",
+    "firstSeenDate": "2025-12-21T15:28:23.892699+00:00",
+    "id": "7c3cbce4cc9b45b78bc30b5bdc74cf9e",
     "isCodeRedemptionOnly": true,
     "items": [
       {
@@ -1331,8 +1452,8 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2025-12-22T16:00:00.000Z",
-              "startDate": "2025-12-21T16:00:00.000Z"
+              "endDate": "2025-12-23T16:00:00.000Z",
+              "startDate": "2025-12-22T16:00:00.000Z"
             }
           ]
         }
@@ -1344,10 +1465,10 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 5",
+    "title": "Mystery Game 6",
     "url": null,
-    "urlSlug": "mysterygame2025-5",
-    "viewableDate": "2025-12-20T15:25:00.000Z"
+    "urlSlug": "mysterygame2025-6",
+    "viewableDate": "2025-12-21T15:25:00.000Z"
   },
   {
     "catalogNs": {
