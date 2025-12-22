@@ -1269,13 +1269,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "paradise-killer-c3ea1c"
       }
     ],
-    "description": "Mystery Game 6",
+    "description": "Paradise Island, a world outside reality. There\u2019s been a murder that only \"investigation freak\" Lady Love Dies can solve. Gather evidence and interrogate suspects in this open world adventure. You can accuse anyone, but you\u2019ll have to prove your case in trial to convict.",
     "effectiveDate": "2025-12-22T16:00:00.000Z",
     "expiryDate": "2025-12-23T16:00:00.000Z",
-    "firstSeenDate": "2025-12-21T15:28:23.892699+00:00",
+    "firstSeenDate": "2025-12-22T15:10:18.072318+00:00",
     "id": "7c3cbce4cc9b45b78bc30b5bdc74cf9e",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1287,7 +1287,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_2560x1440_2560x1440-437658951add4defb6ea05b79968795f"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_1200x1600_1200x1600-2305984cbd8f4d1db54feb6ec6e2e5cf"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_2560x1440_2560x1440-0165246ad3c9454e887f576036328add"
       },
       {
         "type": "VaultClosed",
@@ -1320,7 +1328,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "paradise-killer-c3ea1c",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1344,7 +1352,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 6",
+    "title": "Paradise Killer",
     "url": null,
     "urlSlug": "mysterygame2025-6",
     "viewableDate": "2025-12-21T15:25:00.000Z"
