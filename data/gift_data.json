@@ -1269,13 +1269,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "bloodstained-f3f575"
       }
     ],
-    "description": "Mystery Game 7",
+    "description": "Igavania Returns!\n\nPlay as Miriam, an orphan scarred by an alchemist's curse which slowly crystallizes her body. To save humanity, and herself in the process, she must fight through the castle and defeat the summoner, Gebel.",
     "effectiveDate": "2025-12-23T16:00:00.000Z",
     "expiryDate": "2025-12-24T16:00:00.000Z",
-    "firstSeenDate": "2025-12-22T15:32:48.815410+00:00",
+    "firstSeenDate": "2025-12-23T15:18:04.373711+00:00",
     "id": "5bd273500337498dbb9e4f55b44f997c",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1287,7 +1287,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec23_giveaway_2560x14401_2560x1440-6261ed2e3fa04304b55b2fc13643e3b2"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec23_giveaway_1200x16001_1200x1600-a17a8a849f0a46a1be302914bfe7b727"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec23_giveaway_2560x14401_2560x1440-a65228ad80054bb1a716e87eaa2a10f9"
       },
       {
         "type": "VaultClosed",
@@ -1320,7 +1328,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "bloodstained-f3f575",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1344,7 +1352,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 7",
+    "title": "Bloodstained: Ritual of the Night",
     "url": null,
     "urlSlug": "mysterygame2025-7",
     "viewableDate": "2025-12-22T15:25:00.000Z"
