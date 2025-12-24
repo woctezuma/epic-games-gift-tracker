@@ -1269,13 +1269,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "the-callisto-protocol"
       }
     ],
-    "description": "Mystery Game 8",
+    "description": "Survive to escape the horrors of Callisto. Using a unique blend of shooting and close-quarters combat, players will need to combat rapidly evolving creatures while scavenging to unlock new weapons and gear to outrun the growing threat of Jupiter's Dead Moon.",
     "effectiveDate": "2025-12-24T16:00:00.000Z",
     "expiryDate": "2025-12-25T16:00:00.000Z",
-    "firstSeenDate": "2025-12-23T15:37:00.919189+00:00",
+    "firstSeenDate": "2025-12-24T15:09:39.444624+00:00",
     "id": "6579cbb19cd44979a8ba008bb1ac9084",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1287,7 +1287,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec24_giveaway_2560x1440_2560x1440-b96b670f32f94452a36712298e021d70"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec24_giveaway_1200x1600_1200x1600-a0300157c8ef4bc9975e4e0b91902b52"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec24_giveaway_2560x1440_2560x1440-c86b6fef71f542ec96a6b712a2a85c1c"
       },
       {
         "type": "VaultClosed",
@@ -1320,7 +1328,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "the-callisto-protocol",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1344,7 +1352,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 8",
+    "title": "The Callisto Protocol",
     "url": null,
     "urlSlug": "mysterygame2025-8",
     "viewableDate": "2025-12-23T15:25:00.000Z"
