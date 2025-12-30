@@ -1269,13 +1269,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "trine-classic-collection"
       }
     ],
-    "description": "Mystery Game 14",
+    "description": "Trine Classic Collection",
     "effectiveDate": "2025-12-30T16:00:00.000Z",
     "expiryDate": "2025-12-31T16:00:00.000Z",
-    "firstSeenDate": "2025-12-29T15:40:10.978997+00:00",
+    "firstSeenDate": "2025-12-30T15:49:48.936353+00:00",
     "id": "ba12b3d0fde94f1cafec8e8d5dd3fe67",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1287,7 +1287,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec30_giveaway_2560x1440_2560x1440-f1062bfbf0844a2fa8e56afc6f29e4d3"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec30_giveaway_1200x1600_1200x1600-8b1d9adf2b8046deb95064c171adbd1c"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec30_giveaway_2560x1440_2560x1440-a3a3c03556904202b2127565527e967f"
       },
       {
         "type": "VaultClosed",
@@ -1320,7 +1328,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "trine-classic-collection",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1344,7 +1352,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 14",
+    "title": "Trine Classic Collection",
     "url": null,
     "urlSlug": "mysterygame2025-14",
     "viewableDate": "2025-12-29T15:25:00.000Z"
