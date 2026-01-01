@@ -1448,13 +1448,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "total-war-three-kingdoms-d3bb7a"
       }
     ],
-    "description": "Mystery Game 16",
+    "description": "Total War: THREE KINGDOMS recreates epic conflict across ancient China in an age of heroes and legends, combining gripping empire-building, statecraft and conquest with stunning real-time battles.",
     "effectiveDate": "2026-01-01T16:00:00.000Z",
     "expiryDate": "2026-01-08T16:00:00.000Z",
-    "firstSeenDate": "2025-12-31T15:36:31.836270+00:00",
+    "firstSeenDate": "2026-01-01T15:14:48.580406+00:00",
     "id": "77f90158ddc1488baeb4155bd934fbbd",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1466,7 +1466,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game17_giveaway_2560x14401_2560x1440-dba68e265f1045f883693b0348cf6ea2"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game17_giveaway_1200x16001_1200x1600-c7be7e9799dd46138f23ed8fb70a5366"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game17_giveaway_2560x14401_2560x1440-ac71243943c54e85955897af724527f2"
       },
       {
         "type": "VaultClosed",
@@ -1499,7 +1507,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "total-war-three-kingdoms-d3bb7a",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1523,7 +1531,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 16",
+    "title": "Total War: THREE KINGDOMS",
     "url": null,
     "urlSlug": "mysterygame2025-16",
     "viewableDate": "2025-12-31T15:25:00.000Z"
@@ -1561,13 +1569,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "wildgate-standard-edition-b886b5"
       }
     ],
-    "description": "Mystery Game 17",
+    "description": "Wildgate is a crew-based PVP multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact.",
     "effectiveDate": "2026-01-01T16:00:00.000Z",
     "expiryDate": "2026-01-08T16:00:00.000Z",
-    "firstSeenDate": "2025-12-31T15:36:31.836270+00:00",
+    "firstSeenDate": "2026-01-01T15:14:48.580406+00:00",
     "id": "acd0b5048a0d43ec80909788a388964a",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1579,7 +1587,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game16_giveaway_2560x1440_2560x1440-22bf2decce1c44e3a49f538de98de940"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game16_giveaway_1200x1600_1200x1600-fa310919f19249eea04277b34e3d358f"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Jan1-7_Game16_giveaway_2560x1440_2560x1440-e996755894df43a4b28c831e7a0290d2"
       },
       {
         "type": "VaultClosed",
@@ -1612,7 +1628,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "wildgate-standard-edition-b886b5",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1636,7 +1652,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game 17",
+    "title": "Wildgate",
     "url": null,
     "urlSlug": "mysterygame2025-17",
     "viewableDate": "2025-12-31T15:25:00.000Z"
