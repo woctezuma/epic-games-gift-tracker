@@ -1576,7 +1576,31 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 35,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-02-23T16:00:00.000Z",
+              "startDate": "2026-02-09T16:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 35,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-04-13T15:00:00.000Z",
+              "startDate": "2026-03-30T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
       "name": "ustwo games"
