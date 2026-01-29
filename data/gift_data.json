@@ -654,7 +654,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-02-05T16:00:00.000Z",
+              "id": "2f486a62c66e43baa8094798cfa1ca52"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -662,12 +670,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 2499,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -676,8 +684,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -690,7 +697,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-d9dh23jb6uamngl64hw8lnejdz6334",
@@ -1689,9 +1697,6 @@
     },
     "categories": [
       {
-        "path": "freegames"
-      },
-      {
         "path": "games"
       },
       {
@@ -1788,15 +1793,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-29T16:00:00.000Z",
-              "id": "b0487f2df24f4c74924d45d658c1ee3b"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1804,12 +1801,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 2499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 2499,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -1817,23 +1814,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-01-29T16:00:00.000Z",
-              "startDate": "2026-01-22T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
       "name": "Games Operators S.A."
