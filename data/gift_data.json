@@ -933,6 +933,14 @@
         "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-kp3sf.jpg"
       },
       {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video.qs://acaeba69-60cd-4ecd-a66a-b3c7a5b4e97b?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fdece0016082647a6af5759dbbedfc8eb%2Fnobody-wants-to-die-video-1jv7q.png"
+      },
+      {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video.qs://57364471-d674-4a29-ad87-25983bc70a9d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fdece0016082647a6af5759dbbedfc8eb%2Fnobody-wants-to-die-video-1qzib.png"
+      },
+      {
         "type": "featuredMedia",
         "url": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-v81st.png"
       },
