@@ -1177,6 +1177,188 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "cozy-grove",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Spry Fox"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "cozy-grove"
+      }
+    ],
+    "description": "Welcome to Cozy Grove, a life-sim game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts.",
+    "effectiveDate": "2021-04-08T04:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2026-03-05T15:57:39.162371+00:00",
+    "id": "c367569acede446995c5a3663e993446",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "d1d38a70f86c4d74a9899d661749f70e",
+        "namespace": "768ec2d3b5114ac4a800631b12ee3f31"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG-2560x1440-570add3e55ecf729bd4f3a221ca7927a.jpg"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg"
+      },
+      {
+        "type": "CodeRedemption_340x440",
+        "url": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg"
+      },
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG-2560x1440-570add3e55ecf729bd4f3a221ca7927a.jpg"
+      },
+      {
+        "type": "DieselStoreFrontTall",
+        "url": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg"
+      }
+    ],
+    "namespace": "768ec2d3b5114ac4a800631b12ee3f31",
+    "offerMappings": [],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1499,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
+          "originalPrice": "$14.99"
+        },
+        "originalPrice": 1499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "cozy-grove",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-03-19T15:00:00.000Z",
+              "startDate": "2026-03-12T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-k4863wgz6fj9hdltmzvvx8pcfr5ftp",
+      "name": "Spry Fox Inc"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21122"
+      },
+      {
+        "id": "1188"
+      },
+      {
+        "id": "21124"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "1127"
+      },
+      {
+        "id": "21130"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1263"
+      },
+      {
+        "id": "1296"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "Cozy Grove",
+    "url": null,
+    "urlSlug": "cozy-grove",
+    "viewableDate": "2021-03-08T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "ghostrunner-2",
           "pageType": "productHome"
         }
@@ -1310,6 +1492,222 @@
     "url": null,
     "urlSlug": "ghostrunner-2",
     "viewableDate": "2023-10-26T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "isonzo",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "autoGeneratedPrice",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
+        "key": "isPromotionalContentUsed",
+        "value": "false"
+      },
+      {
+        "key": "publisherName",
+        "value": "BlackMill Games"
+      },
+      {
+        "key": "developerName",
+        "value": "BlackMill Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "isonzo"
+      },
+      {
+        "key": "isBlockchainUsed",
+        "value": "false"
+      }
+    ],
+    "description": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
+    "effectiveDate": "2022-09-20T11:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2026-03-05T15:57:39.162371+00:00",
+    "id": "4889207626a44fed973f5e72ae79ce9d",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "2e4065a044524a4b95beefa07b3d7e21",
+        "namespace": "30de69013f3b41b0ba594a8ef3b693ba"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S1_2560x1440-c45b9d495ea324c69ad872aeccc9fb7d"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S2_1200x1600-1225b5b75f29ea6723fcb23b2f3fae46"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S2_1200x1600-1225b5b75f29ea6723fcb23b2f3fae46"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S1_2560x1440-c45b9d495ea324c69ad872aeccc9fb7d"
+      }
+    ],
+    "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
+    "offerMappings": [
+      {
+        "pageSlug": "isonzo",
+        "pageType": "productHome"
+      }
+    ],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2999,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "$29.99",
+          "intermediatePrice": "$29.99",
+          "originalPrice": "$29.99"
+        },
+        "originalPrice": 2999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "isonzo",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-03-19T15:00:00.000Z",
+              "startDate": "2026-03-12T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-pqh887lztbpbmnnzvlmm79bps4an8w",
+      "name": "BlackMill Games B.V."
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "29088"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "39940"
+      },
+      {
+        "id": "21125"
+      },
+      {
+        "id": "21894"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "21129"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "21135"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "21140"
+      },
+      {
+        "id": "21141"
+      },
+      {
+        "id": "22776"
+      },
+      {
+        "id": "1210"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "21146"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "10719"
+      }
+    ],
+    "title": "Isonzo",
+    "url": null,
+    "urlSlug": "isonzo-2",
+    "viewableDate": "2022-09-20T11:00:00.000Z"
   },
   {
     "catalogNs": {
