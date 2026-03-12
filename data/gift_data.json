@@ -77,15 +77,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-03-12T15:00:00.000Z",
-              "id": "a94e42b084f444a8b8724861e97051c6"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -93,12 +85,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1499,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$14.99",
+          "intermediatePrice": "$14.99",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -106,23 +98,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-03-12T15:00:00.000Z",
-              "startDate": "2026-03-05T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-87c748zl24r2zsfe7t98b49ghm86kr",
       "name": "Graffiti Games"
@@ -630,9 +606,6 @@
     },
     "categories": [
       {
-        "path": "freegames"
-      },
-      {
         "path": "games"
       },
       {
@@ -694,19 +667,15 @@
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1n34h.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-w6ov3.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1ved6.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1uj5o.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1ved6.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1b8n4.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1uj5o.png"
       },
       {
         "type": "heroCarouselVideo",
@@ -765,23 +734,7 @@
       }
     },
     "productSlug": "idle-champions-of-the-forgotten-realms",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-03-12T15:00:00.000Z",
-              "startDate": "2026-03-05T16:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
       "name": "Codename Entertainment"
@@ -931,7 +884,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-03-19T15:00:00.000Z",
+              "id": "0630a27ef8e443719477bd70b82a6121"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -939,12 +900,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -953,8 +914,7 @@
     },
     "productSlug": "cozy-grove",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -967,7 +927,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-k4863wgz6fj9hdltmzvvx8pcfr5ftp",
@@ -1264,7 +1225,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-03-19T15:00:00.000Z",
+              "id": "9beb803cd48442f1a480b2563fd56e1b"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1272,12 +1241,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2999,
+        "discount": 2999,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$29.99",
-          "intermediatePrice": "$29.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$29.99"
         },
         "originalPrice": 2999,
@@ -1286,8 +1255,7 @@
     },
     "productSlug": "isonzo",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1300,7 +1268,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-pqh887lztbpbmnnzvlmm79bps4an8w",
@@ -2024,5 +1993,167 @@
     "url": null,
     "urlSlug": "thems-fightin-herds",
     "viewableDate": "2022-12-19T15:55:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "world-of-warships",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "addons"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "addons/durable"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "isManuallySetRefundableType",
+        "value": "true"
+      },
+      {
+        "key": "autoGeneratedPrice",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
+        "key": "isPromotionalContentUsed",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetPCReleaseDate",
+        "value": "true"
+      },
+      {
+        "key": "isBlockchainUsed",
+        "value": "false"
+      }
+    ],
+    "description": "Get a Premium Japanese destroyer and some Epic permanent camouflages to celebrate our 5th year at Epic Games Store.",
+    "effectiveDate": "2026-03-19T15:00:00.000Z",
+    "expiryDate": "2026-03-26T15:00:00.000Z",
+    "firstSeenDate": "2026-03-12T15:04:39.480447+00:00",
+    "id": "d3b29bd0dac74187970db0d79bf4b18e",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "a0929e78372049f2bf6a2392d16d7794",
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-tll35.png"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-tll35.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1fvgj.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-dvsl0.png"
+      }
+    ],
+    "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+    "offerMappings": [
+      {
+        "pageSlug": "world-of-warships-world-of-warships-\u2014-tachibana-lima-pack-5930e4",
+        "pageType": "offer"
+      }
+    ],
+    "offerType": "ADD_ON",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2500,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "$25.00",
+          "intermediatePrice": "$25.00",
+          "originalPrice": "$25.00"
+        },
+        "originalPrice": 2500,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-03-26T15:00:00.000Z",
+              "startDate": "2026-03-19T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+      "name": "Wargaming Group Limited"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1216"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "29088"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "22775"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      }
+    ],
+    "title": "World of Warships \u2014 Epic Anniversary Tachibana Pack",
+    "url": null,
+    "urlSlug": "world-of-warships-tachibana-lima-pack",
+    "viewableDate": "2026-03-12T15:00:00.000Z"
   }
 ]
