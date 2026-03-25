@@ -1073,6 +1073,12 @@
         "id": "1393"
       },
       {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
         "id": "21140"
       },
       {
@@ -1678,6 +1684,14 @@
               },
               "endDate": "2026-04-13T15:00:00.000Z",
               "startDate": "2026-03-30T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 35,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-06-11T15:00:00.000Z",
+              "startDate": "2026-05-14T15:00:00.000Z"
             }
           ]
         }
