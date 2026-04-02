@@ -654,6 +654,10 @@
         "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-jc5go.png"
       },
       {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video.qs://56cab215-244e-4a60-a706-d001b5a9a02d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa965174568cb492ca3ebbe7a95886261%2Fpropsumo-video-kmxjw.jpg"
+      },
+      {
         "type": "featuredMedia",
         "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-3q53p.jpg"
       },
