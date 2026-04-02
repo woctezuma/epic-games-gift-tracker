@@ -1062,7 +1062,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "tomak-save-the-earth-regeneration-c1207c",
+          "pageSlug": "propsumo-ca8bd7",
           "pageType": "productHome"
         }
       ]
@@ -1092,7 +1092,7 @@
       },
       {
         "key": "isPromotionalContentUsed",
-        "value": "true"
+        "value": "false"
       },
       {
         "key": "isManuallySetPCReleaseDate",
@@ -1103,84 +1103,88 @@
         "value": "false"
       }
     ],
-    "description": "The legendary cult hit \"Tomak: Save the Earth\" arrives on the Epic Games Store!\nNurture Evian, the Goddess of Love\u2014trapped in a flowerpot\u2014and save humanity from destruction. From divine ascension to total annihilation, every choice you make leads to a different destiny.",
-    "effectiveDate": "2026-04-02T00:00:00.000Z",
+    "description": "Prop Sumo is a party fighting game that pits ordinary props together in extraordinary battles!\n\nBeat up your friends and dominate the scoreboard!",
+    "effectiveDate": "2026-04-09T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2026-04-02T03:33:18.134901+00:00",
-    "id": "9f67865fcf0749a58f4d35827473266f",
+    "firstSeenDate": "2026-04-02T14:04:09.572348+00:00",
+    "id": "bc9b3091841840ad974ff525873d48c1",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "b868fac50d3d46ee9518911dbeefe173",
-        "namespace": "7de6896ed120435fba9433d2732dadb4"
+        "id": "2baf95d4efa24255a324934b82c96383",
+        "namespace": "a01818d165284996896acce560c669fa"
       }
     ],
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-myh89.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-jc5go.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-myh89.png"
-      },
-      {
-        "type": "heroCarouselVideo",
-        "url": "com.epicgames.video.qs://15721c36-717c-47e1-b547-ee044859500d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F603c0097f96047c38bc199331b5cf95b%2Ftomak--save-the-earth-regeneration-video-1xapr.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-jc5go.png"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-i5ajc.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-3q53p.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1f3dm.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1exiy.png"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-14g3g.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-xrdps.png"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-15kdf.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-17sm7.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-fkv6l.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1pb1k.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1ge0f.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-bt6kd.png"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-uyewg.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-16oer.png"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1oeeg.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-6yz4o.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-bv4wi.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-m4ypi.png"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-173z3.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-b47fs.png"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1uy8k.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-18xi3.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1ge55.png"
+      },
+      {
+        "type": "OgImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-154b2.jpg"
       }
     ],
-    "namespace": "7de6896ed120435fba9433d2732dadb4",
+    "namespace": "a01818d165284996896acce560c669fa",
     "offerMappings": [
       {
-        "pageSlug": "tomak-save-the-earth-regeneration-c1207c",
+        "pageSlug": "propsumo-ca8bd7",
         "pageType": "productHome"
       }
     ],
@@ -1188,15 +1192,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-04-16T15:00:00.000Z",
-              "id": "c6ec012711114e89bf1dd3762652f687"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1204,21 +1200,22 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 899,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 999,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$8.99"
+          "discountPrice": "$9.99",
+          "intermediatePrice": "$9.99",
+          "originalPrice": "$9.99"
         },
-        "originalPrice": 899,
+        "originalPrice": 999,
         "voucherDiscount": 0
       }
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1227,42 +1224,47 @@
                 "discountType": "PERCENTAGE"
               },
               "endDate": "2026-04-16T15:00:00.000Z",
-              "startDate": "2026-04-02T00:00:00.000Z"
+              "startDate": "2026-04-09T15:00:00.000Z"
             }
           ]
         }
-      ],
-      "upcomingPromotionalOffers": []
+      ]
     },
     "seller": {
-      "id": "o-j57ufzdsqudphprtvghfvpnk7bcm7c",
-      "name": "NETMARBLE MONSTER"
+      "id": "o-ur7c9fhlj4tk5quljfy7znqz9qz2t3",
+      "name": "Barrel Roll Games GmbH & Co. KG"
     },
     "status": "ACTIVE",
     "tags": [
       {
+        "id": "1216"
+      },
+      {
         "id": "1296"
       },
       {
-        "id": "1393"
+        "id": "1344"
       },
       {
-        "id": "33639"
+        "id": "29088"
       },
       {
-        "id": "1370"
+        "id": "19847"
+      },
+      {
+        "id": "22776"
       },
       {
         "id": "9547"
       },
       {
-        "id": "1198"
+        "id": "9549"
       }
     ],
-    "title": "TOMAK : Save the Earth Regeneration",
+    "title": "Prop Sumo",
     "url": null,
-    "urlSlug": "798328bff911452783523d61986170c0",
-    "viewableDate": "2026-03-30T23:25:54.000Z"
+    "urlSlug": "67a9bcbc6b8e411e9265afb380fea91f",
+    "viewableDate": "2026-03-30T07:33:13.000Z"
   },
   {
     "catalogNs": {
