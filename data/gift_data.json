@@ -545,16 +545,10 @@
         "id": "1216"
       },
       {
-        "id": "1264"
-      },
-      {
         "id": "1344"
       },
       {
         "id": "29088"
-      },
-      {
-        "id": "1299"
       },
       {
         "id": "21894"
@@ -566,16 +560,25 @@
         "id": "33639"
       },
       {
-        "id": "22776"
-      },
-      {
-        "id": "1370"
-      },
-      {
         "id": "9547"
       },
       {
         "id": "1263"
+      },
+      {
+        "id": "1264"
+      },
+      {
+        "id": "1299"
+      },
+      {
+        "id": "21109"
+      },
+      {
+        "id": "22776"
+      },
+      {
+        "id": "1370"
       }
     ],
     "title": "Clone Drone in the Danger Zone",
@@ -855,19 +858,19 @@
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-10jsb.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-myh89.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-l1n5k.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-myh89.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-l1n5k.png"
       },
       {
         "type": "heroCarouselVideo",
-        "url": "com.epicgames.video.qs://15721c36-717c-47e1-b547-ee044859500d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F603c0097f96047c38bc199331b5cf95b%2Ftomak--save-the-earth-regeneration-video-1xapr.png"
+        "url": "com.epicgames.video.qs://52f65a80-4cc4-494c-adb5-79f90b39e7d9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F603c0097f96047c38bc199331b5cf95b%2Ftomak--save-the-earth-regeneration-video-ux3qi.png"
       },
       {
         "type": "featuredMedia",
