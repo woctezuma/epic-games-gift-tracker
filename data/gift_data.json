@@ -1430,7 +1430,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 35,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-06-11T15:00:00.000Z",
+              "startDate": "2026-05-14T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
       "name": "ustwo games"
@@ -1609,7 +1625,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-04-23T15:00:00.000Z",
+              "startDate": "2026-04-16T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
       "name": "Tripwire Interactive"
