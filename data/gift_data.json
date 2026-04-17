@@ -102,7 +102,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 40,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-06-11T15:00:00.000Z",
+              "startDate": "2026-05-14T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
       "name": "KONAMI"
@@ -675,7 +691,23 @@
       }
     },
     "productSlug": "ghostrunner-2",
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-06-11T15:00:00.000Z",
+              "startDate": "2026-05-14T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
       "name": "505 Games"
