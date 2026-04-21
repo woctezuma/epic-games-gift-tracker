@@ -296,6 +296,9 @@
         "id": "21138"
       },
       {
+        "id": "21139"
+      },
+      {
         "id": "1188"
       },
       {
@@ -1285,10 +1288,6 @@
       {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-v4bor.jpg"
-      },
-      {
-        "type": "heroCarouselVideo",
-        "url": "com.epicgames.video://03b77885-1e7b-41c1-a582-6c60959d7bf3?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F8de621e8d91b473f892472024035dc22%2Fthe-stone-of-madness-video-wd4x5.jpg"
       },
       {
         "type": "heroCarouselVideo",
