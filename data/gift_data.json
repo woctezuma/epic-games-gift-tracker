@@ -1263,13 +1263,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "tomb-raider-iiii-remastered-538640"
       }
     ],
-    "description": "Mystery Game Week 21 Game 1",
+    "description": "Tomb Raider I-III Remastered Starring Lara Croft",
     "effectiveDate": "2026-05-21T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2026-05-14T15:06:19.488390+00:00",
+    "firstSeenDate": "2026-05-21T14:14:33.407665+00:00",
     "id": "9e2567e57e61458686d53f5aeaf1e2e0",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1281,15 +1281,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Wide_2560x1440-8d4d3759851d462299fc4c6cf13643b2"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Tall_1200x1600-69337ce1d78e490cbfc60415792613ab"
       },
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Wide_2560x1440-70744ab05bab4e6784a6b206eef2a94c"
       },
       {
         "type": "VaultClosed",
@@ -1322,7 +1322,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "tomb-raider-iiii-remastered-538640",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1346,7 +1346,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game Week 21 Game 1",
+    "title": "Tomb Raider I-III Remastered Starring Lara Croft",
     "url": null,
     "urlSlug": "megasale-mysterygame-2026-week21-game1",
     "viewableDate": "2026-05-14T14:15:00.000Z"
@@ -1384,13 +1384,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "down-in-bermuda"
       }
     ],
-    "description": "Mystery Game Week 21 Game 2",
+    "description": "Down in Bermuda",
     "effectiveDate": "2026-05-21T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2026-05-14T15:06:19.488390+00:00",
+    "firstSeenDate": "2026-05-21T14:14:33.407665+00:00",
     "id": "cd37ebd7ce804df9b51b84578e631b8a",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1402,15 +1402,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-5314b15510b84a82971afea207658297"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_Tall_1200x1600-d227c9897c1e4b2388f5a4963ba00f80"
       },
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-a5d54568f32d4df2a0700c89b56f00ae"
       },
       {
         "type": "VaultClosed",
@@ -1443,7 +1443,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "down-in-bermuda",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1467,7 +1467,7 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game Week 21 Game 2",
+    "title": "Down in Bermuda",
     "url": null,
     "urlSlug": "megasale-mysterygame-2026-week21-game2",
     "viewableDate": "2026-05-14T14:15:00.000Z"
