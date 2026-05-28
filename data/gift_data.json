@@ -1276,13 +1276,13 @@
       },
       {
         "key": "com.epicgames.app.productSlug",
-        "value": "[]"
+        "value": "lonestar-83f143"
       }
     ],
-    "description": "Mystery Game Week 22 Game 1",
+    "description": "LONESTAR",
     "effectiveDate": "2026-05-28T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2026-05-21T17:07:18.301356+00:00",
+    "firstSeenDate": "2026-05-28T14:37:32.642177+00:00",
     "id": "9621cc6e5d32437ca3dd998de177f6da",
     "isCodeRedemptionOnly": true,
     "items": [
@@ -1294,15 +1294,15 @@
     "keyImages": [
       {
         "type": "DieselStoreFrontWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-c6a104de10c14d33854d3018ccf8cc75"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-1o6dd_1200x1600-a397ed892417495e8051a47c841d0a53"
       },
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-9abfcdf2bc7e4e66a7c181f9bcc7913a"
       },
       {
         "type": "VaultClosed",
@@ -1335,7 +1335,7 @@
         "voucherDiscount": 0
       }
     },
-    "productSlug": "[]",
+    "productSlug": "lonestar-83f143",
     "promotions": {
       "promotionalOffers": [],
       "upcomingPromotionalOffers": [
@@ -1359,9 +1359,130 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game Week 22 Game 1",
+    "title": "LONESTAR",
     "url": null,
     "urlSlug": "megasale-mysterygame-2026-week22-game1",
+    "viewableDate": "2026-05-21T14:15:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "calico"
+      }
+    ],
+    "description": "Calico",
+    "effectiveDate": "2026-05-28T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2026-05-28T14:37:32.642177+00:00",
+    "id": "7fc5abc8f11c471e837ddd00ce963350",
+    "isCodeRedemptionOnly": true,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-79182ef9c56c44af95ab38b0a2c46329"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_S1_1200x1600-1a16717f6b894d48a74666ad3c222fd2"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-09c1b30be094430b93b53d0ccc07b8f1"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3_1200x1600-a53d7dcb610240afae9c51d449713a62"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "calico",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-06-04T15:00:00.000Z",
+              "startDate": "2026-05-28T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Calico",
+    "url": null,
+    "urlSlug": "megasale-mysterygame-2026-week22-game2",
     "viewableDate": "2026-05-21T14:15:00.000Z"
   },
   {
@@ -1400,11 +1521,11 @@
         "value": "[]"
       }
     ],
-    "description": "Mystery Game Week 22 Game 2",
-    "effectiveDate": "2026-05-28T15:00:00.000Z",
+    "description": "Mystery Game Week 23 Game 1",
+    "effectiveDate": "2026-06-04T15:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2026-05-21T17:07:18.301356+00:00",
-    "id": "7fc5abc8f11c471e837ddd00ce963350",
+    "firstSeenDate": "2026-05-28T14:37:32.642177+00:00",
+    "id": "62b6d302e2bd41039449b1f2f9608748",
     "isCodeRedemptionOnly": true,
     "items": [
       {
@@ -1427,7 +1548,7 @@
       },
       {
         "type": "VaultClosed",
-        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3_1200x1600-a53d7dcb610240afae9c51d449713a62"
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3_1200x1600-50b412d0d26941178db2481937e32b4a"
       }
     ],
     "namespace": "d5241c76f178492ea1540fce45616757",
@@ -1467,8 +1588,8 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2026-06-04T15:00:00.000Z",
-              "startDate": "2026-05-28T15:00:00.000Z"
+              "endDate": "2026-06-11T15:00:00.000Z",
+              "startDate": "2026-06-04T15:00:00.000Z"
             }
           ]
         }
@@ -1480,10 +1601,131 @@
     },
     "status": "ACTIVE",
     "tags": [],
-    "title": "Mystery Game Week 22 Game 2",
+    "title": "Mystery Game Week 23 Game 1",
     "url": null,
-    "urlSlug": "megasale-mysterygame-2026-week22-game2",
-    "viewableDate": "2026-05-21T14:15:00.000Z"
+    "urlSlug": "megasale-mysterygame-2026-week23-game1",
+    "viewableDate": "2026-05-28T14:15:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": []
+    },
+    "categories": [
+      {
+        "path": "freegames/vaulted"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.freegames.vault.close",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.slug",
+        "value": "free-games"
+      },
+      {
+        "key": "com.epicgames.app.freegames.vault.open",
+        "value": "[]"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "[]"
+      }
+    ],
+    "description": "Mystery Game Week 23 Game 2",
+    "effectiveDate": "2026-06-04T15:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2026-05-28T14:37:32.642177+00:00",
+    "id": "a6a2d59fa54946dbbf16f14730c2e5f0",
+    "isCodeRedemptionOnly": true,
+    "items": [
+      {
+        "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+        "namespace": "d5241c76f178492ea1540fce45616757"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "DieselStoreFrontWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image24_1200x1600-bdc90908480d4d5a96ec4535855aeff3"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1"
+      },
+      {
+        "type": "VaultClosed",
+        "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/vault_tall_1200x1600-598b32ffd4aa4cef9fcc93600603a96e"
+      }
+    ],
+    "namespace": "d5241c76f178492ea1540fce45616757",
+    "offerMappings": [],
+    "offerType": "OTHERS",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "[]",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-06-11T15:00:00.000Z",
+              "startDate": "2026-06-04T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "name": "Epic Dev Test Account"
+    },
+    "status": "ACTIVE",
+    "tags": [],
+    "title": "Mystery Game Week 23 Game 2",
+    "url": null,
+    "urlSlug": "megasale-mysterygame-2026-week23-game2",
+    "viewableDate": "2026-05-28T14:15:00.000Z"
   },
   {
     "catalogNs": {
