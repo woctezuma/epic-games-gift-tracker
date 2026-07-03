@@ -238,7 +238,7 @@
       },
       {
         "key": "isPromotionalContentUsed",
-        "value": "null"
+        "value": "false"
       },
       {
         "key": "isManuallySetPCReleaseDate",
@@ -1859,14 +1859,6 @@
               },
               "endDate": "2026-07-16T15:00:00.000Z",
               "startDate": "2026-07-09T15:00:00.000Z"
-            },
-            {
-              "discountSetting": {
-                "discountPercentage": 66,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-07-30T15:00:00.000Z",
-              "startDate": "2026-07-16T15:00:00.000Z"
             },
             {
               "discountSetting": {
