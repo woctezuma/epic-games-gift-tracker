@@ -81,7 +81,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-07-30T15:00:00.000Z",
+              "id": "62f15286852049bcb6efea29c458a8f0"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -89,12 +97,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1200,
+        "discountPrice": 799,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$7.99",
+          "intermediatePrice": "$7.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -103,8 +111,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -117,7 +124,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
@@ -151,6 +159,9 @@
       },
       {
         "id": "21138"
+      },
+      {
+        "id": "16979"
       },
       {
         "id": "21139"
@@ -541,7 +552,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-07-23T15:00:00.000Z",
+              "id": "79f8139e91b54a238650011183c0074f"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -549,12 +568,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1999,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -563,8 +582,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -577,7 +595,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-vy8ts96trv6ffh4xnvnmgb35h3c8z7",
@@ -687,7 +706,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-07-30T15:00:00.000Z",
+              "id": "2233e894b85f4a9783caabaea127b2fd"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -695,12 +722,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1700,
+        "discountPrice": 299,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$2.99",
+          "intermediatePrice": "$2.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -709,8 +736,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -720,7 +746,13 @@
               },
               "endDate": "2026-07-30T15:00:00.000Z",
               "startDate": "2026-07-16T15:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 0,
@@ -741,6 +773,9 @@
     "tags": [
       {
         "id": "1395"
+      },
+      {
+        "id": "16979"
       },
       {
         "id": "19847"
@@ -845,7 +880,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-07-30T15:00:00.000Z",
+              "id": "99581c784c174e278a6ef9e796fab5c7"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -853,12 +896,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1600,
+        "discountPrice": 399,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -867,8 +910,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -881,7 +923,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
@@ -891,6 +934,9 @@
     "tags": [
       {
         "id": "1298"
+      },
+      {
+        "id": "16979"
       },
       {
         "id": "19847"
@@ -912,188 +958,6 @@
     "url": null,
     "urlSlug": "a9152a8924cc4e438f0e61106ec02f7d",
     "viewableDate": "2023-10-12T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "nova-lands-4d1788",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "autoGeneratedPrice",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetViewableDate",
-        "value": "true"
-      },
-      {
-        "key": "isPromotionalContentUsed",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetPCReleaseDate",
-        "value": "false"
-      },
-      {
-        "key": "isBlockchainUsed",
-        "value": "false"
-      }
-    ],
-    "description": "Nova Lands is a factory building, exploration, and island management game. Explore, engage in combat, and automate your industry. The planet you\u2019re on is full of mysteries, creatures, people, and things to do. Welcome to your new home amongst the stars!",
-    "effectiveDate": "2023-06-22T17:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2026-07-01T17:23:30.758142+00:00",
-    "id": "e5da2c017d4d4afab9f4c56525b66100",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "e28bfb8ab9d24d44927096af01505dba",
-        "namespace": "740ba4a6fbed4062a9c43d52c5996b0b"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/download-nova-lands-offer-gtjce.png"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/download-nova-lands-offer-gtjce.png"
-      }
-    ],
-    "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
-    "offerMappings": [
-      {
-        "pageSlug": "nova-lands-4d1788",
-        "pageType": "productHome"
-      }
-    ],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-07-16T15:00:00.000Z",
-              "id": "ddda185d6dec492badf6e4c149daa6bc"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 1999,
-        "discountPrice": 0,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$19.99"
-        },
-        "originalPrice": 1999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-07-16T15:00:00.000Z",
-              "startDate": "2026-07-09T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-07-30T15:00:00.000Z",
-              "startDate": "2026-07-16T15:00:00.000Z"
-            },
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-09-17T15:00:00.000Z",
-              "startDate": "2026-09-03T15:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    "seller": {
-      "id": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
-      "name": "Hypetrain Digital"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1393"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "1263"
-      },
-      {
-        "id": "21119"
-      }
-    ],
-    "title": "Nova Lands",
-    "url": null,
-    "urlSlug": "acb83bd813054e599598de9e76f6d95d",
-    "viewableDate": "2022-07-12T22:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -1213,7 +1077,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-07-23T15:00:00.000Z",
+              "id": "ee89aaa96e38439b81013418cbdea1fe"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1221,12 +1093,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 2499,
+        "discount": 2499,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$24.99",
-          "intermediatePrice": "$24.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -1235,8 +1107,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1249,7 +1120,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-angtq474rblj3nwc3a4pqajntqync2",
@@ -1352,7 +1224,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-07-30T15:00:00.000Z",
+              "id": "8d5bdce606a0404ca35659227ba9c79e"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1360,12 +1240,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 3999,
+        "discount": 3200,
+        "discountPrice": 799,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$39.99",
-          "intermediatePrice": "$39.99",
+          "discountPrice": "$7.99",
+          "intermediatePrice": "$7.99",
           "originalPrice": "$39.99"
         },
         "originalPrice": 3999,
@@ -1374,8 +1254,7 @@
     },
     "productSlug": "ghostrunner-2",
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1388,7 +1267,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
@@ -1403,7 +1283,16 @@
         "id": "21122"
       },
       {
+        "id": "21129"
+      },
+      {
+        "id": "9547"
+      },
+      {
         "id": "21138"
+      },
+      {
+        "id": "16979"
       },
       {
         "id": "21139"
@@ -1418,13 +1307,7 @@
         "id": "21141"
       },
       {
-        "id": "21129"
-      },
-      {
         "id": "1370"
-      },
-      {
-        "id": "9547"
       },
       {
         "id": "1117"
@@ -1679,7 +1562,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-07-30T15:00:00.000Z",
+              "id": "2c8c63ae187e4f2aae3ed1e2554c04d6"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1687,12 +1578,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 399,
+        "discount": 200,
+        "discountPrice": 199,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$3.99",
-          "intermediatePrice": "$3.99",
+          "discountPrice": "$1.99",
+          "intermediatePrice": "$1.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -1701,8 +1592,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1715,7 +1605,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
@@ -1728,6 +1619,9 @@
       },
       {
         "id": "1265"
+      },
+      {
+        "id": "16979"
       },
       {
         "id": "1367"
@@ -1916,235 +1810,6 @@
     "url": null,
     "urlSlug": "monument-valley-02",
     "viewableDate": "2025-08-28T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "tattoo-tycoon-b4352c",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "autoGeneratedPrice",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetViewableDate",
-        "value": "true"
-      },
-      {
-        "key": "isPromotionalContentUsed",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetPCReleaseDate",
-        "value": "true"
-      },
-      {
-        "key": "isBlockchainUsed",
-        "value": "false"
-      }
-    ],
-    "description": "Become a tattoo artist and manage your very own tattoo parlor. Find the best designs for your clients, turning their vague ideas into stunning works of body art. Expand from a cozy personal studio into a thriving multi-parlor business across the diverse districts of Tattuga Bay.",
-    "effectiveDate": "2025-10-24T13:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2026-07-02T15:23:42.112114+00:00",
-    "id": "f247e0af293645bda266fa9957d82d62",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "969cad29ec65453995ef8f641e552261",
-        "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg"
-      },
-      {
-        "type": "heroCarouselVideo",
-        "url": "com.epicgames.video://2555a373-8b19-4a3f-a925-1110696f73d3?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F0b68dfc82a014fe2ac9971f13e0e3ce5%2Ftattoo-tycoon-video-13xuj.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-7os7d.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1i8ag.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-13vbp.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1uqyr.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-xtzgt.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-132lu.jpg"
-      },
-      {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-in6xn.jpg"
-      },
-      {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1sokb.jpg"
-      },
-      {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-u9z7h.jpg"
-      },
-      {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1jtf6.jpg"
-      },
-      {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1tls4.jpg"
-      },
-      {
-        "type": "OgImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-ajaa4.jpg"
-      }
-    ],
-    "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
-    "offerMappings": [
-      {
-        "pageSlug": "tattoo-tycoon-b4352c",
-        "pageType": "productHome"
-      }
-    ],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-07-16T15:00:00.000Z",
-              "id": "9868464a211d4af8a8320f03017b61f9"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-07-16T15:00:00.000Z",
-              "startDate": "2026-07-09T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 80,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-10-08T15:00:00.000Z",
-              "startDate": "2026-09-24T15:00:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    "seller": {
-      "id": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
-      "name": "Handy Games"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1393"
-      },
-      {
-        "id": "21894"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "1115"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "21149"
-      },
-      {
-        "id": "1263"
-      }
-    ],
-    "title": "Tattoo Tycoon",
-    "url": null,
-    "urlSlug": "tattoo-tycoon",
-    "viewableDate": "2025-10-17T07:08:15.000Z"
   },
   {
     "catalogNs": {
