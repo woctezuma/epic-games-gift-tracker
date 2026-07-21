@@ -1148,6 +1148,9 @@
         "id": "9547"
       },
       {
+        "id": "21147"
+      },
+      {
         "id": "1117"
       }
     ],
@@ -1219,7 +1222,12 @@
       }
     ],
     "namespace": "708f57aaa04b42ef885be16c8288f0ac",
-    "offerMappings": [],
+    "offerMappings": [
+      {
+        "pageSlug": "ghostrunner-2",
+        "pageType": "productHome"
+      }
+    ],
     "offerType": "BASE_GAME",
     "price": {
       "lineOffers": [
