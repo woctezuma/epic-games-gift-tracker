@@ -1349,7 +1349,20 @@
           ]
         }
       ],
-      "upcomingPromotionalOffers": []
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 50,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-09-13T23:59:00.000Z",
+              "startDate": "2026-08-30T01:00:00.000Z"
+            }
+          ]
+        }
+      ]
     },
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
