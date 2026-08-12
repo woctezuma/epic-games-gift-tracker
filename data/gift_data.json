@@ -994,6 +994,152 @@
     "catalogNs": {
       "mappings": [
         {
+          "pageSlug": "cardpocalypse",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Versus Evil"
+      },
+      {
+        "key": "developerName",
+        "value": "Gambrinous"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "cardpocalypse/home"
+      }
+    ],
+    "description": "10-year old Jess accidentally gets everybody's favorite collectible card game banned in Dudsdale Elementary - even worse, it\u2019s her first day! But when troubles arise and mutants from the game start to come to life, and it\u2019s up to Jess and her friends to stop them. Become a Meg...",
+    "effectiveDate": "2019-09-13T06:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2026-08-12T16:10:22.829075+00:00",
+    "id": "b467b7d3570e44c0b84e59475f4a5636",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "820c7dbae0954470a8d28aa1c80eef03",
+        "namespace": "2bfd5ca43ef443739ada168e017e1b78"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
+      }
+    ],
+    "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+    "offerMappings": [
+      {
+        "pageSlug": "cardpocalypse",
+        "pageType": "productHome"
+      }
+    ],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 2499,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
+          "originalPrice": "$24.99"
+        },
+        "originalPrice": 2499,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "cardpocalypse/home",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-08-27T15:00:00.000Z",
+              "startDate": "2026-08-20T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-u6n5zct3hl838grbqva2ahvlu5muh8",
+      "name": "Gambrinous"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1367"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1181"
+      },
+      {
+        "id": "1263"
+      }
+    ],
+    "title": "Cardpocalypse Standard Edition",
+    "url": null,
+    "urlSlug": "cardpocalypsegeneralaudience",
+    "viewableDate": null
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
           "pageSlug": "ghostrunner-2",
           "pageType": "productHome"
         }
