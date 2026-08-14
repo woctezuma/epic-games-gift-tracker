@@ -1081,7 +1081,12 @@
   },
   {
     "catalogNs": {
-      "mappings": null
+      "mappings": [
+        {
+          "pageSlug": "lisa-the-definitive-edition",
+          "pageType": "productHome"
+        }
+      ]
     },
     "categories": [
       {
@@ -1128,16 +1133,21 @@
         "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
       },
       {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5"
-      },
-      {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae"
+      },
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg"
       }
     ],
     "namespace": "ca3a9d16d131478c97fd56c138a6511a",
-    "offerMappings": null,
+    "offerMappings": [
+      {
+        "pageSlug": "lisa-the-definitive-edition",
+        "pageType": "productHome"
+      }
+    ],
     "offerType": "BUNDLE",
     "price": {
       "lineOffers": [
