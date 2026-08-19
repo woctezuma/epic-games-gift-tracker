@@ -1143,6 +1143,10 @@
     ],
     "customAttributes": [
       {
+        "key": "isNewLegacyBundleOffer",
+        "value": null
+      },
+      {
         "key": "com.epicgames.app.productSlug",
         "value": "lisa-the-definitive-edition"
       }
