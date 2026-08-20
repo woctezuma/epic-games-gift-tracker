@@ -1958,6 +1958,14 @@
           "promotionalOffers": [
             {
               "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-09-03T15:00:00.000Z",
+              "startDate": "2026-08-27T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
                 "discountPercentage": 25,
                 "discountType": "PERCENTAGE"
               },
