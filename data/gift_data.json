@@ -727,6 +727,10 @@
         "value": "Versus Evil"
       },
       {
+        "key": "isManuallySetPCReleaseDate",
+        "value": "false"
+      },
+      {
         "key": "developerName",
         "value": "Gambrinous"
       },
@@ -753,10 +757,6 @@
     ],
     "keyImages": [
       {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df"
-      },
-      {
         "type": "OfferImageTall",
         "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
       },
@@ -767,6 +767,10 @@
       {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
+      },
+      {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video.qs://2a1fd497-83f6-4d3b-adeb-338045086406?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fb2209fe4081f490794ae55680b556cfc%2Fcardpocalypse-video-h897t.jpg"
       }
     ],
     "namespace": "2bfd5ca43ef443739ada168e017e1b78",
