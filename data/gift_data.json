@@ -1073,7 +1073,7 @@
     "customAttributes": [
       {
         "key": "isNewLegacyBundleOffer",
-        "value": null
+        "value": "true"
       },
       {
         "key": "com.epicgames.app.productSlug",
