@@ -756,6 +756,10 @@
         "url": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-15n1j.jpg"
       },
       {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video.qs://d1b2ed77-c37b-4118-bf9d-deda8a5de4da?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F974c8a587d714d8d9e0c3b0fefe61a35%2Fastral-ascent-video-1xga9.png"
+      },
+      {
         "type": "featuredMedia",
         "url": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-wdgyc.png"
       },
@@ -1720,7 +1724,28 @@
           ]
         }
       ],
-      "upcomingPromotionalOffers": []
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 35,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-11-02T16:00:00.000Z",
+              "startDate": "2026-10-19T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 35,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2027-01-07T16:00:00.000Z",
+              "startDate": "2026-12-10T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
     },
     "seller": {
       "id": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
