@@ -1177,6 +1177,22 @@
               },
               "endDate": "2026-10-02T05:59:00.000Z",
               "startDate": "2026-09-17T15:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 60,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-11-10T06:59:00.000Z",
+              "startDate": "2026-11-01T06:00:00.000Z"
+            },
+            {
+              "discountSetting": {
+                "discountPercentage": 55,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2027-01-07T16:00:00.000Z",
+              "startDate": "2026-12-10T16:00:00.000Z"
             }
           ]
         }
