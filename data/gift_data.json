@@ -1334,15 +1334,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-09-13T23:59:00.000Z",
-              "id": "6cbdf9d8974b4cc1b75819e545536968"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1350,12 +1342,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 200,
-        "discountPrice": 199,
+        "discount": 0,
+        "discountPrice": 399,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$1.99",
-          "intermediatePrice": "$1.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$3.99"
         },
         "originalPrice": 399,
@@ -1363,23 +1355,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 50,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-09-13T23:59:00.000Z",
-              "startDate": "2026-08-30T01:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
       "name": "Another Indie Studio Limited"
