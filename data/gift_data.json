@@ -1211,15 +1211,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-09-24T17:00:00.000Z",
-              "id": "558dd060234f46c2983cbdcb6996c7e2"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1227,12 +1219,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 3200,
-        "discountPrice": 799,
+        "discount": 0,
+        "discountPrice": 3999,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$7.99",
-          "intermediatePrice": "$7.99",
+          "discountPrice": "$39.99",
+          "intermediatePrice": "$39.99",
           "originalPrice": "$39.99"
         },
         "originalPrice": 3999,
@@ -1240,23 +1232,7 @@
       }
     },
     "productSlug": "ghostrunner-2",
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 20,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-09-24T17:00:00.000Z",
-              "startDate": "2026-09-10T17:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
       "name": "505 Games"
