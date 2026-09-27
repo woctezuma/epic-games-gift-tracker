@@ -68,6 +68,10 @@
       {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-z3ev6.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
       }
     ],
     "namespace": "247d4d4b4e424afd9b474334fe450a43",
@@ -232,6 +236,10 @@
       {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1ca62.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1vfgr.png"
       }
     ],
     "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -595,6 +603,10 @@
       {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/download-astrea-six-sided-oracles-offer-av5rc.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png"
       }
     ],
     "namespace": "a940fa38f001486a9884640924119576",
@@ -796,6 +808,10 @@
       {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1v92y.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
       }
     ],
     "namespace": "35eda4ff87f94a7491dc28175b8f3b4f",
