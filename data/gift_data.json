@@ -1257,7 +1257,20 @@
     "productSlug": "ghostrunner-2",
     "promotions": {
       "promotionalOffers": [],
-      "upcomingPromotionalOffers": []
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2027-01-07T23:59:00.000Z",
+              "startDate": "2026-12-10T17:00:00.000Z"
+            }
+          ]
+        }
+      ]
     },
     "seller": {
       "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
