@@ -70,8 +70,32 @@
         "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-z3ev6.png"
       },
       {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video://a974aedb-01b6-40de-8d34-30eff0d0cd18?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F1ff2f74ba0ef4019b6905d8abe268819%2Fcastlevania-anniversary-collection-video-c696b.jpg"
+      },
+      {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-1g4u6.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-1545g.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-gd6a4.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-1lizj.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-1g64q.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-uu1ec.jpg"
       }
     ],
     "namespace": "247d4d4b4e424afd9b474334fe450a43",
@@ -255,7 +279,75 @@
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1vfgr.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1hrvu.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-176e4.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1ikzp.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-4h58k.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1eoah.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-10156.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1dgkq.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-14ltz.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-mfvo1.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-ka93h.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-rst9t.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-ci88w.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-12saz.png"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1ctnb.jpg"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1lxr1.jpg"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-905uk.jpg"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-v44y8.jpg"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-5d3tw.jpg"
       }
     ],
     "namespace": "23499f64e5304139b514c3e674c5c0d6",
@@ -414,7 +506,35 @@
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-800eg.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-16x2g.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-r1qrk.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-9fnfu.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-8fytu.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-6rvxq.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vgq6.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-ge9mi.jpg"
       }
     ],
     "namespace": "35eda4ff87f94a7491dc28175b8f3b4f",
@@ -2281,10 +2401,6 @@
     ],
     "keyImages": [
       {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825"
-      },
-      {
         "type": "OfferImageWide",
         "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825"
       },
@@ -2295,6 +2411,42 @@
       {
         "type": "Thumbnail",
         "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S2_1200x1600-9793ee024c43026c5c2b1612c7a487d0_1200x1600-9793ee024c43026c5c2b1612c7a487d0"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-s1-2560x1440-c2aa6090cc5c.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-00-1920x1080-fc2a5b287c84.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-01-1920x1080-56ff1399f948.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-02-1920x1080-c39676d12302.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-03-1920x1080-6168fa1d39e4.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-04-1920x1080-3f6cc713d9ef.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-05-1920x1080-777ce4dc21b8.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-06-1920x1080-ac2a9f1f9477.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-themsfightinherds-mane6inc-g1a-07-1920x1080-51c9814ca987.jpg"
       }
     ],
     "namespace": "a567c32599bf4d4fb609e424f3691b39",
