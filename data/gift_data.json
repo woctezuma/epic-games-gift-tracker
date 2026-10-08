@@ -604,7 +604,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "buried-stars-d7c88c",
+          "pageSlug": "bad-cheese-4256d9",
           "pageType": "productHome"
         }
       ]
@@ -614,13 +614,13 @@
         "path": "freegames"
       },
       {
-        "path": "games"
+        "path": "games/edition/base"
       },
       {
         "path": "games/edition"
       },
       {
-        "path": "games/edition/base"
+        "path": "games"
       }
     ],
     "customAttributes": [
@@ -645,80 +645,68 @@
         "value": "false"
       }
     ],
-    "description": "A mystery adventure set at the collapse site of a live survival audition show.\nTrapped contestants communicate with each other\u2014and the outside world through social media\u2014as they wait for rescue. But trust begins to crack, and survival becomes far more complicated.",
-    "effectiveDate": "2026-08-26T02:00:00.000Z",
+    "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on your best behavior and KEEP DADDY HAPPY.",
+    "effectiveDate": "2026-01-09T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2026-09-24T15:42:56.119765+00:00",
-    "id": "af4c34934afe4db0870b8a1d82dceb94",
+    "firstSeenDate": "2026-10-08T16:48:24.906694+00:00",
+    "id": "6a846880836044a2adad614ac771f487",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "f13916b569584a1b901dad7fa3931f7d",
-        "namespace": "9bd512d68e3143909842932ac45a4182"
+        "id": "eb3067ece4bd4ff78950735eee8d2b53",
+        "namespace": "a0c80bf673a548bc97b4bb25abfaf2b4"
       }
     ],
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png"
       },
       {
         "type": "heroCarouselVideo",
-        "url": "com.epicgames.video.qs://f5941d29-59a8-478d-b323-1fc58cffefff?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe2dc55c2709641a18fc37ef7ce32cfdd%2Fburied-stars-video-89tbz.png"
-      },
-      {
-        "type": "heroCarouselVideo",
-        "url": "com.epicgames.video.qs://f5f48e9c-41d1-4b94-a7b2-9cfb3f38f919?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe2dc55c2709641a18fc37ef7ce32cfdd%2Fburied-stars-video-1ml61.png"
+        "url": "com.epicgames.video.qs://9e34c106-5e5c-40aa-a8a9-578063f6588c?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6cbb0e3805c4436bafd028cafff48307%2Fbad-cheese-video-n7zxq.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-xcylq.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-1m5cj.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-cj6dv.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-10bl8.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-r44z6.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-174f6.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-38d59.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-10z3i.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-9l96o.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-13ysi.jpg"
       },
       {
         "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1fux8.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-1ams6.jpg"
       },
       {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-pknw1.jpg"
-      },
-      {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-19j45.jpg"
-      },
-      {
-        "type": "GalleryImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-a7f5t.jpg"
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-1wpsw.jpg"
       }
     ],
-    "namespace": "9bd512d68e3143909842932ac45a4182",
+    "namespace": "a0c80bf673a548bc97b4bb25abfaf2b4",
     "offerMappings": [
       {
-        "pageSlug": "buried-stars-d7c88c",
+        "pageSlug": "bad-cheese-4256d9",
         "pageType": "productHome"
       }
     ],
@@ -726,15 +714,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-10-08T15:00:00.000Z",
-              "id": "2144c65e8f94437f889ee8dfc7b9e0aa"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -742,21 +722,22 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 3999,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 1299,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$39.99"
+          "discountPrice": "$12.99",
+          "intermediatePrice": "$12.99",
+          "originalPrice": "$12.99"
         },
-        "originalPrice": 3999,
+        "originalPrice": 1299,
         "voucherDiscount": 0
       }
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -764,17 +745,218 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2026-10-08T15:00:00.000Z",
-              "startDate": "2026-10-01T15:00:00.000Z"
+              "endDate": "2026-10-22T15:00:00.000Z",
+              "startDate": "2026-10-15T15:00:00.000Z"
             }
           ]
         }
-      ],
-      "upcomingPromotionalOffers": []
+      ]
     },
     "seller": {
-      "id": "o-acvxzssc5z7uj7xaqtv5jzszmwhab4",
-      "name": "LINE Games Corporation"
+      "id": "o-gnr4gznfpfjubhbw6jdxmjxp8jz86q",
+      "name": "FEARDEMIC sp. z o.o."
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "1218"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "1117"
+      },
+      {
+        "id": "9549"
+      },
+      {
+        "id": "1294"
+      }
+    ],
+    "title": "Bad Cheese",
+    "url": null,
+    "urlSlug": "ae5d8fc5541f42eea105f64121dba382",
+    "viewableDate": "2026-01-09T16:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "agent-a-a-puzzle-in-disguise-42fe5f",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "autoGeneratedPrice",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
+        "key": "isPromotionalContentUsed",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetPCReleaseDate",
+        "value": "true"
+      },
+      {
+        "key": "isBlockchainUsed",
+        "value": "false"
+      }
+    ],
+    "description": "A suave secret agent adventure game. Your mission (should you choose to accept) is to infiltrate enemy spy Ruby La Rouge\u2019s secret hideaway and put a stop to her evil plans!",
+    "effectiveDate": "2026-04-28T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2026-10-08T16:48:24.906694+00:00",
+    "id": "db1202a30c5541dd99cdf54c918a9348",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "e3f60d638d9a4c66840c9eaa3924b1c2",
+        "namespace": "45f125178d8c4bc18e1827a307bcc5c0"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
+      },
+      {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video.qs://8895d5d6-21f4-43b6-a4f2-9458f261246d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F45db4fbe68fe43f4b025dec2014d42e7%2Fagent-a-a-puzzle-in-disguise-video-ox91q.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-eyufc.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-16obi.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1q098.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-jdvuj.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-qvbp3.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-ol099.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-rxvx6.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-up28r.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-tdzld.png"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-7cjkl.jpg"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-jxh9f.jpg"
+      },
+      {
+        "type": "GalleryImage",
+        "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1bzvx.jpg"
+      }
+    ],
+    "namespace": "45f125178d8c4bc18e1827a307bcc5c0",
+    "offerMappings": [
+      {
+        "pageSlug": "agent-a-a-puzzle-in-disguise-42fe5f",
+        "pageType": "productHome"
+      }
+    ],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 1999,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
+          "originalPrice": "$19.99"
+        },
+        "originalPrice": 1999,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-10-22T15:00:00.000Z",
+              "startDate": "2026-10-15T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-pc4ubv4cz3zqmbu63wfgl4akadwkde",
+      "name": "Yak & Co"
     },
     "status": "ACTIVE",
     "tags": [
@@ -782,7 +964,7 @@
         "id": "1298"
       },
       {
-        "id": "1395"
+        "id": "21894"
       },
       {
         "id": "19847"
@@ -798,12 +980,18 @@
       },
       {
         "id": "9549"
+      },
+      {
+        "id": "1263"
+      },
+      {
+        "id": "10719"
       }
     ],
-    "title": "BURIED STARS",
+    "title": "Agent A: A puzzle in disguise",
     "url": null,
-    "urlSlug": "buried-stars",
-    "viewableDate": "2026-08-25T02:02:44.000Z"
+    "urlSlug": "agent-a-a-puzzle-in-disguise",
+    "viewableDate": "2026-04-28T17:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -927,7 +1115,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-10-15T15:00:00.000Z",
+              "id": "5f6ccbf6dff549b7872f950c443a838f"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -935,12 +1131,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1699,
+        "discount": 1699,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$16.99",
-          "intermediatePrice": "$16.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$16.99"
         },
         "originalPrice": 1699,
@@ -949,8 +1145,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -963,7 +1158,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-m7c9hge3j8w7xxnf3bf49tzua88t8a",
@@ -1130,7 +1326,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-10-15T15:00:00.000Z",
+              "id": "804611a6347e48398b1096ecc862a534"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1138,12 +1342,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1499,
+        "discount": 1499,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$14.99"
         },
         "originalPrice": 1499,
@@ -1152,8 +1356,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1166,7 +1369,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-e4mgnmnmw3nv24cep4kazccjgg8d7p",
@@ -2132,204 +2336,6 @@
     "url": null,
     "urlSlug": "monument-valley-02",
     "viewableDate": "2025-08-28T15:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "system-shock-2-25th-anniversary-remaster-cb94d9",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games/edition/base"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "autoGeneratedPrice",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetViewableDate",
-        "value": "true"
-      },
-      {
-        "key": "isPromotionalContentUsed",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetPCReleaseDate",
-        "value": "false"
-      },
-      {
-        "key": "isBlockchainUsed",
-        "value": "false"
-      }
-    ],
-    "description": "System Shock\u00ae 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corridors of the Von Braun. Your training has prepared you for this.",
-    "effectiveDate": "2025-06-26T12:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2026-09-24T15:42:56.119765+00:00",
-    "id": "7ae00c3e89174012b175cc73b4737723",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "f90d5571c29740758ecc410b3d18f9a4",
-        "namespace": "a90f2381d7aa48c09b4080515a9541cd"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-15vqr.jpg"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-15vqr.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1cbhi.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-x35r2.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-cui8w.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-xs1u9.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-icq2r.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1x5fm.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-yzlta.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-gacl6.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1x67b.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-v21p8.jpg"
-      }
-    ],
-    "namespace": "a90f2381d7aa48c09b4080515a9541cd",
-    "offerMappings": [
-      {
-        "pageSlug": "system-shock-2-25th-anniversary-remaster-cb94d9",
-        "pageType": "productHome"
-      }
-    ],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-10-08T15:00:00.000Z",
-              "id": "fa59829e47b447db86131fb2d713cffd"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 2999,
-        "discountPrice": 0,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$29.99"
-        },
-        "originalPrice": 2999,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-10-08T15:00:00.000Z",
-              "startDate": "2026-10-01T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-bhpk86rgthezed539g3hb5avacecqt",
-      "name": "Atari"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1218"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "1210"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1294"
-      }
-    ],
-    "title": "System Shock 2: 25th Anniversary Remaster",
-    "url": null,
-    "urlSlug": "system-shock-2-25th-anniversary-remaster",
-    "viewableDate": "2025-06-26T12:00:00.000Z"
   },
   {
     "catalogNs": {
