@@ -569,7 +569,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-11-02T16:00:00.000Z",
+              "startDate": "2026-10-19T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
       "name": "Secret Mode Limited"
