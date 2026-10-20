@@ -1509,7 +1509,7 @@
       }
     ],
     "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It\u2019s a murder mystery with a twist \u2013 because you decide what ultimately happens.",
-    "effectiveDate": "2099-01-01T00:00:00.000Z",
+    "effectiveDate": "2026-10-22T15:00:00.000Z",
     "expiryDate": null,
     "firstSeenDate": "2026-10-15T15:30:00.728386+00:00",
     "id": "06190191cede42afb633fe89ef08c27e",
@@ -1559,7 +1559,7 @@
       },
       {
         "type": "OgImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-15b4d.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1d844.jpg"
       }
     ],
     "namespace": "c7e46cce751b40b6937e878abd0fc531",
