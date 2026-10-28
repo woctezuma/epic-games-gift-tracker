@@ -459,13 +459,13 @@
         "path": "freegames"
       },
       {
-        "path": "games/edition/base"
+        "path": "games"
       },
       {
         "path": "games/edition"
       },
       {
-        "path": "games"
+        "path": "games/edition/base"
       }
     ],
     "customAttributes": [
@@ -505,83 +505,15 @@
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-14x61.jpg"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1cyza.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-4dco7.jpg"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1cyza.png"
-      },
-      {
-        "type": "heroCarouselVideo",
-        "url": "com.epicgames.video://f68bc14a-bfca-4985-ba22-ff963c5a0fa2?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F43d96f4437e34c87b7eff08831d1b1de%2Fsker-ritual-video-1wht4.png"
-      },
-      {
-        "type": "heroCarouselVideo",
-        "url": "com.epicgames.video://6575152d-12bd-45e6-ab31-055e482c8d61?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F43d96f4437e34c87b7eff08831d1b1de%2Fsker-ritual-video-1uden.jpg"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-xo5bt.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-175hr.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-todoy.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1kqqk.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-cgqsm.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-n3to0.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-rja4s.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1ohfe.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-dj1yh.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-3574j.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-5sq20.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-84czd.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-q7tej.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-5xzia.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-19kp1.png"
+        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-4dco7.jpg"
       }
     ],
     "namespace": "156c17659ff0468bb533eba104a1f19f",
