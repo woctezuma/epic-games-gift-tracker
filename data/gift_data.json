@@ -449,7 +449,7 @@
     "catalogNs": {
       "mappings": [
         {
-          "pageSlug": "sker-ritual-aac702",
+          "pageSlug": "flotsam-266287",
           "pageType": "productHome"
         }
       ]
@@ -490,36 +490,96 @@
         "value": "false"
       }
     ],
-    "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
-    "effectiveDate": "2024-07-18T17:00:00.000Z",
+    "description": "The floating garbage town survival game! Scavenge what precious garbage you can from the ocean's surface and grow your city while doing your best to survive in this colorful post-apocalyptic world.",
+    "effectiveDate": "2026-11-05T16:00:00.000Z",
     "expiryDate": null,
-    "firstSeenDate": "2026-10-15T15:30:00.728386+00:00",
-    "id": "6aab3ddef4f84fbc9dd81c60f9d8549c",
+    "firstSeenDate": "2026-10-29T17:01:25.813321+00:00",
+    "id": "3be0a0d8479946d78f60d90c9442a0b4",
     "isCodeRedemptionOnly": false,
     "items": [
       {
-        "id": "5b7a6fec5ee642728ff4e89d320a8b29",
-        "namespace": "156c17659ff0468bb533eba104a1f19f"
+        "id": "697883143d244f6c82e08782093f3a9e",
+        "namespace": "27e33143fc9e4de8bbf76782292933d4"
       }
     ],
     "keyImages": [
       {
         "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-14x61.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg"
       },
       {
         "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-4dco7.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-12rh8.jpg"
       },
       {
         "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-4dco7.jpg"
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-12rh8.jpg"
+      },
+      {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video.qs://7cfe3dd6-e46e-40d8-8381-b217796691fb?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F5c36b876e80d4285b9993947efeeaf2b%2Fflotsam-video-hiyvt.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1x7gf.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-19ld2.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-h2n65.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-2158h.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-3fxga.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-og552.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-ce4l3.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1by43.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1xpu9.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-13jeo.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1el5c.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1pb84.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1o1mv.png"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-orxc4.png"
       }
     ],
-    "namespace": "156c17659ff0468bb533eba104a1f19f",
+    "namespace": "27e33143fc9e4de8bbf76782292933d4",
     "offerMappings": [
       {
-        "pageSlug": "sker-ritual-aac702",
+        "pageSlug": "flotsam-266287",
         "pageType": "productHome"
       }
     ],
@@ -527,15 +587,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-10-29T15:00:00.000Z",
-              "id": "bdcd4444ca604e5f86df045e7ae04a5d"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -543,12 +595,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 2499,
-        "discountPrice": 0,
+        "discount": 0,
+        "discountPrice": 2499,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -557,7 +609,8 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -565,49 +618,48 @@
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2026-10-29T15:00:00.000Z",
-              "startDate": "2026-10-22T15:00:00.000Z"
+              "endDate": "2026-11-12T16:00:00.000Z",
+              "startDate": "2026-11-05T16:00:00.000Z"
             }
           ]
         }
-      ],
-      "upcomingPromotionalOffers": []
+      ]
     },
     "seller": {
-      "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
-      "name": "Skybound Game Studios, Inc."
+      "id": "o-dwuld3yb6hujsr2eddx6flmag4yn8r",
+      "name": "Pajama Llama Games"
     },
     "status": "ACTIVE",
     "tags": [
       {
-        "id": "1216"
+        "id": "1381"
       },
       {
-        "id": "29088"
-      },
-      {
-        "id": "1218"
-      },
-      {
-        "id": "21109"
+        "id": "21894"
       },
       {
         "id": "19847"
       },
       {
-        "id": "1210"
+        "id": "1080"
+      },
+      {
+        "id": "1146"
       },
       {
         "id": "1370"
       },
       {
         "id": "9547"
+      },
+      {
+        "id": "9549"
       }
     ],
-    "title": "Sker Ritual",
+    "title": "Flotsam",
     "url": null,
-    "urlSlug": "8dbc8d70481d4c0b8412d3aec76a35a1",
-    "viewableDate": "2023-10-01T07:00:00.000Z"
+    "urlSlug": "7ca01ab906ad4eff92d4ed1efa5fbfcb",
+    "viewableDate": "2026-10-29T15:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -801,6 +853,213 @@
     "url": null,
     "urlSlug": "a9152a8924cc4e438f0e61106ec02f7d",
     "viewableDate": "2023-10-12T15:00:00.000Z"
+  },
+  {
+    "catalogNs": {
+      "mappings": [
+        {
+          "pageSlug": "idle-champions-of-the-forgotten-realms",
+          "pageType": "productHome"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "customAttributes": [
+      {
+        "key": "autoGeneratedPrice",
+        "value": "false"
+      },
+      {
+        "key": "isManuallySetViewableDate",
+        "value": "true"
+      },
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "isPromotionalContentUsed",
+        "value": "false"
+      },
+      {
+        "key": "publisherName",
+        "value": "Codename Entertainment"
+      },
+      {
+        "key": "developerName",
+        "value": "Codename Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "idle-champions-of-the-forgotten-realms"
+      },
+      {
+        "key": "isBlockchainUsed",
+        "value": "false"
+      }
+    ],
+    "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+    "effectiveDate": "2021-02-16T17:00:00.000Z",
+    "expiryDate": null,
+    "firstSeenDate": "2026-10-29T17:01:25.813321+00:00",
+    "id": "a9748abde1c94b66aae5250bb9fc5503",
+    "isCodeRedemptionOnly": false,
+    "items": [
+      {
+        "id": "9a4e1a1eb6b140f6a9e5e4dcb5a2bf55",
+        "namespace": "7e508f543b05465abe3a935960eb70ac"
+      }
+    ],
+    "keyImages": [
+      {
+        "type": "OfferImageWide",
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xbn9.jpg"
+      },
+      {
+        "type": "OfferImageTall",
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1vyl7.jpg"
+      },
+      {
+        "type": "Thumbnail",
+        "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1vyl7.jpg"
+      },
+      {
+        "type": "heroCarouselVideo",
+        "url": "com.epicgames.video://a34261b6-491d-409a-ab84-c37fb78ce8c2?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa53f91e55c6840018cb5de0b204f1ad9%2Fidle-champions-of-the-forgotten-realms-video-fbcrd.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-01-1920x1080-24b28d80662e.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-02-1920x1080-bccd6a9e30ef.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-03-1920x1080-f75380153815.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-04-1920x1080-dd8d90ab7a3e.jpg"
+      },
+      {
+        "type": "featuredMedia",
+        "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-05-1920x1080-0ce66a29f505.jpg"
+      }
+    ],
+    "namespace": "7e508f543b05465abe3a935960eb70ac",
+    "offerMappings": [
+      {
+        "pageSlug": "idle-champions-of-the-forgotten-realms",
+        "pageType": "productHome"
+      }
+    ],
+    "offerType": "BASE_GAME",
+    "price": {
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ],
+      "totalPrice": {
+        "currencyCode": "USD",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "discount": 0,
+        "discountPrice": 0,
+        "dualPrice": null,
+        "fmtPrice": {
+          "discountPrice": "0",
+          "intermediatePrice": "0",
+          "originalPrice": "0"
+        },
+        "originalPrice": 0,
+        "voucherDiscount": 0
+      }
+    },
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 0,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-11-12T16:00:00.000Z",
+              "startDate": "2026-11-05T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "seller": {
+      "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+      "name": "Codename Entertainment"
+    },
+    "status": "ACTIVE",
+    "tags": [
+      {
+        "id": "21136"
+      },
+      {
+        "id": "21122"
+      },
+      {
+        "id": "21138"
+      },
+      {
+        "id": "21139"
+      },
+      {
+        "id": "1188"
+      },
+      {
+        "id": "1141"
+      },
+      {
+        "id": "19847"
+      },
+      {
+        "id": "1370"
+      },
+      {
+        "id": "1115"
+      },
+      {
+        "id": "9547"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
+      }
+    ],
+    "title": "Idle Champions of the Forgotten Realms",
+    "url": null,
+    "urlSlug": "banegeneralaudience",
+    "viewableDate": "2021-02-16T17:00:00.000Z"
   },
   {
     "catalogNs": {
@@ -1120,8 +1379,8 @@
               "discountSetting": {
                 "discountType": "PERCENTAGE"
               },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "id": "76374edba129489c826f3baed865e936"
+              "endDate": "2026-11-05T16:00:00.000Z",
+              "id": "d069d1bf9bae4af990a677ec9f6210b9"
             }
           ]
         }
@@ -1131,12 +1390,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 750,
-        "discountPrice": 1749,
+        "discount": 2499,
+        "discountPrice": 0,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$17.49",
-          "intermediatePrice": "$17.49",
+          "discountPrice": "0",
+          "intermediatePrice": "0",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -1155,13 +1414,7 @@
               },
               "endDate": "2026-11-02T16:00:00.000Z",
               "startDate": "2026-10-19T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": [
-        {
-          "promotionalOffers": [
+            },
             {
               "discountSetting": {
                 "discountPercentage": 0,
@@ -1169,7 +1422,13 @@
               },
               "endDate": "2026-11-05T16:00:00.000Z",
               "startDate": "2026-10-29T15:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 70,
@@ -1229,195 +1488,6 @@
     "url": null,
     "urlSlug": "f2dae10b3c45425ba1e91b4604262283",
     "viewableDate": "2024-11-14T17:00:00.000Z"
-  },
-  {
-    "catalogNs": {
-      "mappings": [
-        {
-          "pageSlug": "home-19212a",
-          "pageType": "productHome"
-        }
-      ]
-    },
-    "categories": [
-      {
-        "path": "freegames"
-      },
-      {
-        "path": "games/edition/base"
-      },
-      {
-        "path": "games/edition"
-      },
-      {
-        "path": "games"
-      }
-    ],
-    "customAttributes": [
-      {
-        "key": "autoGeneratedPrice",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetViewableDate",
-        "value": "true"
-      },
-      {
-        "key": "isPromotionalContentUsed",
-        "value": "false"
-      },
-      {
-        "key": "isManuallySetPCReleaseDate",
-        "value": "true"
-      },
-      {
-        "key": "isBlockchainUsed",
-        "value": "false"
-      }
-    ],
-    "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It\u2019s a murder mystery with a twist \u2013 because you decide what ultimately happens.",
-    "effectiveDate": "2026-10-22T15:00:00.000Z",
-    "expiryDate": null,
-    "firstSeenDate": "2026-10-15T15:30:00.728386+00:00",
-    "id": "06190191cede42afb633fe89ef08c27e",
-    "isCodeRedemptionOnly": false,
-    "items": [
-      {
-        "id": "ec99d794ec774268a13385e4d39ccabd",
-        "namespace": "c7e46cce751b40b6937e878abd0fc531"
-      }
-    ],
-    "keyImages": [
-      {
-        "type": "OfferImageWide",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png"
-      },
-      {
-        "type": "OfferImageTall",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png"
-      },
-      {
-        "type": "Thumbnail",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-14ws1.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6c4.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-19rio.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1co8k.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-7mqvz.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-k574u.png"
-      },
-      {
-        "type": "featuredMedia",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1gdc1.png"
-      },
-      {
-        "type": "OgImage",
-        "url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1d844.jpg"
-      }
-    ],
-    "namespace": "c7e46cce751b40b6937e878abd0fc531",
-    "offerMappings": [
-      {
-        "pageSlug": "home-19212a",
-        "pageType": "productHome"
-      }
-    ],
-    "offerType": "BASE_GAME",
-    "price": {
-      "lineOffers": [
-        {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-10-29T15:00:00.000Z",
-              "id": "577ecd087e5e44e5b17653d0411ee1cc"
-            }
-          ]
-        }
-      ],
-      "totalPrice": {
-        "currencyCode": "USD",
-        "currencyInfo": {
-          "decimals": 2
-        },
-        "discount": 499,
-        "discountPrice": 0,
-        "dualPrice": null,
-        "fmtPrice": {
-          "discountPrice": "0",
-          "intermediatePrice": "0",
-          "originalPrice": "$4.99"
-        },
-        "originalPrice": 499,
-        "voucherDiscount": 0
-      }
-    },
-    "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 0,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-10-29T15:00:00.000Z",
-              "startDate": "2026-10-22T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
-    "seller": {
-      "id": "o-83e82fecwnr2s4jzm3gw3dd428lhnn",
-      "name": "BancyCo"
-    },
-    "status": "ACTIVE",
-    "tags": [
-      {
-        "id": "1218"
-      },
-      {
-        "id": "19847"
-      },
-      {
-        "id": "1370"
-      },
-      {
-        "id": "9547"
-      },
-      {
-        "id": "1117"
-      },
-      {
-        "id": "9549"
-      },
-      {
-        "id": "1263"
-      }
-    ],
-    "title": "Home - A Unique Horror Adventure",
-    "url": null,
-    "urlSlug": "ff70f2b02fd842f8961f7729af25cda9",
-    "viewableDate": "2026-10-14T18:25:38.000Z"
   },
   {
     "catalogNs": {
