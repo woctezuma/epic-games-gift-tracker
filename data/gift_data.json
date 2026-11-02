@@ -109,15 +109,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "id": "92f1801b3fa146cea6e9ae6c9dc4a772"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -125,12 +117,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1200,
-        "discountPrice": 799,
+        "discount": 0,
+        "discountPrice": 1999,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$7.99",
-          "intermediatePrice": "$7.99",
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -138,23 +130,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 40,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "startDate": "2026-10-19T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
       "name": "KONAMI"
@@ -169,9 +145,6 @@
       },
       {
         "id": "21122"
-      },
-      {
-        "id": "18051"
       },
       {
         "id": "19847"
@@ -775,15 +748,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "id": "d24c637d1a564142a6e9072e34bdd65c"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -791,12 +756,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1600,
-        "discountPrice": 399,
+        "discount": 0,
+        "discountPrice": 1999,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$3.99",
-          "intermediatePrice": "$3.99",
+          "discountPrice": "$19.99",
+          "intermediatePrice": "$19.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -804,23 +769,7 @@
       }
     },
     "productSlug": null,
-    "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 20,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "startDate": "2026-10-19T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
-      "upcomingPromotionalOffers": []
-    },
+    "promotions": null,
     "seller": {
       "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
       "name": "Secret Mode Limited"
@@ -829,9 +778,6 @@
     "tags": [
       {
         "id": "1298"
-      },
-      {
-        "id": "18051"
       },
       {
         "id": "19847"
@@ -1409,14 +1355,6 @@
           "promotionalOffers": [
             {
               "discountSetting": {
-                "discountPercentage": 70,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "startDate": "2026-10-19T15:00:00.000Z"
-            },
-            {
-              "discountSetting": {
                 "discountPercentage": 0,
                 "discountType": "PERCENTAGE"
               },
@@ -1452,9 +1390,6 @@
       },
       {
         "id": "1218"
-      },
-      {
-        "id": "18051"
       },
       {
         "id": "1367"
@@ -2358,15 +2293,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "id": "9dcf532fb51143aeb68f2238b3e672f8"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -2374,12 +2301,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 520,
-        "discountPrice": 279,
+        "discount": 0,
+        "discountPrice": 799,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$2.79",
-          "intermediatePrice": "$2.79",
+          "discountPrice": "$7.99",
+          "intermediatePrice": "$7.99",
           "originalPrice": "$7.99"
         },
         "originalPrice": 799,
@@ -2388,20 +2315,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 35,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-02T16:00:00.000Z",
-              "startDate": "2026-10-19T15:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
@@ -2428,9 +2342,6 @@
       },
       {
         "id": "1298"
-      },
-      {
-        "id": "18051"
       },
       {
         "id": "1370"
