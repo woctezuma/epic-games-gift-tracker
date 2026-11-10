@@ -804,6 +804,9 @@
         "id": "1381"
       },
       {
+        "id": "21141"
+      },
+      {
         "id": "21894"
       },
       {
@@ -823,6 +826,12 @@
       },
       {
         "id": "9549"
+      },
+      {
+        "id": "21149"
+      },
+      {
+        "id": "21119"
       }
     ],
     "title": "Flotsam",
@@ -1769,15 +1778,7 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": [
-            {
-              "discountSetting": {
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-10T06:59:00.000Z",
-              "id": "b777a3d13b4b47f49d477d4961b48adc"
-            }
-          ]
+          "appliedRules": []
         }
       ],
       "totalPrice": {
@@ -1785,12 +1786,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 1000,
-        "discountPrice": 1499,
+        "discount": 0,
+        "discountPrice": 2499,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$14.99",
-          "intermediatePrice": "$14.99",
+          "discountPrice": "$24.99",
+          "intermediatePrice": "$24.99",
           "originalPrice": "$24.99"
         },
         "originalPrice": 2499,
@@ -1799,20 +1800,7 @@
     },
     "productSlug": "lisa-the-definitive-edition",
     "promotions": {
-      "promotionalOffers": [
-        {
-          "promotionalOffers": [
-            {
-              "discountSetting": {
-                "discountPercentage": 60,
-                "discountType": "PERCENTAGE"
-              },
-              "endDate": "2026-11-10T06:59:00.000Z",
-              "startDate": "2026-11-01T06:00:00.000Z"
-            }
-          ]
-        }
-      ],
+      "promotionalOffers": [],
       "upcomingPromotionalOffers": [
         {
           "promotionalOffers": [
