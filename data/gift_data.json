@@ -2185,7 +2185,23 @@
       }
     },
     "productSlug": null,
-    "promotions": null,
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "discountSetting": {
+                "discountPercentage": 20,
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-12-01T15:00:00.000Z",
+              "startDate": "2026-11-27T16:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     "seller": {
       "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
       "name": "Devolver Digital, Inc."
