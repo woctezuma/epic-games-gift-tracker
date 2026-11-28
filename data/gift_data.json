@@ -1013,7 +1013,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-12-01T15:00:00.000Z",
+              "id": "598cd09f54384bb0bb8af3d770f66707"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -1021,12 +1029,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 1999,
+        "discount": 1600,
+        "discountPrice": 399,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$19.99",
-          "intermediatePrice": "$19.99",
+          "discountPrice": "$3.99",
+          "intermediatePrice": "$3.99",
           "originalPrice": "$19.99"
         },
         "originalPrice": 1999,
@@ -1035,8 +1043,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -1046,7 +1053,13 @@
               },
               "endDate": "2026-12-01T15:00:00.000Z",
               "startDate": "2026-11-27T16:00:00.000Z"
-            },
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
             {
               "discountSetting": {
                 "discountPercentage": 20,
@@ -1067,6 +1080,9 @@
     "tags": [
       {
         "id": "1298"
+      },
+      {
+        "id": "39909"
       },
       {
         "id": "19847"
@@ -2210,7 +2226,15 @@
     "price": {
       "lineOffers": [
         {
-          "appliedRules": []
+          "appliedRules": [
+            {
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              },
+              "endDate": "2026-12-01T15:00:00.000Z",
+              "id": "a8a9c154b8a2479eba5a5d6b230adb26"
+            }
+          ]
         }
       ],
       "totalPrice": {
@@ -2218,12 +2242,12 @@
         "currencyInfo": {
           "decimals": 2
         },
-        "discount": 0,
-        "discountPrice": 999,
+        "discount": 800,
+        "discountPrice": 199,
         "dualPrice": null,
         "fmtPrice": {
-          "discountPrice": "$9.99",
-          "intermediatePrice": "$9.99",
+          "discountPrice": "$1.99",
+          "intermediatePrice": "$1.99",
           "originalPrice": "$9.99"
         },
         "originalPrice": 999,
@@ -2232,8 +2256,7 @@
     },
     "productSlug": null,
     "promotions": {
-      "promotionalOffers": [],
-      "upcomingPromotionalOffers": [
+      "promotionalOffers": [
         {
           "promotionalOffers": [
             {
@@ -2246,7 +2269,8 @@
             }
           ]
         }
-      ]
+      ],
+      "upcomingPromotionalOffers": []
     },
     "seller": {
       "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
@@ -2256,6 +2280,9 @@
     "tags": [
       {
         "id": "1216"
+      },
+      {
+        "id": "39909"
       },
       {
         "id": "1370"
